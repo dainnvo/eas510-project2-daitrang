@@ -1,0 +1,31 @@
+{
+  "python": "3.14.7",
+  "platform": "Windows-11-10.0.22621-SP0",
+  "sample_network_calls_denied": true,
+  "sample_matches_saved_metrics": true,
+  "metric_tolerance": 1e-05,
+  "sample_wall_seconds_including_imports": 7.344774599885568,
+  "peak_process_memory_mib": 114.09765625,
+  "full_raw_dataset_present": false,
+  "verification_context": "Fresh local Git clone, new virtual environment, only pinned runtime requirements installed",
+  "tested_commit": "73e3dc6547a8a00de4eaea93c60233cf50db99ac",
+  "commands": [
+    "python -m venv .venv",
+    "python -m pip install -r requirements.txt",
+    "python scripts/verify_sample.py",
+    "python -m unittest discover -s tests -v"
+  ],
+  "automated_tests_passed": 6,
+  "independent_prediction_row_recalculation": {
+    "sample": 12,
+    "full": 2722,
+    "metrics": [
+      "accuracy",
+      "macro_f1"
+    ],
+    "absolute_tolerance": 1e-12
+  },
+  "linux_verification": "pending; not performed",
+  "upstream_source_hashes_verified": true,
+  "source_snapshot_hashes_preserved_in_clone": true
+}

@@ -56,7 +56,7 @@ python main.py --full
 
 Only acquisition needs network access. It retrieves roughly 9 MB from the **official repository** at a pinned commit and verifies SHA-256 checksums. The full run is CPU-only and has no API cost. It uses 910 training / 195 validation / 195 test conversations and 12,382 / 2,722 / 2,589 eligible examples. Test predictions and test metrics are intentionally not computed; final test evaluation will be added after validation decisions are frozen.
 
-The observed full pipeline took about 6 seconds after library imports on this Windows host; a clean-sample timing and peak-memory measurement are saved in [results/verification.json](results/verification.json). Budget under 5 minutes and under 1 GB for this small CPU pipeline; this is a planning estimate, not a Linux/8 GB certification. Linux verification remains a completion task.
+The observed full pipeline took about 6 seconds after library imports on this Windows host. A fresh local clone with a new environment reproduced the sample in **7.34 seconds including imports**, with peak process memory **114.10 MiB**; measurements are saved in [results/verification.json](results/verification.json). Budget under 5 minutes and under 1 GB for this small CPU pipeline; this is a planning estimate, not a Linux/8 GB certification. Linux verification remains a completion task.
 
 ## Files and evidence
 
