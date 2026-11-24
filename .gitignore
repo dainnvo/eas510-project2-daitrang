@@ -12,3 +12,6 @@ data/processed/
 *.pt
 *.bin
 verification-*/
+
+# Keep interim assignment writeups outside the project repository.
+/interim_update.*
