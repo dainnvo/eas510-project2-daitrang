@@ -86,11 +86,6 @@ def main():
         for i, e in enumerate(val):
             writer.writerow([e["example_id"], e["conversation_id"], e["target_index"], e["label"],
                              *(p[i] for p in predictions.values())])
-    with (out / "comparison.csv").open("w", encoding="utf-8", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerow(["dataset", "split", "model", "n", "accuracy", "macro_f1", "weighted_f1"])
-        for name, m in metrics.items():
-            writer.writerow([mode, "validation", name, m["n_examples"], m["accuracy"], m["macro_f1"], m["weighted_f1"]])
     # Context-bearing derived data stays local and ignored, just like raw ESConv.
     processed = ROOT / "data/processed" / mode
     processed.mkdir(parents=True, exist_ok=True)

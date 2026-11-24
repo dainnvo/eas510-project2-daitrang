@@ -27,7 +27,7 @@
     95
   ],
   "thread_limit": 1,
-  "elapsed_seconds": 5.6679587999824435,
+  "elapsed_seconds": 5.809366200119257,
   "selection_rule": "largest validation macro F1; no test-based selection",
   "preliminary_validation_choice": "logistic_tfidf"
 }

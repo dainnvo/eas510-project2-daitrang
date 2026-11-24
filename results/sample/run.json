@@ -27,7 +27,7 @@
     15
   ],
   "thread_limit": 1,
-  "elapsed_seconds": 0.1756114000454545,
+  "elapsed_seconds": 0.0905738000292331,
   "selection_rule": "largest validation macro F1; no test-based selection",
   "preliminary_validation_choice": "majority"
 }

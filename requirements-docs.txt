@@ -1,5 +1,0 @@
-# Optional: only for regenerating/verifying the interim PDF.
-reportlab==5.1.0
-pillow==13.0.0
-charset-normalizer==3.5.3
-pypdf==7.1.1
