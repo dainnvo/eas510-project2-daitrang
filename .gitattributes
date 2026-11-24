@@ -1,0 +1,4 @@
+* text=auto eol=lf
+# Preserve exact upstream bytes for checksum verification on every platform.
+data/source/* -text
+*.pdf binary

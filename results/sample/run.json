@@ -1,6 +1,6 @@
 {
   "dataset": "sample",
-  "data_sha256": "be9250f425873c1c24e738861c825d8e811795be32a27778405aedeb15826097",
+  "data_sha256": "ecd562edd23e852cfc063bea6a7d9e0a034f8b21a37784eeead1b6654da46c4d",
   "source_commit": "f262d062ad74cb39b17ea476facc81568ddcba24",
   "python": "3.14.7",
   "platform": "Windows-11-10.0.22621-SP0",
@@ -27,7 +27,7 @@
     15
   ],
   "thread_limit": 1,
-  "elapsed_seconds": 0.10067049995996058,
+  "elapsed_seconds": 0.1756114000454545,
   "selection_rule": "largest validation macro F1; no test-based selection",
   "preliminary_validation_choice": "majority"
 }

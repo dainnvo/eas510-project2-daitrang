@@ -45,5 +45,5 @@ lines += ["", "## Preliminary validation recall", "", "Recall shows how often a 
 for label in config.LABELS:
     lines.append(f"| {label} | {metrics['majority']['per_class'][label]['recall']:.4f} | {metrics['logistic_tfidf']['per_class'][label]['recall']:.4f} |")
 lines += ["", "The bundled 80-excerpt greeting demo is separately summarized in `results/sample/dataset_summary.json`. Its target contents are deliberately blanked, and repeated short contexts are expected. Its metrics demonstrate execution only.", ""]
-(ROOT / "docs/DATASET_SUMMARY.md").write_text("\n".join(lines), encoding="utf-8")
+(ROOT / "docs/DATASET_SUMMARY.md").write_text("\n".join(lines), encoding="utf-8", newline="\n")
 print("Wrote docs/DATASET_SUMMARY.md")
