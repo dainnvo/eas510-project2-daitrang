@@ -2,6 +2,8 @@
 
 **Dai Trang Vo (daitrang), EAS 510 Project 2 - November 23, 2026**
 
+[GitHub repository](https://github.com/dainnvo/eas510-project2-daitrang)
+
 My project explores whether predicting a support strategy before generating a reply can help organize an emotional-support conversation. For this first checkpoint, I focused on preparing ESConv and comparing a majority-class baseline with Logistic Regression. The response generator, CBT materials, and chat interface are still planned work.
 
 The [one-page interim update](interim_update.pdf) describes my current progress and next steps. Its [editable version](interim_update.md) is also included. The [checkpoint report](report.md) explains the methods, results, limitations, and AI assistance.
@@ -66,4 +68,4 @@ The six tests check that target and future messages stay out of the input, the c
 
 ## Submission status
 
-This repository contains the work completed for the first checkpoint. It is still local, so the GitHub link has not been added yet. I plan to finish the remaining experiments, chatbot features, and final report before December 7.
+This repository contains the work completed for the first checkpoint. The [one-page PDF](interim_update.pdf) and [GitHub link](https://github.com/dainnvo/eas510-project2-daitrang) are the materials for this update. I plan to finish the remaining experiments, chatbot features, and final report before December 7.

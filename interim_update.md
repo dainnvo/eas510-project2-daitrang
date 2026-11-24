@@ -20,4 +20,6 @@ The classifier still misses most examples of four strategies, with recall below 
 
 During November 24–29, I plan to review validation errors, try Linear SVM or a small change to class weights or context length, and check Linux execution. During November 30–December 3, I aim to connect the classifier to a response generator and build a simple interface. The response comparison will use the same 30 fictional scenarios for strategy-guided and generic-prompt versions, with a rubric defined before scoring. During December 4–7, I will settle the model choices, evaluate the test set once, and finish the report and reproducibility checks. If the remaining scope becomes unrealistic, I will discuss any substantial change with the instructor.
 
-Repository: eas510-project2-daitrang (currently local; GitHub link not yet added). I used OpenAI Codex for help with implementation, experiments, checks, and writing. Sources: Liu et al. (ACL 2021), aclanthology.org/2021.acl-long.269/; github.com/thu-coai/Emotional-Support-Conversation.
+Repository: https://github.com/dainnvo/eas510-project2-daitrang
+
+I used OpenAI Codex for help with implementation, experiments, checks, and writing. Sources: Liu et al. (ACL 2021), aclanthology.org/2021.acl-long.269/; github.com/thu-coai/Emotional-Support-Conversation.

@@ -2,6 +2,8 @@
 
 **Dai Trang Vo - EAS 510 Project 2 - November 23, 2026**
 
+[Repository](https://github.com/dainnvo/eas510-project2-daitrang) | [One-page interim update](interim_update.pdf)
+
 This report describes my progress at the first checkpoint. I will expand it for the final submission.
 
 ## Question and data
