@@ -1,0 +1,81 @@
+{
+  "conversations": 80,
+  "messages": 160,
+  "conversation_field_counts": {
+    "conversation_id": 80,
+    "sample_excerpt": 80,
+    "dialog": 80
+  },
+  "message_field_counts": {
+    "speaker": 160,
+    "content": 160,
+    "annotation": 160
+  },
+  "annotation_field_counts": {
+    "strategy": 80
+  },
+  "speaker_counts": {
+    "seeker": 80,
+    "supporter": 80
+  },
+  "raw_supporter_strategy_counts": {
+    "Question": 47,
+    "Affirmation and Reassurance": 3,
+    "Others": 22,
+    "Restatement or Paraphrasing": 5,
+    "Information": 2,
+    "Reflection of feelings": 1
+  },
+  "problem_type_counts": {
+    "not included": 80
+  },
+  "empty_message_contents": 80,
+  "supporters_without_strategy": 0,
+  "exact_duplicate_dialogs_beyond_first": 53,
+  "messages_per_conversation": {
+    "min": 2,
+    "max": 2,
+    "mean": 2.0
+  },
+  "examples_after_cleaning": 80,
+  "excluded_supporter_targets": {},
+  "split_conversation_counts": {
+    "train": 56,
+    "validation": 12,
+    "test": 12
+  },
+  "split_example_counts": {
+    "train": 56,
+    "validation": 12,
+    "test": 12
+  },
+  "eligible_strategy_counts": {
+    "Question": 47,
+    "Affirmation and Reassurance": 3,
+    "Others": 22,
+    "Restatement or Paraphrasing": 5,
+    "Information": 2,
+    "Reflection of feelings": 1
+  },
+  "split_strategy_counts": {
+    "train": {
+      "Question": 33,
+      "Affirmation and Reassurance": 2,
+      "Others": 16,
+      "Restatement or Paraphrasing": 4,
+      "Information": 1
+    },
+    "validation": {
+      "Question": 9,
+      "Information": 1,
+      "Reflection of feelings": 1,
+      "Others": 1
+    },
+    "test": {
+      "Question": 5,
+      "Others": 5,
+      "Affirmation and Reassurance": 1,
+      "Restatement or Paraphrasing": 1
+    }
+  }
+}

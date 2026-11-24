@@ -1,0 +1,33 @@
+{
+  "dataset": "sample",
+  "data_sha256": "be9250f425873c1c24e738861c825d8e811795be32a27778405aedeb15826097",
+  "source_commit": "f262d062ad74cb39b17ea476facc81568ddcba24",
+  "python": "3.14.7",
+  "platform": "Windows-11-10.0.22621-SP0",
+  "dependencies": {
+    "numpy": "2.5.5",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "joblib": "1.6.0",
+    "threadpoolctl": "3.8.0"
+  },
+  "evaluation_split": "validation",
+  "audit": {
+    "conversation_overlap": 0,
+    "duplicate_full_transcript_overlap": 0,
+    "test_evaluated": false
+  },
+  "majority_label_fitted_on_train": "Question",
+  "tfidf_vocabulary_size": 21,
+  "train_matrix_shape": [
+    56,
+    21
+  ],
+  "logistic_iterations": [
+    15
+  ],
+  "thread_limit": 1,
+  "elapsed_seconds": 0.10067049995996058,
+  "selection_rule": "largest validation macro F1; no test-based selection",
+  "preliminary_validation_choice": "majority"
+}

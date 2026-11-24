@@ -1,0 +1,329 @@
+{
+  "dataset": "full",
+  "evaluation_split": "validation",
+  "test_status": "reserved; no predictions or metrics computed",
+  "models": {
+    "majority": {
+      "n_examples": 2722,
+      "accuracy": 0.19581190301249082,
+      "macro_f1": 0.04093701996927803,
+      "weighted_f1": 0.06412764627075736,
+      "per_class": {
+        "Question": {
+          "precision": 0.19581190301249082,
+          "recall": 1.0,
+          "f1-score": 0.32749615975422425,
+          "support": 533.0
+        },
+        "Restatement or Paraphrasing": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 153.0
+        },
+        "Reflection of feelings": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 236.0
+        },
+        "Self-disclosure": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 278.0
+        },
+        "Affirmation and Reassurance": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 425.0
+        },
+        "Providing Suggestions": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 438.0
+        },
+        "Information": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 177.0
+        },
+        "Others": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 482.0
+        },
+        "accuracy": 0.19581190301249082,
+        "macro avg": {
+          "precision": 0.024476487876561353,
+          "recall": 0.125,
+          "f1-score": 0.04093701996927803,
+          "support": 2722.0
+        },
+        "weighted avg": {
+          "precision": 0.038342301361373114,
+          "recall": 0.19581190301249082,
+          "f1-score": 0.06412764627075736,
+          "support": 2722.0
+        }
+      },
+      "confusion_matrix_labels": [
+        "Question",
+        "Restatement or Paraphrasing",
+        "Reflection of feelings",
+        "Self-disclosure",
+        "Affirmation and Reassurance",
+        "Providing Suggestions",
+        "Information",
+        "Others"
+      ],
+      "confusion_matrix": [
+        [
+          533,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          153,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          236,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          278,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          425,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          438,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          177,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          482,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "logistic_tfidf": {
+      "n_examples": 2722,
+      "accuracy": 0.30455547391623805,
+      "macro_f1": 0.19013419086033065,
+      "weighted_f1": 0.25685484877138987,
+      "per_class": {
+        "Question": {
+          "precision": 0.4015748031496063,
+          "recall": 0.47842401500938087,
+          "f1-score": 0.4366438356164384,
+          "support": 533.0
+        },
+        "Restatement or Paraphrasing": {
+          "precision": 0.2857142857142857,
+          "recall": 0.026143790849673203,
+          "f1-score": 0.04790419161676647,
+          "support": 153.0
+        },
+        "Reflection of feelings": {
+          "precision": 0.08333333333333333,
+          "recall": 0.00423728813559322,
+          "f1-score": 0.008064516129032258,
+          "support": 236.0
+        },
+        "Self-disclosure": {
+          "precision": 0.17142857142857143,
+          "recall": 0.02158273381294964,
+          "f1-score": 0.038338658146964855,
+          "support": 278.0
+        },
+        "Affirmation and Reassurance": {
+          "precision": 0.2012072434607646,
+          "recall": 0.23529411764705882,
+          "f1-score": 0.21691973969631237,
+          "support": 425.0
+        },
+        "Providing Suggestions": {
+          "precision": 0.25483503981797495,
+          "recall": 0.5114155251141552,
+          "f1-score": 0.340167046317388,
+          "support": 438.0
+        },
+        "Information": {
+          "precision": 0.25,
+          "recall": 0.005649717514124294,
+          "f1-score": 0.011049723756906077,
+          "support": 177.0
+        },
+        "Others": {
+          "precision": 0.3684210526315789,
+          "recall": 0.49377593360995853,
+          "f1-score": 0.4219858156028369,
+          "support": 482.0
+        },
+        "accuracy": 0.30455547391623805,
+        "macro avg": {
+          "precision": 0.2520642911920144,
+          "recall": 0.22206539021161173,
+          "f1-score": 0.19013419086033065,
+          "support": 2722.0
+        },
+        "weighted avg": {
+          "precision": 0.27334211557544247,
+          "recall": 0.30455547391623805,
+          "f1-score": 0.25685484877138987,
+          "support": 2722.0
+        }
+      },
+      "confusion_matrix_labels": [
+        "Question",
+        "Restatement or Paraphrasing",
+        "Reflection of feelings",
+        "Self-disclosure",
+        "Affirmation and Reassurance",
+        "Providing Suggestions",
+        "Information",
+        "Others"
+      ],
+      "confusion_matrix": [
+        [
+          255,
+          4,
+          1,
+          6,
+          87,
+          108,
+          1,
+          71
+        ],
+        [
+          73,
+          4,
+          2,
+          0,
+          35,
+          26,
+          0,
+          13
+        ],
+        [
+          58,
+          1,
+          1,
+          5,
+          51,
+          81,
+          0,
+          39
+        ],
+        [
+          52,
+          2,
+          2,
+          6,
+          46,
+          110,
+          0,
+          60
+        ],
+        [
+          72,
+          3,
+          3,
+          5,
+          100,
+          143,
+          1,
+          98
+        ],
+        [
+          40,
+          0,
+          0,
+          9,
+          78,
+          224,
+          1,
+          86
+        ],
+        [
+          18,
+          0,
+          3,
+          0,
+          46,
+          68,
+          1,
+          41
+        ],
+        [
+          67,
+          0,
+          0,
+          4,
+          54,
+          119,
+          0,
+          238
+        ]
+      ]
+    }
+  }
+}

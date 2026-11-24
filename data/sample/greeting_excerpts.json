@@ -1,0 +1,1442 @@
+[
+  {
+    "conversation_id": "esconv-0027",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello?\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0030",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hi!\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0040",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello.",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0063",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Good afternoon",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0064",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Good morning\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0076",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hi\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0089",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello.\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0106",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0110",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello.",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0128",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello ",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0136",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0160",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0193",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0198",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0210",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0211",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello \n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0216",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0240",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hi\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0250",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hi\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0281",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hi\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0349",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0351",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0377",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0416",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0417",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0513",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello.",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0531",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0544",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0551",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0556",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0578",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0596",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hi there\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0620",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0626",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0634",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0635",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0698",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Affirmation and Reassurance"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0701",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello.",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0728",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0731",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hi, how are you?",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0735",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hi there\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0747",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello.\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0761",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello there",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0771",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello?",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0803",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Information"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0809",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0813",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0817",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0829",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello.\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0836",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0837",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hi there\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Information"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0881",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hi \n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0883",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hi. How are you?",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0889",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hi. How are you?",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0909",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0927",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0943",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hi\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0979",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hi there",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-0990",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1015",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1021",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Good morning\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1030",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1031",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1067",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1069",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1077",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1095",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1115",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hey\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1137",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hi\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Restatement or Paraphrasing"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1150",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1158",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1159",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hi, how are you?\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1182",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hi",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Reflection of feelings"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1206",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1212",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hello\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1219",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "hi\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1220",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hi",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1223",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Good afternoon\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Others"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1247",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hi\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "esconv-1289",
+    "sample_excerpt": true,
+    "dialog": [
+      {
+        "speaker": "seeker",
+        "content": "Hello.\n",
+        "annotation": {}
+      },
+      {
+        "speaker": "supporter",
+        "content": "",
+        "annotation": {
+          "strategy": "Question"
+        }
+      }
+    ]
+  }
+]

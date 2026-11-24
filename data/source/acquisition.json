@@ -1,0 +1,28 @@
+{
+  "verified_at_utc": "2026-11-24T02:57:53.413084+00:00",
+  "repository": "https://github.com/thu-coai/Emotional-Support-Conversation",
+  "commit": "f262d062ad74cb39b17ea476facc81568ddcba24",
+  "files": [
+    {
+      "name": "ESConv.json",
+      "url": "https://raw.githubusercontent.com/thu-coai/Emotional-Support-Conversation/f262d062ad74cb39b17ea476facc81568ddcba24/ESConv.json",
+      "sha256": "aa0556c5b330562ba009c1cd5137486bfa2a7255f33225a6524cd58f7efdd9af"
+    },
+    {
+      "name": "LICENSE",
+      "url": "https://raw.githubusercontent.com/thu-coai/Emotional-Support-Conversation/f262d062ad74cb39b17ea476facc81568ddcba24/LICENSE",
+      "sha256": "82656a050544ab820c9aa7b61433f5181f8e80cacd042377140962a3e3eb5721"
+    },
+    {
+      "name": "README.md",
+      "url": "https://raw.githubusercontent.com/thu-coai/Emotional-Support-Conversation/f262d062ad74cb39b17ea476facc81568ddcba24/README.md",
+      "sha256": "1bd60ad3126c01cd466561860c26b5e96e69c93f689ea2603421f5fcf6b43e61"
+    },
+    {
+      "name": "strategy.json",
+      "url": "https://raw.githubusercontent.com/thu-coai/Emotional-Support-Conversation/f262d062ad74cb39b17ea476facc81568ddcba24/strategy.json",
+      "sha256": "79d335ea4d5b2e460cf2f1ffab100b2d7486624f9554de7927713e941458c73c"
+    }
+  ],
+  "note": "Timestamp is last local verification; immutable commit and hashes identify the data."
+}

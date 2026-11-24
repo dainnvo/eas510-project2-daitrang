@@ -1,0 +1,40 @@
+{
+  "source_commit": "f262d062ad74cb39b17ea476facc81568ddcba24",
+  "seed": 510,
+  "eligible_conversations": 191,
+  "selected_conversations": 80,
+  "source_partition": "full-data training conversations only",
+  "greeting_allowlist": [
+    "Good afternoon",
+    "Good evening",
+    "Good morning",
+    "HI",
+    "Hello",
+    "Hello there",
+    "Hello there.",
+    "Hello!",
+    "Hello.",
+    "Hello?",
+    "Hey",
+    "Hi",
+    "Hi there",
+    "Hi!",
+    "Hi, how are you?",
+    "Hi.",
+    "Hi. How are you?",
+    "hello",
+    "hello?",
+    "hi",
+    "hi there"
+  ],
+  "strategy_counts": {
+    "Question": 47,
+    "Affirmation and Reassurance": 3,
+    "Others": 22,
+    "Restatement or Paraphrasing": 5,
+    "Information": 2,
+    "Reflection of feelings": 1
+  },
+  "modifications": "Keep only neutral first seeker message and next strategy label; blank target content; remove all metadata and subsequent messages.",
+  "purpose": "Offline pipeline check only; narrow real-data excerpt, not representative model-quality evidence."
+}

@@ -1,0 +1,118 @@
+{
+  "conversations": 1300,
+  "messages": 38365,
+  "conversation_field_counts": {
+    "experience_type": 1300,
+    "emotion_type": 1300,
+    "problem_type": 1300,
+    "situation": 1300,
+    "survey_score": 1300,
+    "dialog": 1300,
+    "seeker_question1": 1300,
+    "seeker_question2": 1300,
+    "supporter_question1": 1300,
+    "supporter_question2": 1300
+  },
+  "message_field_counts": {
+    "speaker": 38365,
+    "annotation": 38365,
+    "content": 38365
+  },
+  "annotation_field_counts": {
+    "strategy": 18376,
+    "feedback": 7681
+  },
+  "speaker_counts": {
+    "seeker": 19989,
+    "supporter": 18376
+  },
+  "raw_supporter_strategy_counts": {
+    "Question": 3801,
+    "Affirmation and Reassurance": 2827,
+    "Others": 3341,
+    "Information": 1215,
+    "Self-disclosure": 1713,
+    "Providing Suggestions": 2954,
+    "Restatement or Paraphrasing": 1089,
+    "Reflection of feelings": 1436
+  },
+  "problem_type_counts": {
+    "job crisis": 280,
+    "problems with friends": 179,
+    "ongoing depression": 351,
+    "breakup with partner": 239,
+    "academic pressure": 156,
+    "conflict with parents": 10,
+    "Procrastination": 13,
+    "Alcohol Abuse": 12,
+    "Issues with Parents": 8,
+    "Sleep Problems": 28,
+    "Appearance Anxiety": 12,
+    "School Bullying": 2,
+    "Issues with Children": 10
+  },
+  "empty_message_contents": 0,
+  "supporters_without_strategy": 0,
+  "exact_duplicate_dialogs_beyond_first": 0,
+  "messages_per_conversation": {
+    "min": 16,
+    "max": 120,
+    "mean": 29.51153846153846
+  },
+  "examples_after_cleaning": 17693,
+  "excluded_supporter_targets": {
+    "no_nonempty_prior_context": 683
+  },
+  "split_conversation_counts": {
+    "train": 910,
+    "validation": 195,
+    "test": 195
+  },
+  "split_example_counts": {
+    "train": 12382,
+    "validation": 2722,
+    "test": 2589
+  },
+  "eligible_strategy_counts": {
+    "Question": 3336,
+    "Affirmation and Reassurance": 2817,
+    "Others": 3146,
+    "Information": 1214,
+    "Self-disclosure": 1713,
+    "Providing Suggestions": 2948,
+    "Restatement or Paraphrasing": 1085,
+    "Reflection of feelings": 1434
+  },
+  "split_strategy_counts": {
+    "train": {
+      "Question": 2324,
+      "Affirmation and Reassurance": 2008,
+      "Others": 2210,
+      "Information": 852,
+      "Self-disclosure": 1173,
+      "Providing Suggestions": 2041,
+      "Restatement or Paraphrasing": 778,
+      "Reflection of feelings": 996
+    },
+    "validation": {
+      "Others": 482,
+      "Question": 533,
+      "Providing Suggestions": 438,
+      "Reflection of feelings": 236,
+      "Self-disclosure": 278,
+      "Affirmation and Reassurance": 425,
+      "Information": 177,
+      "Restatement or Paraphrasing": 153
+    },
+    "test": {
+      "Question": 479,
+      "Others": 454,
+      "Restatement or Paraphrasing": 154,
+      "Reflection of feelings": 202,
+      "Providing Suggestions": 469,
+      "Affirmation and Reassurance": 384,
+      "Self-disclosure": 262,
+      "Information": 185
+    }
+  }
+}

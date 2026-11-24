@@ -1,0 +1,2723 @@
+example_id,conversation_id,target_index,true_label,majority,logistic_tfidf
+esconv-0004:3,esconv-0004,3,Others,Question,Question
+esconv-0004:4,esconv-0004,4,Question,Question,Question
+esconv-0004:8,esconv-0004,8,Providing Suggestions,Question,Question
+esconv-0004:9,esconv-0004,9,Reflection of feelings,Question,Providing Suggestions
+esconv-0004:14,esconv-0004,14,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0004:18,esconv-0004,18,Self-disclosure,Question,Question
+esconv-0004:23,esconv-0004,23,Others,Question,Affirmation and Reassurance
+esconv-0004:26,esconv-0004,26,Question,Question,Affirmation and Reassurance
+esconv-0004:31,esconv-0004,31,Reflection of feelings,Question,Question
+esconv-0004:33,esconv-0004,33,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0004:36,esconv-0004,36,Question,Question,Self-disclosure
+esconv-0004:40,esconv-0004,40,Question,Question,Affirmation and Reassurance
+esconv-0004:43,esconv-0004,43,Self-disclosure,Question,Providing Suggestions
+esconv-0004:45,esconv-0004,45,Others,Question,Providing Suggestions
+esconv-0004:49,esconv-0004,49,Others,Question,Others
+esconv-0004:56,esconv-0004,56,Others,Question,Providing Suggestions
+esconv-0004:58,esconv-0004,58,Providing Suggestions,Question,Providing Suggestions
+esconv-0004:60,esconv-0004,60,Others,Question,Providing Suggestions
+esconv-0004:64,esconv-0004,64,Question,Question,Others
+esconv-0004:67,esconv-0004,67,Providing Suggestions,Question,Question
+esconv-0004:71,esconv-0004,71,Others,Question,Question
+esconv-0004:73,esconv-0004,73,Information,Question,Others
+esconv-0018:1,esconv-0018,1,Others,Question,Question
+esconv-0018:3,esconv-0018,3,Question,Question,Question
+esconv-0018:5,esconv-0018,5,Affirmation and Reassurance,Question,Question
+esconv-0018:7,esconv-0018,7,Question,Question,Question
+esconv-0018:12,esconv-0018,12,Others,Question,Providing Suggestions
+esconv-0018:14,esconv-0018,14,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0018:17,esconv-0018,17,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0018:19,esconv-0018,19,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0018:21,esconv-0018,21,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0018:24,esconv-0018,24,Information,Question,Others
+esconv-0019:1,esconv-0019,1,Others,Question,Question
+esconv-0019:3,esconv-0019,3,Question,Question,Question
+esconv-0019:5,esconv-0019,5,Reflection of feelings,Question,Question
+esconv-0019:7,esconv-0019,7,Question,Question,Affirmation and Reassurance
+esconv-0019:9,esconv-0019,9,Question,Question,Affirmation and Reassurance
+esconv-0019:11,esconv-0019,11,Self-disclosure,Question,Others
+esconv-0019:12,esconv-0019,12,Question,Question,Providing Suggestions
+esconv-0019:14,esconv-0019,14,Affirmation and Reassurance,Question,Question
+esconv-0019:16,esconv-0019,16,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0019:18,esconv-0019,18,Affirmation and Reassurance,Question,Others
+esconv-0039:2,esconv-0039,2,Restatement or Paraphrasing,Question,Question
+esconv-0039:4,esconv-0039,4,Information,Question,Reflection of feelings
+esconv-0039:6,esconv-0039,6,Reflection of feelings,Question,Self-disclosure
+esconv-0039:9,esconv-0039,9,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0039:11,esconv-0039,11,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0039:14,esconv-0039,14,Providing Suggestions,Question,Others
+esconv-0039:17,esconv-0039,17,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0039:19,esconv-0039,19,Others,Question,Others
+esconv-0039:22,esconv-0039,22,Affirmation and Reassurance,Question,Others
+esconv-0039:23,esconv-0039,23,Question,Question,Others
+esconv-0039:26,esconv-0039,26,Reflection of feelings,Question,Others
+esconv-0046:2,esconv-0046,2,Question,Question,Question
+esconv-0046:3,esconv-0046,3,Self-disclosure,Question,Question
+esconv-0046:4,esconv-0046,4,Reflection of feelings,Question,Question
+esconv-0046:5,esconv-0046,5,Information,Question,Others
+esconv-0046:8,esconv-0046,8,Question,Question,Others
+esconv-0046:10,esconv-0046,10,Affirmation and Reassurance,Question,Others
+esconv-0046:11,esconv-0046,11,Question,Question,Others
+esconv-0046:12,esconv-0046,12,Affirmation and Reassurance,Question,Others
+esconv-0046:13,esconv-0046,13,Question,Question,Others
+esconv-0046:15,esconv-0046,15,Information,Question,Others
+esconv-0046:16,esconv-0046,16,Reflection of feelings,Question,Others
+esconv-0046:17,esconv-0046,17,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0046:18,esconv-0046,18,Providing Suggestions,Question,Others
+esconv-0046:19,esconv-0046,19,Reflection of feelings,Question,Providing Suggestions
+esconv-0046:20,esconv-0046,20,Self-disclosure,Question,Question
+esconv-0046:21,esconv-0046,21,Self-disclosure,Question,Question
+esconv-0046:26,esconv-0046,26,Reflection of feelings,Question,Others
+esconv-0046:27,esconv-0046,27,Question,Question,Others
+esconv-0046:28,esconv-0046,28,Providing Suggestions,Question,Others
+esconv-0046:29,esconv-0046,29,Question,Question,Others
+esconv-0046:33,esconv-0046,33,Information,Question,Others
+esconv-0046:36,esconv-0046,36,Restatement or Paraphrasing,Question,Question
+esconv-0046:38,esconv-0046,38,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0046:41,esconv-0046,41,Question,Question,Others
+esconv-0046:42,esconv-0046,42,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0046:45,esconv-0046,45,Question,Question,Others
+esconv-0046:48,esconv-0046,48,Reflection of feelings,Question,Others
+esconv-0054:2,esconv-0054,2,Question,Question,Question
+esconv-0054:5,esconv-0054,5,Self-disclosure,Question,Restatement or Paraphrasing
+esconv-0054:8,esconv-0054,8,Providing Suggestions,Question,Providing Suggestions
+esconv-0054:10,esconv-0054,10,Others,Question,Providing Suggestions
+esconv-0054:12,esconv-0054,12,Restatement or Paraphrasing,Question,Question
+esconv-0054:14,esconv-0054,14,Others,Question,Providing Suggestions
+esconv-0054:16,esconv-0054,16,Providing Suggestions,Question,Providing Suggestions
+esconv-0054:18,esconv-0054,18,Information,Question,Others
+esconv-0054:20,esconv-0054,20,Others,Question,Others
+esconv-0054:22,esconv-0054,22,Affirmation and Reassurance,Question,Others
+esconv-0054:25,esconv-0054,25,Providing Suggestions,Question,Others
+esconv-0054:27,esconv-0054,27,Affirmation and Reassurance,Question,Others
+esconv-0054:29,esconv-0054,29,Others,Question,Others
+esconv-0054:32,esconv-0054,32,Others,Question,Others
+esconv-0054:34,esconv-0054,34,Question,Question,Others
+esconv-0054:36,esconv-0054,36,Others,Question,Others
+esconv-0054:38,esconv-0054,38,Others,Question,Others
+esconv-0067:2,esconv-0067,2,Question,Question,Question
+esconv-0067:6,esconv-0067,6,Self-disclosure,Question,Question
+esconv-0067:9,esconv-0067,9,Question,Question,Providing Suggestions
+esconv-0067:11,esconv-0067,11,Question,Question,Question
+esconv-0067:12,esconv-0067,12,Affirmation and Reassurance,Question,Question
+esconv-0072:2,esconv-0072,2,Question,Question,Question
+esconv-0072:5,esconv-0072,5,Question,Question,Question
+esconv-0072:8,esconv-0072,8,Providing Suggestions,Question,Providing Suggestions
+esconv-0072:11,esconv-0072,11,Self-disclosure,Question,Providing Suggestions
+esconv-0072:12,esconv-0072,12,Providing Suggestions,Question,Others
+esconv-0072:15,esconv-0072,15,Providing Suggestions,Question,Others
+esconv-0072:19,esconv-0072,19,Self-disclosure,Question,Others
+esconv-0072:23,esconv-0072,23,Providing Suggestions,Question,Others
+esconv-0072:25,esconv-0072,25,Reflection of feelings,Question,Others
+esconv-0072:27,esconv-0072,27,Question,Question,Providing Suggestions
+esconv-0072:28,esconv-0072,28,Others,Question,Providing Suggestions
+esconv-0072:31,esconv-0072,31,Others,Question,Others
+esconv-0072:32,esconv-0072,32,Information,Question,Others
+esconv-0079:3,esconv-0079,3,Question,Question,Question
+esconv-0079:4,esconv-0079,4,Question,Question,Question
+esconv-0079:7,esconv-0079,7,Restatement or Paraphrasing,Question,Question
+esconv-0079:10,esconv-0079,10,Affirmation and Reassurance,Question,Question
+esconv-0079:12,esconv-0079,12,Self-disclosure,Question,Question
+esconv-0079:13,esconv-0079,13,Reflection of feelings,Question,Question
+esconv-0079:16,esconv-0079,16,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0079:19,esconv-0079,19,Others,Question,Others
+esconv-0079:21,esconv-0079,21,Information,Question,Others
+esconv-0079:23,esconv-0079,23,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0080:1,esconv-0080,1,Question,Question,Question
+esconv-0080:3,esconv-0080,3,Question,Question,Question
+esconv-0080:6,esconv-0080,6,Self-disclosure,Question,Question
+esconv-0080:7,esconv-0080,7,Affirmation and Reassurance,Question,Question
+esconv-0080:11,esconv-0080,11,Reflection of feelings,Question,Providing Suggestions
+esconv-0080:13,esconv-0080,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0080:14,esconv-0080,14,Information,Question,Others
+esconv-0080:17,esconv-0080,17,Information,Question,Providing Suggestions
+esconv-0080:18,esconv-0080,18,Providing Suggestions,Question,Providing Suggestions
+esconv-0080:21,esconv-0080,21,Others,Question,Affirmation and Reassurance
+esconv-0080:23,esconv-0080,23,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0080:24,esconv-0080,24,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0080:26,esconv-0080,26,Self-disclosure,Question,Providing Suggestions
+esconv-0080:27,esconv-0080,27,Others,Question,Providing Suggestions
+esconv-0080:28,esconv-0080,28,Others,Question,Providing Suggestions
+esconv-0080:31,esconv-0080,31,Providing Suggestions,Question,Providing Suggestions
+esconv-0094:1,esconv-0094,1,Question,Question,Question
+esconv-0094:2,esconv-0094,2,Providing Suggestions,Question,Question
+esconv-0094:5,esconv-0094,5,Question,Question,Affirmation and Reassurance
+esconv-0094:6,esconv-0094,6,Information,Question,Affirmation and Reassurance
+esconv-0094:9,esconv-0094,9,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0094:11,esconv-0094,11,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0094:13,esconv-0094,13,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0094:15,esconv-0094,15,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0094:17,esconv-0094,17,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0094:18,esconv-0094,18,Providing Suggestions,Question,Providing Suggestions
+esconv-0094:20,esconv-0094,20,Providing Suggestions,Question,Providing Suggestions
+esconv-0094:22,esconv-0094,22,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0094:24,esconv-0094,24,Others,Question,Others
+esconv-0094:25,esconv-0094,25,Information,Question,Others
+esconv-0094:28,esconv-0094,28,Others,Question,Others
+esconv-0096:2,esconv-0096,2,Others,Question,Question
+esconv-0096:3,esconv-0096,3,Question,Question,Question
+esconv-0096:6,esconv-0096,6,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0096:7,esconv-0096,7,Information,Question,Affirmation and Reassurance
+esconv-0096:9,esconv-0096,9,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0096:10,esconv-0096,10,Question,Question,Affirmation and Reassurance
+esconv-0096:12,esconv-0096,12,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0096:13,esconv-0096,13,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0096:16,esconv-0096,16,Question,Question,Affirmation and Reassurance
+esconv-0096:18,esconv-0096,18,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0096:19,esconv-0096,19,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0096:21,esconv-0096,21,Others,Question,Providing Suggestions
+esconv-0096:24,esconv-0096,24,Others,Question,Others
+esconv-0097:2,esconv-0097,2,Question,Question,Question
+esconv-0097:4,esconv-0097,4,Affirmation and Reassurance,Question,Question
+esconv-0097:6,esconv-0097,6,Providing Suggestions,Question,Question
+esconv-0097:8,esconv-0097,8,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0097:10,esconv-0097,10,Question,Question,Providing Suggestions
+esconv-0097:11,esconv-0097,11,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0097:13,esconv-0097,13,Question,Question,Providing Suggestions
+esconv-0097:15,esconv-0097,15,Providing Suggestions,Question,Providing Suggestions
+esconv-0097:17,esconv-0097,17,Providing Suggestions,Question,Providing Suggestions
+esconv-0097:19,esconv-0097,19,Providing Suggestions,Question,Providing Suggestions
+esconv-0097:20,esconv-0097,20,Information,Question,Providing Suggestions
+esconv-0097:22,esconv-0097,22,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0097:24,esconv-0097,24,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0097:26,esconv-0097,26,Others,Question,Others
+esconv-0097:29,esconv-0097,29,Information,Question,Others
+esconv-0098:2,esconv-0098,2,Question,Question,Question
+esconv-0098:4,esconv-0098,4,Question,Question,Question
+esconv-0098:6,esconv-0098,6,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0098:7,esconv-0098,7,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0098:8,esconv-0098,8,Providing Suggestions,Question,Providing Suggestions
+esconv-0098:12,esconv-0098,12,Self-disclosure,Question,Providing Suggestions
+esconv-0098:13,esconv-0098,13,Question,Question,Providing Suggestions
+esconv-0098:15,esconv-0098,15,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0098:17,esconv-0098,17,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0098:19,esconv-0098,19,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0098:21,esconv-0098,21,Others,Question,Affirmation and Reassurance
+esconv-0098:22,esconv-0098,22,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0098:23,esconv-0098,23,Self-disclosure,Question,Question
+esconv-0098:25,esconv-0098,25,Self-disclosure,Question,Question
+esconv-0098:26,esconv-0098,26,Others,Question,Question
+esconv-0098:28,esconv-0098,28,Self-disclosure,Question,Question
+esconv-0098:32,esconv-0098,32,Others,Question,Others
+esconv-0099:1,esconv-0099,1,Question,Question,Question
+esconv-0099:3,esconv-0099,3,Question,Question,Question
+esconv-0099:5,esconv-0099,5,Question,Question,Question
+esconv-0099:7,esconv-0099,7,Restatement or Paraphrasing,Question,Reflection of feelings
+esconv-0099:9,esconv-0099,9,Question,Question,Providing Suggestions
+esconv-0099:11,esconv-0099,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0099:13,esconv-0099,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0099:16,esconv-0099,16,Reflection of feelings,Question,Others
+esconv-0099:19,esconv-0099,19,Information,Question,Providing Suggestions
+esconv-0099:21,esconv-0099,21,Providing Suggestions,Question,Providing Suggestions
+esconv-0102:1,esconv-0102,1,Others,Question,Question
+esconv-0102:2,esconv-0102,2,Question,Question,Question
+esconv-0102:4,esconv-0102,4,Restatement or Paraphrasing,Question,Others
+esconv-0102:6,esconv-0102,6,Affirmation and Reassurance,Question,Others
+esconv-0102:8,esconv-0102,8,Question,Question,Providing Suggestions
+esconv-0102:10,esconv-0102,10,Reflection of feelings,Question,Providing Suggestions
+esconv-0102:12,esconv-0102,12,Providing Suggestions,Question,Providing Suggestions
+esconv-0102:14,esconv-0102,14,Reflection of feelings,Question,Providing Suggestions
+esconv-0102:15,esconv-0102,15,Affirmation and Reassurance,Question,Others
+esconv-0102:18,esconv-0102,18,Others,Question,Others
+esconv-0102:21,esconv-0102,21,Others,Question,Others
+esconv-0102:22,esconv-0102,22,Self-disclosure,Question,Others
+esconv-0109:1,esconv-0109,1,Others,Question,Question
+esconv-0109:3,esconv-0109,3,Question,Question,Question
+esconv-0109:5,esconv-0109,5,Restatement or Paraphrasing,Question,Question
+esconv-0109:7,esconv-0109,7,Providing Suggestions,Question,Question
+esconv-0109:9,esconv-0109,9,Providing Suggestions,Question,Providing Suggestions
+esconv-0109:11,esconv-0109,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0109:13,esconv-0109,13,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0109:15,esconv-0109,15,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0109:18,esconv-0109,18,Others,Question,Providing Suggestions
+esconv-0109:20,esconv-0109,20,Others,Question,Others
+esconv-0109:22,esconv-0109,22,Self-disclosure,Question,Others
+esconv-0109:24,esconv-0109,24,Affirmation and Reassurance,Question,Others
+esconv-0109:26,esconv-0109,26,Others,Question,Others
+esconv-0121:2,esconv-0121,2,Question,Question,Question
+esconv-0121:6,esconv-0121,6,Reflection of feelings,Question,Question
+esconv-0121:7,esconv-0121,7,Providing Suggestions,Question,Question
+esconv-0121:10,esconv-0121,10,Providing Suggestions,Question,Providing Suggestions
+esconv-0121:14,esconv-0121,14,Question,Question,Others
+esconv-0121:18,esconv-0121,18,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0121:19,esconv-0121,19,Information,Question,Affirmation and Reassurance
+esconv-0121:21,esconv-0121,21,Information,Question,Affirmation and Reassurance
+esconv-0121:22,esconv-0121,22,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0121:25,esconv-0121,25,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0121:29,esconv-0121,29,Information,Question,Affirmation and Reassurance
+esconv-0121:30,esconv-0121,30,Affirmation and Reassurance,Question,Others
+esconv-0121:32,esconv-0121,32,Question,Question,Others
+esconv-0121:36,esconv-0121,36,Information,Question,Providing Suggestions
+esconv-0121:40,esconv-0121,40,Others,Question,Providing Suggestions
+esconv-0142:1,esconv-0142,1,Question,Question,Question
+esconv-0142:3,esconv-0142,3,Reflection of feelings,Question,Question
+esconv-0142:4,esconv-0142,4,Self-disclosure,Question,Question
+esconv-0142:6,esconv-0142,6,Providing Suggestions,Question,Question
+esconv-0142:8,esconv-0142,8,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0142:10,esconv-0142,10,Reflection of feelings,Question,Providing Suggestions
+esconv-0142:12,esconv-0142,12,Providing Suggestions,Question,Providing Suggestions
+esconv-0142:14,esconv-0142,14,Providing Suggestions,Question,Providing Suggestions
+esconv-0142:16,esconv-0142,16,Self-disclosure,Question,Others
+esconv-0142:18,esconv-0142,18,Affirmation and Reassurance,Question,Others
+esconv-0142:19,esconv-0142,19,Question,Question,Others
+esconv-0142:22,esconv-0142,22,Others,Question,Others
+esconv-0147:2,esconv-0147,2,Reflection of feelings,Question,Question
+esconv-0147:3,esconv-0147,3,Question,Question,Question
+esconv-0147:6,esconv-0147,6,Question,Question,Question
+esconv-0147:8,esconv-0147,8,Reflection of feelings,Question,Question
+esconv-0147:9,esconv-0147,9,Question,Question,Question
+esconv-0147:12,esconv-0147,12,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0147:15,esconv-0147,15,Question,Question,Affirmation and Reassurance
+esconv-0147:18,esconv-0147,18,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0147:20,esconv-0147,20,Question,Question,Self-disclosure
+esconv-0147:21,esconv-0147,21,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0147:23,esconv-0147,23,Self-disclosure,Question,Providing Suggestions
+esconv-0147:24,esconv-0147,24,Reflection of feelings,Question,Providing Suggestions
+esconv-0147:27,esconv-0147,27,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0147:30,esconv-0147,30,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0147:31,esconv-0147,31,Reflection of feelings,Question,Providing Suggestions
+esconv-0147:36,esconv-0147,36,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0147:38,esconv-0147,38,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0147:42,esconv-0147,42,Others,Question,Others
+esconv-0147:43,esconv-0147,43,Others,Question,Others
+esconv-0162:2,esconv-0162,2,Question,Question,Question
+esconv-0162:4,esconv-0162,4,Question,Question,Question
+esconv-0162:6,esconv-0162,6,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0162:7,esconv-0162,7,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0162:10,esconv-0162,10,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0162:12,esconv-0162,12,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0162:14,esconv-0162,14,Reflection of feelings,Question,Providing Suggestions
+esconv-0162:17,esconv-0162,17,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0162:18,esconv-0162,18,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0162:20,esconv-0162,20,Others,Question,Question
+esconv-0162:21,esconv-0162,21,Reflection of feelings,Question,Question
+esconv-0162:22,esconv-0162,22,Affirmation and Reassurance,Question,Question
+esconv-0162:25,esconv-0162,25,Affirmation and Reassurance,Question,Others
+esconv-0162:27,esconv-0162,27,Others,Question,Others
+esconv-0168:2,esconv-0168,2,Affirmation and Reassurance,Question,Question
+esconv-0168:4,esconv-0168,4,Affirmation and Reassurance,Question,Question
+esconv-0168:6,esconv-0168,6,Affirmation and Reassurance,Question,Question
+esconv-0168:7,esconv-0168,7,Affirmation and Reassurance,Question,Question
+esconv-0168:11,esconv-0168,11,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0168:13,esconv-0168,13,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0168:15,esconv-0168,15,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0168:16,esconv-0168,16,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0168:19,esconv-0168,19,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0168:20,esconv-0168,20,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0168:24,esconv-0168,24,Affirmation and Reassurance,Question,Others
+esconv-0168:25,esconv-0168,25,Affirmation and Reassurance,Question,Others
+esconv-0168:28,esconv-0168,28,Affirmation and Reassurance,Question,Others
+esconv-0168:30,esconv-0168,30,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0168:33,esconv-0168,33,Affirmation and Reassurance,Question,Others
+esconv-0168:36,esconv-0168,36,Affirmation and Reassurance,Question,Others
+esconv-0168:39,esconv-0168,39,Affirmation and Reassurance,Question,Others
+esconv-0168:40,esconv-0168,40,Affirmation and Reassurance,Question,Others
+esconv-0177:1,esconv-0177,1,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0177:2,esconv-0177,2,Reflection of feelings,Question,Question
+esconv-0177:4,esconv-0177,4,Information,Question,Question
+esconv-0177:6,esconv-0177,6,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0177:9,esconv-0177,9,Question,Question,Providing Suggestions
+esconv-0177:10,esconv-0177,10,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0177:13,esconv-0177,13,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0177:15,esconv-0177,15,Question,Question,Affirmation and Reassurance
+esconv-0177:16,esconv-0177,16,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0177:18,esconv-0177,18,Information,Question,Affirmation and Reassurance
+esconv-0177:19,esconv-0177,19,Self-disclosure,Question,Others
+esconv-0177:21,esconv-0177,21,Providing Suggestions,Question,Others
+esconv-0177:23,esconv-0177,23,Question,Question,Others
+esconv-0177:24,esconv-0177,24,Question,Question,Others
+esconv-0177:26,esconv-0177,26,Reflection of feelings,Question,Others
+esconv-0177:28,esconv-0177,28,Providing Suggestions,Question,Others
+esconv-0177:29,esconv-0177,29,Information,Question,Others
+esconv-0177:30,esconv-0177,30,Question,Question,Others
+esconv-0180:2,esconv-0180,2,Restatement or Paraphrasing,Question,Question
+esconv-0180:4,esconv-0180,4,Self-disclosure,Question,Question
+esconv-0180:5,esconv-0180,5,Question,Question,Question
+esconv-0180:7,esconv-0180,7,Self-disclosure,Question,Question
+esconv-0180:9,esconv-0180,9,Providing Suggestions,Question,Providing Suggestions
+esconv-0180:11,esconv-0180,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0180:12,esconv-0180,12,Information,Question,Providing Suggestions
+esconv-0180:15,esconv-0180,15,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0180:17,esconv-0180,17,Self-disclosure,Question,Others
+esconv-0180:18,esconv-0180,18,Others,Question,Others
+esconv-0180:20,esconv-0180,20,Others,Question,Others
+esconv-0180:22,esconv-0180,22,Reflection of feelings,Question,Others
+esconv-0180:24,esconv-0180,24,Others,Question,Others
+esconv-0180:25,esconv-0180,25,Others,Question,Others
+esconv-0181:2,esconv-0181,2,Others,Question,Question
+esconv-0181:4,esconv-0181,4,Reflection of feelings,Question,Question
+esconv-0181:6,esconv-0181,6,Question,Question,Providing Suggestions
+esconv-0181:8,esconv-0181,8,Reflection of feelings,Question,Providing Suggestions
+esconv-0181:10,esconv-0181,10,Providing Suggestions,Question,Providing Suggestions
+esconv-0181:12,esconv-0181,12,Information,Question,Providing Suggestions
+esconv-0181:14,esconv-0181,14,Providing Suggestions,Question,Providing Suggestions
+esconv-0181:16,esconv-0181,16,Self-disclosure,Question,Providing Suggestions
+esconv-0181:19,esconv-0181,19,Providing Suggestions,Question,Others
+esconv-0181:20,esconv-0181,20,Others,Question,Providing Suggestions
+esconv-0181:23,esconv-0181,23,Reflection of feelings,Question,Others
+esconv-0181:25,esconv-0181,25,Others,Question,Others
+esconv-0181:26,esconv-0181,26,Others,Question,Others
+esconv-0181:28,esconv-0181,28,Affirmation and Reassurance,Question,Others
+esconv-0181:29,esconv-0181,29,Providing Suggestions,Question,Others
+esconv-0189:1,esconv-0189,1,Others,Question,Question
+esconv-0189:2,esconv-0189,2,Others,Question,Question
+esconv-0189:5,esconv-0189,5,Question,Question,Question
+esconv-0189:7,esconv-0189,7,Question,Question,Question
+esconv-0189:10,esconv-0189,10,Self-disclosure,Question,Providing Suggestions
+esconv-0189:13,esconv-0189,13,Affirmation and Reassurance,Question,Others
+esconv-0189:16,esconv-0189,16,Question,Question,Affirmation and Reassurance
+esconv-0189:21,esconv-0189,21,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0189:23,esconv-0189,23,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0189:28,esconv-0189,28,Others,Question,Others
+esconv-0197:2,esconv-0197,2,Question,Question,Question
+esconv-0197:3,esconv-0197,3,Question,Question,Question
+esconv-0197:5,esconv-0197,5,Restatement or Paraphrasing,Question,Question
+esconv-0197:8,esconv-0197,8,Question,Question,Affirmation and Reassurance
+esconv-0197:9,esconv-0197,9,Question,Question,Affirmation and Reassurance
+esconv-0197:12,esconv-0197,12,Restatement or Paraphrasing,Question,Question
+esconv-0197:15,esconv-0197,15,Providing Suggestions,Question,Providing Suggestions
+esconv-0197:17,esconv-0197,17,Question,Question,Providing Suggestions
+esconv-0197:20,esconv-0197,20,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0197:22,esconv-0197,22,Question,Question,Affirmation and Reassurance
+esconv-0197:25,esconv-0197,25,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0197:26,esconv-0197,26,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0197:28,esconv-0197,28,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0197:30,esconv-0197,30,Question,Question,Others
+esconv-0197:33,esconv-0197,33,Providing Suggestions,Question,Providing Suggestions
+esconv-0197:37,esconv-0197,37,Question,Question,Affirmation and Reassurance
+esconv-0197:40,esconv-0197,40,Providing Suggestions,Question,Providing Suggestions
+esconv-0197:41,esconv-0197,41,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0199:2,esconv-0199,2,Question,Question,Question
+esconv-0199:4,esconv-0199,4,Question,Question,Question
+esconv-0199:6,esconv-0199,6,Restatement or Paraphrasing,Question,Question
+esconv-0199:7,esconv-0199,7,Question,Question,Question
+esconv-0199:9,esconv-0199,9,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0199:10,esconv-0199,10,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0199:11,esconv-0199,11,Affirmation and Reassurance,Question,Others
+esconv-0199:13,esconv-0199,13,Reflection of feelings,Question,Providing Suggestions
+esconv-0199:14,esconv-0199,14,Reflection of feelings,Question,Others
+esconv-0199:15,esconv-0199,15,Self-disclosure,Question,Others
+esconv-0199:17,esconv-0199,17,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0199:18,esconv-0199,18,Others,Question,Providing Suggestions
+esconv-0199:20,esconv-0199,20,Others,Question,Others
+esconv-0199:22,esconv-0199,22,Affirmation and Reassurance,Question,Others
+esconv-0199:23,esconv-0199,23,Others,Question,Others
+esconv-0199:25,esconv-0199,25,Self-disclosure,Question,Others
+esconv-0199:27,esconv-0199,27,Self-disclosure,Question,Others
+esconv-0199:28,esconv-0199,28,Others,Question,Others
+esconv-0201:1,esconv-0201,1,Question,Question,Question
+esconv-0201:3,esconv-0201,3,Question,Question,Question
+esconv-0201:5,esconv-0201,5,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0201:7,esconv-0201,7,Question,Question,Affirmation and Reassurance
+esconv-0201:9,esconv-0201,9,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0201:12,esconv-0201,12,Information,Question,Affirmation and Reassurance
+esconv-0201:14,esconv-0201,14,Self-disclosure,Question,Others
+esconv-0201:16,esconv-0201,16,Self-disclosure,Question,Self-disclosure
+esconv-0201:18,esconv-0201,18,Question,Question,Others
+esconv-0201:20,esconv-0201,20,Question,Question,Affirmation and Reassurance
+esconv-0201:22,esconv-0201,22,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0201:24,esconv-0201,24,Providing Suggestions,Question,Others
+esconv-0201:26,esconv-0201,26,Information,Question,Affirmation and Reassurance
+esconv-0201:28,esconv-0201,28,Others,Question,Affirmation and Reassurance
+esconv-0201:30,esconv-0201,30,Others,Question,Affirmation and Reassurance
+esconv-0221:2,esconv-0221,2,Question,Question,Question
+esconv-0221:4,esconv-0221,4,Question,Question,Question
+esconv-0221:6,esconv-0221,6,Restatement or Paraphrasing,Question,Question
+esconv-0221:8,esconv-0221,8,Question,Question,Question
+esconv-0221:10,esconv-0221,10,Self-disclosure,Question,Providing Suggestions
+esconv-0221:12,esconv-0221,12,Providing Suggestions,Question,Providing Suggestions
+esconv-0221:14,esconv-0221,14,Providing Suggestions,Question,Providing Suggestions
+esconv-0221:16,esconv-0221,16,Self-disclosure,Question,Providing Suggestions
+esconv-0221:18,esconv-0221,18,Others,Question,Affirmation and Reassurance
+esconv-0229:2,esconv-0229,2,Question,Question,Question
+esconv-0229:4,esconv-0229,4,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0229:6,esconv-0229,6,Providing Suggestions,Question,Others
+esconv-0229:7,esconv-0229,7,Question,Question,Others
+esconv-0229:9,esconv-0229,9,Question,Question,Others
+esconv-0229:12,esconv-0229,12,Information,Question,Affirmation and Reassurance
+esconv-0229:14,esconv-0229,14,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0229:16,esconv-0229,16,Self-disclosure,Question,Providing Suggestions
+esconv-0229:18,esconv-0229,18,Providing Suggestions,Question,Providing Suggestions
+esconv-0229:19,esconv-0229,19,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0229:21,esconv-0229,21,Reflection of feelings,Question,Question
+esconv-0229:23,esconv-0229,23,Providing Suggestions,Question,Providing Suggestions
+esconv-0229:24,esconv-0229,24,Providing Suggestions,Question,Providing Suggestions
+esconv-0242:1,esconv-0242,1,Question,Question,Question
+esconv-0242:4,esconv-0242,4,Restatement or Paraphrasing,Question,Question
+esconv-0242:6,esconv-0242,6,Question,Question,Question
+esconv-0242:9,esconv-0242,9,Providing Suggestions,Question,Providing Suggestions
+esconv-0242:10,esconv-0242,10,Reflection of feelings,Question,Providing Suggestions
+esconv-0242:12,esconv-0242,12,Self-disclosure,Question,Others
+esconv-0242:14,esconv-0242,14,Question,Question,Others
+esconv-0242:16,esconv-0242,16,Question,Question,Providing Suggestions
+esconv-0242:19,esconv-0242,19,Providing Suggestions,Question,Providing Suggestions
+esconv-0242:21,esconv-0242,21,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0242:24,esconv-0242,24,Information,Question,Providing Suggestions
+esconv-0242:26,esconv-0242,26,Information,Question,Affirmation and Reassurance
+esconv-0242:28,esconv-0242,28,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0242:30,esconv-0242,30,Information,Question,Providing Suggestions
+esconv-0242:31,esconv-0242,31,Self-disclosure,Question,Providing Suggestions
+esconv-0242:34,esconv-0242,34,Question,Question,Providing Suggestions
+esconv-0242:37,esconv-0242,37,Affirmation and Reassurance,Question,Others
+esconv-0242:40,esconv-0242,40,Affirmation and Reassurance,Question,Others
+esconv-0242:42,esconv-0242,42,Others,Question,Others
+esconv-0248:2,esconv-0248,2,Restatement or Paraphrasing,Question,Question
+esconv-0248:4,esconv-0248,4,Restatement or Paraphrasing,Question,Question
+esconv-0248:6,esconv-0248,6,Restatement or Paraphrasing,Question,Question
+esconv-0248:8,esconv-0248,8,Others,Question,Question
+esconv-0248:11,esconv-0248,11,Others,Question,Affirmation and Reassurance
+esconv-0248:14,esconv-0248,14,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0248:16,esconv-0248,16,Others,Question,Providing Suggestions
+esconv-0248:19,esconv-0248,19,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0248:21,esconv-0248,21,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0248:23,esconv-0248,23,Others,Question,Others
+esconv-0248:27,esconv-0248,27,Restatement or Paraphrasing,Question,Others
+esconv-0248:29,esconv-0248,29,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0248:32,esconv-0248,32,Question,Question,Others
+esconv-0248:33,esconv-0248,33,Restatement or Paraphrasing,Question,Others
+esconv-0248:36,esconv-0248,36,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0248:37,esconv-0248,37,Others,Question,Providing Suggestions
+esconv-0248:39,esconv-0248,39,Affirmation and Reassurance,Question,Self-disclosure
+esconv-0248:41,esconv-0248,41,Others,Question,Others
+esconv-0249:2,esconv-0249,2,Question,Question,Question
+esconv-0249:4,esconv-0249,4,Question,Question,Question
+esconv-0249:6,esconv-0249,6,Restatement or Paraphrasing,Question,Question
+esconv-0249:7,esconv-0249,7,Question,Question,Question
+esconv-0249:9,esconv-0249,9,Restatement or Paraphrasing,Question,Reflection of feelings
+esconv-0249:10,esconv-0249,10,Question,Question,Providing Suggestions
+esconv-0249:13,esconv-0249,13,Others,Question,Affirmation and Reassurance
+esconv-0249:15,esconv-0249,15,Others,Question,Question
+esconv-0249:17,esconv-0249,17,Question,Question,Question
+esconv-0249:19,esconv-0249,19,Restatement or Paraphrasing,Question,Question
+esconv-0249:21,esconv-0249,21,Others,Question,Question
+esconv-0249:22,esconv-0249,22,Affirmation and Reassurance,Question,Question
+esconv-0249:24,esconv-0249,24,Self-disclosure,Question,Providing Suggestions
+esconv-0249:25,esconv-0249,25,Question,Question,Providing Suggestions
+esconv-0249:27,esconv-0249,27,Question,Question,Providing Suggestions
+esconv-0249:28,esconv-0249,28,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0249:30,esconv-0249,30,Question,Question,Providing Suggestions
+esconv-0249:32,esconv-0249,32,Question,Question,Providing Suggestions
+esconv-0249:33,esconv-0249,33,Providing Suggestions,Question,Providing Suggestions
+esconv-0249:35,esconv-0249,35,Reflection of feelings,Question,Providing Suggestions
+esconv-0249:37,esconv-0249,37,Question,Question,Affirmation and Reassurance
+esconv-0249:39,esconv-0249,39,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0249:41,esconv-0249,41,Providing Suggestions,Question,Providing Suggestions
+esconv-0249:43,esconv-0249,43,Information,Question,Affirmation and Reassurance
+esconv-0249:44,esconv-0249,44,Question,Question,Affirmation and Reassurance
+esconv-0249:45,esconv-0249,45,Providing Suggestions,Question,Others
+esconv-0249:47,esconv-0249,47,Affirmation and Reassurance,Question,Others
+esconv-0249:49,esconv-0249,49,Affirmation and Reassurance,Question,Others
+esconv-0253:2,esconv-0253,2,Question,Question,Question
+esconv-0253:4,esconv-0253,4,Restatement or Paraphrasing,Question,Question
+esconv-0253:6,esconv-0253,6,Affirmation and Reassurance,Question,Question
+esconv-0253:7,esconv-0253,7,Providing Suggestions,Question,Question
+esconv-0253:8,esconv-0253,8,Providing Suggestions,Question,Question
+esconv-0253:12,esconv-0253,12,Reflection of feelings,Question,Question
+esconv-0253:13,esconv-0253,13,Self-disclosure,Question,Question
+esconv-0253:15,esconv-0253,15,Information,Question,Providing Suggestions
+esconv-0253:16,esconv-0253,16,Question,Question,Providing Suggestions
+esconv-0253:18,esconv-0253,18,Providing Suggestions,Question,Providing Suggestions
+esconv-0253:20,esconv-0253,20,Providing Suggestions,Question,Providing Suggestions
+esconv-0253:22,esconv-0253,22,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0253:24,esconv-0253,24,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0253:26,esconv-0253,26,Providing Suggestions,Question,Providing Suggestions
+esconv-0253:28,esconv-0253,28,Others,Question,Providing Suggestions
+esconv-0253:30,esconv-0253,30,Others,Question,Others
+esconv-0253:32,esconv-0253,32,Others,Question,Others
+esconv-0265:4,esconv-0265,4,Affirmation and Reassurance,Question,Question
+esconv-0265:6,esconv-0265,6,Providing Suggestions,Question,Question
+esconv-0265:11,esconv-0265,11,Providing Suggestions,Question,Question
+esconv-0265:13,esconv-0265,13,Restatement or Paraphrasing,Question,Question
+esconv-0265:15,esconv-0265,15,Providing Suggestions,Question,Question
+esconv-0265:17,esconv-0265,17,Reflection of feelings,Question,Question
+esconv-0265:20,esconv-0265,20,Information,Question,Question
+esconv-0265:23,esconv-0265,23,Question,Question,Providing Suggestions
+esconv-0265:25,esconv-0265,25,Others,Question,Providing Suggestions
+esconv-0265:27,esconv-0265,27,Affirmation and Reassurance,Question,Others
+esconv-0265:31,esconv-0265,31,Self-disclosure,Question,Others
+esconv-0268:2,esconv-0268,2,Others,Question,Question
+esconv-0268:4,esconv-0268,4,Affirmation and Reassurance,Question,Question
+esconv-0268:6,esconv-0268,6,Restatement or Paraphrasing,Question,Question
+esconv-0268:9,esconv-0268,9,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0268:11,esconv-0268,11,Providing Suggestions,Question,Question
+esconv-0268:14,esconv-0268,14,Reflection of feelings,Question,Others
+esconv-0268:18,esconv-0268,18,Reflection of feelings,Question,Others
+esconv-0268:21,esconv-0268,21,Providing Suggestions,Question,Question
+esconv-0268:25,esconv-0268,25,Reflection of feelings,Question,Others
+esconv-0273:2,esconv-0273,2,Others,Question,Question
+esconv-0273:3,esconv-0273,3,Question,Question,Question
+esconv-0273:6,esconv-0273,6,Others,Question,Affirmation and Reassurance
+esconv-0273:7,esconv-0273,7,Question,Question,Affirmation and Reassurance
+esconv-0273:9,esconv-0273,9,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0273:10,esconv-0273,10,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0273:12,esconv-0273,12,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0273:15,esconv-0273,15,Self-disclosure,Question,Providing Suggestions
+esconv-0273:17,esconv-0273,17,Providing Suggestions,Question,Providing Suggestions
+esconv-0273:19,esconv-0273,19,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0273:22,esconv-0273,22,Providing Suggestions,Question,Others
+esconv-0273:24,esconv-0273,24,Others,Question,Others
+esconv-0286:2,esconv-0286,2,Others,Question,Question
+esconv-0286:4,esconv-0286,4,Question,Question,Question
+esconv-0286:6,esconv-0286,6,Self-disclosure,Question,Question
+esconv-0286:7,esconv-0286,7,Question,Question,Providing Suggestions
+esconv-0286:9,esconv-0286,9,Question,Question,Providing Suggestions
+esconv-0286:11,esconv-0286,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0286:12,esconv-0286,12,Information,Question,Providing Suggestions
+esconv-0286:14,esconv-0286,14,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0286:16,esconv-0286,16,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0286:19,esconv-0286,19,Others,Question,Providing Suggestions
+esconv-0286:20,esconv-0286,20,Reflection of feelings,Question,Providing Suggestions
+esconv-0286:22,esconv-0286,22,Self-disclosure,Question,Providing Suggestions
+esconv-0286:23,esconv-0286,23,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0286:25,esconv-0286,25,Others,Question,Others
+esconv-0286:26,esconv-0286,26,Others,Question,Others
+esconv-0287:2,esconv-0287,2,Restatement or Paraphrasing,Question,Question
+esconv-0287:4,esconv-0287,4,Question,Question,Question
+esconv-0287:7,esconv-0287,7,Self-disclosure,Question,Question
+esconv-0287:9,esconv-0287,9,Others,Question,Providing Suggestions
+esconv-0287:10,esconv-0287,10,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0287:12,esconv-0287,12,Others,Question,Others
+esconv-0287:14,esconv-0287,14,Self-disclosure,Question,Others
+esconv-0287:16,esconv-0287,16,Others,Question,Others
+esconv-0287:18,esconv-0287,18,Providing Suggestions,Question,Providing Suggestions
+esconv-0287:20,esconv-0287,20,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0287:21,esconv-0287,21,Others,Question,Affirmation and Reassurance
+esconv-0287:23,esconv-0287,23,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0287:25,esconv-0287,25,Others,Question,Affirmation and Reassurance
+esconv-0287:26,esconv-0287,26,Others,Question,Others
+esconv-0287:28,esconv-0287,28,Others,Question,Others
+esconv-0293:2,esconv-0293,2,Question,Question,Question
+esconv-0293:4,esconv-0293,4,Question,Question,Question
+esconv-0293:5,esconv-0293,5,Question,Question,Question
+esconv-0293:8,esconv-0293,8,Question,Question,Question
+esconv-0293:11,esconv-0293,11,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0293:13,esconv-0293,13,Question,Question,Affirmation and Reassurance
+esconv-0293:14,esconv-0293,14,Question,Question,Affirmation and Reassurance
+esconv-0293:18,esconv-0293,18,Others,Question,Question
+esconv-0293:21,esconv-0293,21,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0293:23,esconv-0293,23,Question,Question,Providing Suggestions
+esconv-0293:26,esconv-0293,26,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0293:29,esconv-0293,29,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0293:30,esconv-0293,30,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0293:33,esconv-0293,33,Reflection of feelings,Question,Others
+esconv-0293:35,esconv-0293,35,Affirmation and Reassurance,Question,Others
+esconv-0293:37,esconv-0293,37,Affirmation and Reassurance,Question,Others
+esconv-0293:40,esconv-0293,40,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0293:44,esconv-0293,44,Others,Question,Affirmation and Reassurance
+esconv-0293:46,esconv-0293,46,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0293:47,esconv-0293,47,Others,Question,Providing Suggestions
+esconv-0293:51,esconv-0293,51,Others,Question,Affirmation and Reassurance
+esconv-0293:52,esconv-0293,52,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0293:54,esconv-0293,54,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0293:57,esconv-0293,57,Others,Question,Affirmation and Reassurance
+esconv-0293:61,esconv-0293,61,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0293:63,esconv-0293,63,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0293:65,esconv-0293,65,Others,Question,Others
+esconv-0293:66,esconv-0293,66,Self-disclosure,Question,Others
+esconv-0293:69,esconv-0293,69,Reflection of feelings,Question,Others
+esconv-0293:71,esconv-0293,71,Reflection of feelings,Question,Others
+esconv-0293:73,esconv-0293,73,Affirmation and Reassurance,Question,Others
+esconv-0293:75,esconv-0293,75,Others,Question,Providing Suggestions
+esconv-0293:77,esconv-0293,77,Question,Question,Affirmation and Reassurance
+esconv-0293:79,esconv-0293,79,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0293:80,esconv-0293,80,Self-disclosure,Question,Question
+esconv-0293:82,esconv-0293,82,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0293:83,esconv-0293,83,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0293:87,esconv-0293,87,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0293:90,esconv-0293,90,Affirmation and Reassurance,Question,Others
+esconv-0293:91,esconv-0293,91,Providing Suggestions,Question,Question
+esconv-0293:93,esconv-0293,93,Question,Question,Affirmation and Reassurance
+esconv-0293:95,esconv-0293,95,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0293:97,esconv-0293,97,Self-disclosure,Question,Providing Suggestions
+esconv-0293:100,esconv-0293,100,Question,Question,Affirmation and Reassurance
+esconv-0293:103,esconv-0293,103,Question,Question,Affirmation and Reassurance
+esconv-0293:106,esconv-0293,106,Providing Suggestions,Question,Providing Suggestions
+esconv-0293:108,esconv-0293,108,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0293:110,esconv-0293,110,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0293:113,esconv-0293,113,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0293:115,esconv-0293,115,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0293:117,esconv-0293,117,Affirmation and Reassurance,Question,Others
+esconv-0293:119,esconv-0293,119,Affirmation and Reassurance,Question,Others
+esconv-0305:1,esconv-0305,1,Question,Question,Question
+esconv-0305:3,esconv-0305,3,Question,Question,Question
+esconv-0305:5,esconv-0305,5,Restatement or Paraphrasing,Question,Question
+esconv-0305:7,esconv-0305,7,Question,Question,Question
+esconv-0305:9,esconv-0305,9,Affirmation and Reassurance,Question,Question
+esconv-0305:11,esconv-0305,11,Providing Suggestions,Question,Question
+esconv-0305:13,esconv-0305,13,Self-disclosure,Question,Question
+esconv-0305:15,esconv-0305,15,Question,Question,Question
+esconv-0305:17,esconv-0305,17,Others,Question,Affirmation and Reassurance
+esconv-0305:19,esconv-0305,19,Providing Suggestions,Question,Others
+esconv-0306:2,esconv-0306,2,Affirmation and Reassurance,Question,Question
+esconv-0306:4,esconv-0306,4,Question,Question,Question
+esconv-0306:5,esconv-0306,5,Question,Question,Question
+esconv-0306:8,esconv-0306,8,Self-disclosure,Question,Providing Suggestions
+esconv-0306:9,esconv-0306,9,Question,Question,Providing Suggestions
+esconv-0306:11,esconv-0306,11,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0306:13,esconv-0306,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0306:15,esconv-0306,15,Providing Suggestions,Question,Providing Suggestions
+esconv-0306:17,esconv-0306,17,Others,Question,Providing Suggestions
+esconv-0306:19,esconv-0306,19,Question,Question,Providing Suggestions
+esconv-0306:21,esconv-0306,21,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0306:23,esconv-0306,23,Affirmation and Reassurance,Question,Others
+esconv-0306:25,esconv-0306,25,Others,Question,Others
+esconv-0311:2,esconv-0311,2,Question,Question,Question
+esconv-0311:4,esconv-0311,4,Question,Question,Question
+esconv-0311:7,esconv-0311,7,Affirmation and Reassurance,Question,Question
+esconv-0311:8,esconv-0311,8,Question,Question,Question
+esconv-0311:11,esconv-0311,11,Restatement or Paraphrasing,Question,Question
+esconv-0311:17,esconv-0311,17,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0311:19,esconv-0311,19,Question,Question,Affirmation and Reassurance
+esconv-0311:21,esconv-0311,21,Affirmation and Reassurance,Question,Question
+esconv-0311:22,esconv-0311,22,Question,Question,Question
+esconv-0311:25,esconv-0311,25,Others,Question,Question
+esconv-0311:26,esconv-0311,26,Question,Question,Question
+esconv-0311:29,esconv-0311,29,Question,Question,Providing Suggestions
+esconv-0311:31,esconv-0311,31,Providing Suggestions,Question,Providing Suggestions
+esconv-0311:32,esconv-0311,32,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0311:34,esconv-0311,34,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0311:36,esconv-0311,36,Providing Suggestions,Question,Others
+esconv-0311:37,esconv-0311,37,Affirmation and Reassurance,Question,Others
+esconv-0311:38,esconv-0311,38,Affirmation and Reassurance,Question,Others
+esconv-0311:39,esconv-0311,39,Question,Question,Others
+esconv-0311:40,esconv-0311,40,Others,Question,Affirmation and Reassurance
+esconv-0313:1,esconv-0313,1,Others,Question,Question
+esconv-0313:3,esconv-0313,3,Question,Question,Question
+esconv-0313:4,esconv-0313,4,Question,Question,Question
+esconv-0313:6,esconv-0313,6,Restatement or Paraphrasing,Question,Question
+esconv-0313:7,esconv-0313,7,Self-disclosure,Question,Question
+esconv-0313:9,esconv-0313,9,Affirmation and Reassurance,Question,Question
+esconv-0313:11,esconv-0313,11,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0313:12,esconv-0313,12,Information,Question,Providing Suggestions
+esconv-0313:15,esconv-0313,15,Self-disclosure,Question,Providing Suggestions
+esconv-0313:17,esconv-0313,17,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0324:1,esconv-0324,1,Question,Question,Question
+esconv-0324:3,esconv-0324,3,Restatement or Paraphrasing,Question,Question
+esconv-0324:5,esconv-0324,5,Reflection of feelings,Question,Question
+esconv-0324:7,esconv-0324,7,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0324:8,esconv-0324,8,Others,Question,Providing Suggestions
+esconv-0324:11,esconv-0324,11,Others,Question,Providing Suggestions
+esconv-0324:13,esconv-0324,13,Self-disclosure,Question,Providing Suggestions
+esconv-0324:15,esconv-0324,15,Self-disclosure,Question,Providing Suggestions
+esconv-0324:17,esconv-0324,17,Providing Suggestions,Question,Providing Suggestions
+esconv-0324:19,esconv-0324,19,Self-disclosure,Question,Providing Suggestions
+esconv-0324:21,esconv-0324,21,Providing Suggestions,Question,Others
+esconv-0324:24,esconv-0324,24,Others,Question,Others
+esconv-0327:1,esconv-0327,1,Question,Question,Question
+esconv-0327:3,esconv-0327,3,Self-disclosure,Question,Question
+esconv-0327:5,esconv-0327,5,Others,Question,Question
+esconv-0327:7,esconv-0327,7,Question,Question,Question
+esconv-0327:8,esconv-0327,8,Providing Suggestions,Question,Providing Suggestions
+esconv-0327:11,esconv-0327,11,Self-disclosure,Question,Providing Suggestions
+esconv-0327:13,esconv-0327,13,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0327:15,esconv-0327,15,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0327:18,esconv-0327,18,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0327:20,esconv-0327,20,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0327:22,esconv-0327,22,Question,Question,Providing Suggestions
+esconv-0327:24,esconv-0327,24,Providing Suggestions,Question,Providing Suggestions
+esconv-0327:27,esconv-0327,27,Affirmation and Reassurance,Question,Others
+esconv-0327:29,esconv-0327,29,Others,Question,Others
+esconv-0327:31,esconv-0327,31,Others,Question,Others
+esconv-0327:33,esconv-0327,33,Others,Question,Others
+esconv-0332:2,esconv-0332,2,Question,Question,Question
+esconv-0332:4,esconv-0332,4,Restatement or Paraphrasing,Question,Question
+esconv-0332:6,esconv-0332,6,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0332:8,esconv-0332,8,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0332:10,esconv-0332,10,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0332:12,esconv-0332,12,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0332:14,esconv-0332,14,Information,Question,Affirmation and Reassurance
+esconv-0332:17,esconv-0332,17,Self-disclosure,Question,Providing Suggestions
+esconv-0332:19,esconv-0332,19,Providing Suggestions,Question,Providing Suggestions
+esconv-0332:21,esconv-0332,21,Others,Question,Providing Suggestions
+esconv-0332:23,esconv-0332,23,Others,Question,Providing Suggestions
+esconv-0332:25,esconv-0332,25,Others,Question,Others
+esconv-0336:2,esconv-0336,2,Question,Question,Question
+esconv-0336:4,esconv-0336,4,Others,Question,Question
+esconv-0336:6,esconv-0336,6,Others,Question,Question
+esconv-0336:8,esconv-0336,8,Reflection of feelings,Question,Providing Suggestions
+esconv-0336:10,esconv-0336,10,Providing Suggestions,Question,Providing Suggestions
+esconv-0336:12,esconv-0336,12,Providing Suggestions,Question,Providing Suggestions
+esconv-0336:13,esconv-0336,13,Others,Question,Providing Suggestions
+esconv-0336:14,esconv-0336,14,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0336:16,esconv-0336,16,Self-disclosure,Question,Providing Suggestions
+esconv-0336:17,esconv-0336,17,Information,Question,Providing Suggestions
+esconv-0336:19,esconv-0336,19,Self-disclosure,Question,Providing Suggestions
+esconv-0336:21,esconv-0336,21,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0338:2,esconv-0338,2,Reflection of feelings,Question,Question
+esconv-0338:4,esconv-0338,4,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0338:5,esconv-0338,5,Question,Question,Affirmation and Reassurance
+esconv-0338:7,esconv-0338,7,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0338:8,esconv-0338,8,Question,Question,Providing Suggestions
+esconv-0338:11,esconv-0338,11,Reflection of feelings,Question,Providing Suggestions
+esconv-0338:12,esconv-0338,12,Question,Question,Providing Suggestions
+esconv-0338:14,esconv-0338,14,Self-disclosure,Question,Providing Suggestions
+esconv-0338:17,esconv-0338,17,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0338:18,esconv-0338,18,Providing Suggestions,Question,Providing Suggestions
+esconv-0338:20,esconv-0338,20,Providing Suggestions,Question,Providing Suggestions
+esconv-0338:22,esconv-0338,22,Information,Question,Providing Suggestions
+esconv-0338:23,esconv-0338,23,Information,Question,Providing Suggestions
+esconv-0338:25,esconv-0338,25,Others,Question,Others
+esconv-0363:1,esconv-0363,1,Question,Question,Question
+esconv-0363:3,esconv-0363,3,Affirmation and Reassurance,Question,Question
+esconv-0363:5,esconv-0363,5,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0363:6,esconv-0363,6,Question,Question,Affirmation and Reassurance
+esconv-0363:9,esconv-0363,9,Others,Question,Affirmation and Reassurance
+esconv-0363:10,esconv-0363,10,Others,Question,Providing Suggestions
+esconv-0363:12,esconv-0363,12,Others,Question,Affirmation and Reassurance
+esconv-0363:15,esconv-0363,15,Others,Question,Providing Suggestions
+esconv-0363:17,esconv-0363,17,Others,Question,Providing Suggestions
+esconv-0363:18,esconv-0363,18,Providing Suggestions,Question,Providing Suggestions
+esconv-0363:21,esconv-0363,21,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0363:23,esconv-0363,23,Others,Question,Affirmation and Reassurance
+esconv-0363:25,esconv-0363,25,Others,Question,Others
+esconv-0369:1,esconv-0369,1,Question,Question,Question
+esconv-0369:3,esconv-0369,3,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0369:5,esconv-0369,5,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0369:7,esconv-0369,7,Question,Question,Question
+esconv-0369:9,esconv-0369,9,Information,Question,Question
+esconv-0369:11,esconv-0369,11,Information,Question,Providing Suggestions
+esconv-0369:13,esconv-0369,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0369:15,esconv-0369,15,Question,Question,Others
+esconv-0369:17,esconv-0369,17,Affirmation and Reassurance,Question,Others
+esconv-0369:19,esconv-0369,19,Question,Question,Others
+esconv-0369:21,esconv-0369,21,Question,Question,Providing Suggestions
+esconv-0369:23,esconv-0369,23,Others,Question,Providing Suggestions
+esconv-0369:25,esconv-0369,25,Others,Question,Providing Suggestions
+esconv-0369:28,esconv-0369,28,Others,Question,Others
+esconv-0373:2,esconv-0373,2,Restatement or Paraphrasing,Question,Question
+esconv-0373:4,esconv-0373,4,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0373:6,esconv-0373,6,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0373:8,esconv-0373,8,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0373:10,esconv-0373,10,Others,Question,Providing Suggestions
+esconv-0373:12,esconv-0373,12,Information,Question,Providing Suggestions
+esconv-0373:14,esconv-0373,14,Providing Suggestions,Question,Others
+esconv-0373:16,esconv-0373,16,Others,Question,Others
+esconv-0373:18,esconv-0373,18,Affirmation and Reassurance,Question,Others
+esconv-0373:19,esconv-0373,19,Question,Question,Others
+esconv-0373:21,esconv-0373,21,Affirmation and Reassurance,Question,Others
+esconv-0373:23,esconv-0373,23,Others,Question,Others
+esconv-0381:1,esconv-0381,1,Question,Question,Question
+esconv-0381:4,esconv-0381,4,Affirmation and Reassurance,Question,Question
+esconv-0381:6,esconv-0381,6,Reflection of feelings,Question,Others
+esconv-0381:8,esconv-0381,8,Question,Question,Others
+esconv-0381:11,esconv-0381,11,Reflection of feelings,Question,Question
+esconv-0381:13,esconv-0381,13,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0381:15,esconv-0381,15,Providing Suggestions,Question,Providing Suggestions
+esconv-0381:16,esconv-0381,16,Providing Suggestions,Question,Providing Suggestions
+esconv-0381:20,esconv-0381,20,Providing Suggestions,Question,Providing Suggestions
+esconv-0381:24,esconv-0381,24,Information,Question,Providing Suggestions
+esconv-0381:26,esconv-0381,26,Question,Question,Providing Suggestions
+esconv-0381:29,esconv-0381,29,Providing Suggestions,Question,Providing Suggestions
+esconv-0381:31,esconv-0381,31,Others,Question,Providing Suggestions
+esconv-0381:33,esconv-0381,33,Others,Question,Providing Suggestions
+esconv-0381:36,esconv-0381,36,Others,Question,Others
+esconv-0388:4,esconv-0388,4,Restatement or Paraphrasing,Question,Question
+esconv-0388:5,esconv-0388,5,Self-disclosure,Question,Question
+esconv-0388:6,esconv-0388,6,Self-disclosure,Question,Question
+esconv-0388:9,esconv-0388,9,Reflection of feelings,Question,Question
+esconv-0388:11,esconv-0388,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0388:12,esconv-0388,12,Providing Suggestions,Question,Providing Suggestions
+esconv-0388:14,esconv-0388,14,Question,Question,Providing Suggestions
+esconv-0388:17,esconv-0388,17,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0388:18,esconv-0388,18,Information,Question,Reflection of feelings
+esconv-0388:20,esconv-0388,20,Affirmation and Reassurance,Question,Reflection of feelings
+esconv-0388:22,esconv-0388,22,Providing Suggestions,Question,Others
+esconv-0388:25,esconv-0388,25,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0388:27,esconv-0388,27,Reflection of feelings,Question,Providing Suggestions
+esconv-0388:29,esconv-0388,29,Providing Suggestions,Question,Providing Suggestions
+esconv-0388:30,esconv-0388,30,Providing Suggestions,Question,Providing Suggestions
+esconv-0388:32,esconv-0388,32,Affirmation and Reassurance,Question,Others
+esconv-0388:33,esconv-0388,33,Providing Suggestions,Question,Others
+esconv-0388:35,esconv-0388,35,Affirmation and Reassurance,Question,Others
+esconv-0388:36,esconv-0388,36,Affirmation and Reassurance,Question,Others
+esconv-0388:39,esconv-0388,39,Others,Question,Others
+esconv-0409:2,esconv-0409,2,Restatement or Paraphrasing,Question,Question
+esconv-0409:4,esconv-0409,4,Restatement or Paraphrasing,Question,Question
+esconv-0409:6,esconv-0409,6,Reflection of feelings,Question,Question
+esconv-0409:9,esconv-0409,9,Others,Question,Affirmation and Reassurance
+esconv-0409:10,esconv-0409,10,Question,Question,Providing Suggestions
+esconv-0409:12,esconv-0409,12,Question,Question,Affirmation and Reassurance
+esconv-0409:15,esconv-0409,15,Self-disclosure,Question,Providing Suggestions
+esconv-0409:17,esconv-0409,17,Providing Suggestions,Question,Providing Suggestions
+esconv-0409:20,esconv-0409,20,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0409:22,esconv-0409,22,Others,Question,Self-disclosure
+esconv-0409:25,esconv-0409,25,Others,Question,Providing Suggestions
+esconv-0409:27,esconv-0409,27,Others,Question,Providing Suggestions
+esconv-0409:29,esconv-0409,29,Others,Question,Others
+esconv-0409:31,esconv-0409,31,Others,Question,Others
+esconv-0409:33,esconv-0409,33,Others,Question,Others
+esconv-0411:2,esconv-0411,2,Restatement or Paraphrasing,Question,Question
+esconv-0411:4,esconv-0411,4,Self-disclosure,Question,Question
+esconv-0411:6,esconv-0411,6,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0411:8,esconv-0411,8,Others,Question,Providing Suggestions
+esconv-0411:10,esconv-0411,10,Question,Question,Providing Suggestions
+esconv-0411:12,esconv-0411,12,Self-disclosure,Question,Providing Suggestions
+esconv-0411:14,esconv-0411,14,Reflection of feelings,Question,Providing Suggestions
+esconv-0411:16,esconv-0411,16,Question,Question,Providing Suggestions
+esconv-0411:18,esconv-0411,18,Others,Question,Providing Suggestions
+esconv-0411:19,esconv-0411,19,Others,Question,Providing Suggestions
+esconv-0411:21,esconv-0411,21,Others,Question,Providing Suggestions
+esconv-0411:23,esconv-0411,23,Others,Question,Others
+esconv-0411:24,esconv-0411,24,Question,Question,Others
+esconv-0411:25,esconv-0411,25,Others,Question,Others
+esconv-0418:2,esconv-0418,2,Restatement or Paraphrasing,Question,Question
+esconv-0418:4,esconv-0418,4,Affirmation and Reassurance,Question,Question
+esconv-0418:6,esconv-0418,6,Question,Question,Question
+esconv-0418:8,esconv-0418,8,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0418:10,esconv-0418,10,Providing Suggestions,Question,Providing Suggestions
+esconv-0418:12,esconv-0418,12,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0418:14,esconv-0418,14,Information,Question,Affirmation and Reassurance
+esconv-0418:16,esconv-0418,16,Information,Question,Affirmation and Reassurance
+esconv-0418:18,esconv-0418,18,Question,Question,Affirmation and Reassurance
+esconv-0418:20,esconv-0418,20,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0418:22,esconv-0418,22,Self-disclosure,Question,Providing Suggestions
+esconv-0418:24,esconv-0418,24,Question,Question,Providing Suggestions
+esconv-0418:26,esconv-0418,26,Others,Question,Providing Suggestions
+esconv-0418:28,esconv-0418,28,Others,Question,Others
+esconv-0418:29,esconv-0418,29,Others,Question,Others
+esconv-0433:2,esconv-0433,2,Question,Question,Question
+esconv-0433:5,esconv-0433,5,Restatement or Paraphrasing,Question,Question
+esconv-0433:6,esconv-0433,6,Question,Question,Question
+esconv-0433:7,esconv-0433,7,Question,Question,Affirmation and Reassurance
+esconv-0433:10,esconv-0433,10,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0433:11,esconv-0433,11,Affirmation and Reassurance,Question,Self-disclosure
+esconv-0433:14,esconv-0433,14,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0433:16,esconv-0433,16,Others,Question,Providing Suggestions
+esconv-0433:18,esconv-0433,18,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0433:20,esconv-0433,20,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0433:22,esconv-0433,22,Others,Question,Providing Suggestions
+esconv-0433:24,esconv-0433,24,Restatement or Paraphrasing,Question,Others
+esconv-0438:4,esconv-0438,4,Question,Question,Question
+esconv-0438:6,esconv-0438,6,Question,Question,Restatement or Paraphrasing
+esconv-0438:8,esconv-0438,8,Reflection of feelings,Question,Question
+esconv-0438:10,esconv-0438,10,Question,Question,Reflection of feelings
+esconv-0438:12,esconv-0438,12,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0438:14,esconv-0438,14,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0438:16,esconv-0438,16,Question,Question,Affirmation and Reassurance
+esconv-0438:18,esconv-0438,18,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0438:20,esconv-0438,20,Question,Question,Others
+esconv-0438:22,esconv-0438,22,Question,Question,Others
+esconv-0438:24,esconv-0438,24,Question,Question,Others
+esconv-0438:26,esconv-0438,26,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0438:28,esconv-0438,28,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0438:30,esconv-0438,30,Others,Question,Providing Suggestions
+esconv-0438:32,esconv-0438,32,Question,Question,Others
+esconv-0438:34,esconv-0438,34,Question,Question,Others
+esconv-0438:36,esconv-0438,36,Restatement or Paraphrasing,Question,Restatement or Paraphrasing
+esconv-0438:38,esconv-0438,38,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0438:40,esconv-0438,40,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0438:42,esconv-0438,42,Others,Question,Affirmation and Reassurance
+esconv-0447:1,esconv-0447,1,Question,Question,Question
+esconv-0447:3,esconv-0447,3,Question,Question,Question
+esconv-0447:5,esconv-0447,5,Affirmation and Reassurance,Question,Question
+esconv-0447:7,esconv-0447,7,Others,Question,Question
+esconv-0447:10,esconv-0447,10,Others,Question,Affirmation and Reassurance
+esconv-0447:12,esconv-0447,12,Question,Question,Providing Suggestions
+esconv-0447:13,esconv-0447,13,Question,Question,Providing Suggestions
+esconv-0447:15,esconv-0447,15,Others,Question,Providing Suggestions
+esconv-0447:17,esconv-0447,17,Question,Question,Providing Suggestions
+esconv-0447:19,esconv-0447,19,Question,Question,Providing Suggestions
+esconv-0447:21,esconv-0447,21,Self-disclosure,Question,Providing Suggestions
+esconv-0447:23,esconv-0447,23,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0447:25,esconv-0447,25,Providing Suggestions,Question,Others
+esconv-0447:27,esconv-0447,27,Information,Question,Others
+esconv-0447:29,esconv-0447,29,Others,Question,Others
+esconv-0447:32,esconv-0447,32,Others,Question,Others
+esconv-0447:33,esconv-0447,33,Others,Question,Others
+esconv-0448:2,esconv-0448,2,Question,Question,Others
+esconv-0448:4,esconv-0448,4,Restatement or Paraphrasing,Question,Question
+esconv-0448:6,esconv-0448,6,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0448:8,esconv-0448,8,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0448:10,esconv-0448,10,Providing Suggestions,Question,Providing Suggestions
+esconv-0448:12,esconv-0448,12,Others,Question,Providing Suggestions
+esconv-0448:13,esconv-0448,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0448:16,esconv-0448,16,Question,Question,Others
+esconv-0448:19,esconv-0448,19,Information,Question,Affirmation and Reassurance
+esconv-0448:21,esconv-0448,21,Providing Suggestions,Question,Others
+esconv-0448:23,esconv-0448,23,Reflection of feelings,Question,Others
+esconv-0448:24,esconv-0448,24,Affirmation and Reassurance,Question,Others
+esconv-0449:1,esconv-0449,1,Question,Question,Question
+esconv-0449:4,esconv-0449,4,Restatement or Paraphrasing,Question,Question
+esconv-0449:5,esconv-0449,5,Affirmation and Reassurance,Question,Question
+esconv-0449:8,esconv-0449,8,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0449:10,esconv-0449,10,Others,Question,Affirmation and Reassurance
+esconv-0449:12,esconv-0449,12,Others,Question,Affirmation and Reassurance
+esconv-0449:13,esconv-0449,13,Question,Question,Providing Suggestions
+esconv-0449:16,esconv-0449,16,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0449:19,esconv-0449,19,Others,Question,Question
+esconv-0449:22,esconv-0449,22,Others,Question,Others
+esconv-0449:24,esconv-0449,24,Question,Question,Others
+esconv-0449:26,esconv-0449,26,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0449:28,esconv-0449,28,Others,Question,Providing Suggestions
+esconv-0449:30,esconv-0449,30,Providing Suggestions,Question,Providing Suggestions
+esconv-0449:32,esconv-0449,32,Others,Question,Providing Suggestions
+esconv-0449:34,esconv-0449,34,Providing Suggestions,Question,Others
+esconv-0449:37,esconv-0449,37,Affirmation and Reassurance,Question,Others
+esconv-0449:38,esconv-0449,38,Information,Question,Others
+esconv-0449:41,esconv-0449,41,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0449:42,esconv-0449,42,Information,Question,Others
+esconv-0449:44,esconv-0449,44,Others,Question,Others
+esconv-0449:45,esconv-0449,45,Self-disclosure,Question,Others
+esconv-0449:47,esconv-0449,47,Others,Question,Providing Suggestions
+esconv-0449:49,esconv-0449,49,Question,Question,Providing Suggestions
+esconv-0449:51,esconv-0449,51,Others,Question,Providing Suggestions
+esconv-0449:53,esconv-0449,53,Others,Question,Providing Suggestions
+esconv-0449:55,esconv-0449,55,Reflection of feelings,Question,Providing Suggestions
+esconv-0449:57,esconv-0449,57,Others,Question,Providing Suggestions
+esconv-0449:59,esconv-0449,59,Others,Question,Providing Suggestions
+esconv-0449:61,esconv-0449,61,Others,Question,Others
+esconv-0456:2,esconv-0456,2,Question,Question,Question
+esconv-0456:4,esconv-0456,4,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0456:6,esconv-0456,6,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0456:8,esconv-0456,8,Providing Suggestions,Question,Providing Suggestions
+esconv-0456:10,esconv-0456,10,Self-disclosure,Question,Providing Suggestions
+esconv-0456:12,esconv-0456,12,Reflection of feelings,Question,Self-disclosure
+esconv-0456:14,esconv-0456,14,Providing Suggestions,Question,Providing Suggestions
+esconv-0456:16,esconv-0456,16,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0456:18,esconv-0456,18,Others,Question,Self-disclosure
+esconv-0456:20,esconv-0456,20,Others,Question,Self-disclosure
+esconv-0456:22,esconv-0456,22,Reflection of feelings,Question,Others
+esconv-0457:1,esconv-0457,1,Question,Question,Question
+esconv-0457:3,esconv-0457,3,Affirmation and Reassurance,Question,Question
+esconv-0457:5,esconv-0457,5,Providing Suggestions,Question,Question
+esconv-0457:7,esconv-0457,7,Reflection of feelings,Question,Question
+esconv-0457:9,esconv-0457,9,Providing Suggestions,Question,Providing Suggestions
+esconv-0457:11,esconv-0457,11,Self-disclosure,Question,Providing Suggestions
+esconv-0457:13,esconv-0457,13,Others,Question,Others
+esconv-0457:15,esconv-0457,15,Information,Question,Others
+esconv-0457:17,esconv-0457,17,Providing Suggestions,Question,Others
+esconv-0457:19,esconv-0457,19,Self-disclosure,Question,Others
+esconv-0457:20,esconv-0457,20,Question,Question,Others
+esconv-0457:22,esconv-0457,22,Providing Suggestions,Question,Information
+esconv-0459:3,esconv-0459,3,Affirmation and Reassurance,Question,Question
+esconv-0459:4,esconv-0459,4,Others,Question,Others
+esconv-0459:6,esconv-0459,6,Affirmation and Reassurance,Question,Others
+esconv-0459:9,esconv-0459,9,Others,Question,Affirmation and Reassurance
+esconv-0459:10,esconv-0459,10,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0459:12,esconv-0459,12,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0459:14,esconv-0459,14,Others,Question,Providing Suggestions
+esconv-0459:16,esconv-0459,16,Self-disclosure,Question,Others
+esconv-0459:17,esconv-0459,17,Information,Question,Others
+esconv-0459:20,esconv-0459,20,Others,Question,Others
+esconv-0459:22,esconv-0459,22,Information,Question,Providing Suggestions
+esconv-0459:25,esconv-0459,25,Others,Question,Question
+esconv-0459:27,esconv-0459,27,Providing Suggestions,Question,Others
+esconv-0459:28,esconv-0459,28,Providing Suggestions,Question,Others
+esconv-0459:31,esconv-0459,31,Others,Question,Others
+esconv-0459:32,esconv-0459,32,Others,Question,Others
+esconv-0461:1,esconv-0461,1,Others,Question,Question
+esconv-0461:3,esconv-0461,3,Others,Question,Question
+esconv-0461:4,esconv-0461,4,Question,Question,Question
+esconv-0461:6,esconv-0461,6,Question,Question,Question
+esconv-0461:8,esconv-0461,8,Question,Question,Restatement or Paraphrasing
+esconv-0461:11,esconv-0461,11,Restatement or Paraphrasing,Question,Question
+esconv-0461:13,esconv-0461,13,Self-disclosure,Question,Providing Suggestions
+esconv-0461:15,esconv-0461,15,Providing Suggestions,Question,Providing Suggestions
+esconv-0461:17,esconv-0461,17,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0461:19,esconv-0461,19,Others,Question,Providing Suggestions
+esconv-0461:21,esconv-0461,21,Reflection of feelings,Question,Providing Suggestions
+esconv-0480:1,esconv-0480,1,Others,Question,Question
+esconv-0480:3,esconv-0480,3,Question,Question,Question
+esconv-0480:5,esconv-0480,5,Question,Question,Question
+esconv-0480:7,esconv-0480,7,Question,Question,Question
+esconv-0480:9,esconv-0480,9,Reflection of feelings,Question,Restatement or Paraphrasing
+esconv-0480:11,esconv-0480,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0480:13,esconv-0480,13,Self-disclosure,Question,Providing Suggestions
+esconv-0480:15,esconv-0480,15,Providing Suggestions,Question,Providing Suggestions
+esconv-0480:17,esconv-0480,17,Others,Question,Providing Suggestions
+esconv-0480:19,esconv-0480,19,Others,Question,Providing Suggestions
+esconv-0480:21,esconv-0480,21,Others,Question,Others
+esconv-0480:23,esconv-0480,23,Question,Question,Others
+esconv-0480:25,esconv-0480,25,Self-disclosure,Question,Others
+esconv-0480:27,esconv-0480,27,Restatement or Paraphrasing,Question,Others
+esconv-0480:29,esconv-0480,29,Self-disclosure,Question,Others
+esconv-0480:31,esconv-0480,31,Information,Question,Others
+esconv-0494:3,esconv-0494,3,Question,Question,Question
+esconv-0494:5,esconv-0494,5,Affirmation and Reassurance,Question,Question
+esconv-0494:6,esconv-0494,6,Question,Question,Question
+esconv-0494:9,esconv-0494,9,Question,Question,Affirmation and Reassurance
+esconv-0494:13,esconv-0494,13,Providing Suggestions,Question,Question
+esconv-0494:15,esconv-0494,15,Question,Question,Providing Suggestions
+esconv-0494:17,esconv-0494,17,Providing Suggestions,Question,Providing Suggestions
+esconv-0494:20,esconv-0494,20,Providing Suggestions,Question,Providing Suggestions
+esconv-0494:24,esconv-0494,24,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0494:26,esconv-0494,26,Self-disclosure,Question,Others
+esconv-0494:27,esconv-0494,27,Reflection of feelings,Question,Others
+esconv-0494:30,esconv-0494,30,Providing Suggestions,Question,Others
+esconv-0506:1,esconv-0506,1,Others,Question,Question
+esconv-0506:4,esconv-0506,4,Others,Question,Question
+esconv-0506:5,esconv-0506,5,Question,Question,Question
+esconv-0506:8,esconv-0506,8,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0506:11,esconv-0506,11,Reflection of feelings,Question,Providing Suggestions
+esconv-0506:13,esconv-0506,13,Self-disclosure,Question,Providing Suggestions
+esconv-0506:15,esconv-0506,15,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0506:17,esconv-0506,17,Providing Suggestions,Question,Providing Suggestions
+esconv-0506:19,esconv-0506,19,Providing Suggestions,Question,Providing Suggestions
+esconv-0506:21,esconv-0506,21,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0506:24,esconv-0506,24,Others,Question,Providing Suggestions
+esconv-0506:26,esconv-0506,26,Others,Question,Others
+esconv-0506:28,esconv-0506,28,Others,Question,Others
+esconv-0517:1,esconv-0517,1,Question,Question,Question
+esconv-0517:3,esconv-0517,3,Question,Question,Question
+esconv-0517:5,esconv-0517,5,Question,Question,Question
+esconv-0517:7,esconv-0517,7,Providing Suggestions,Question,Question
+esconv-0517:10,esconv-0517,10,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0517:11,esconv-0517,11,Question,Question,Providing Suggestions
+esconv-0517:14,esconv-0517,14,Question,Question,Providing Suggestions
+esconv-0517:17,esconv-0517,17,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0517:18,esconv-0517,18,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0517:21,esconv-0517,21,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0517:24,esconv-0517,24,Question,Question,Affirmation and Reassurance
+esconv-0517:26,esconv-0517,26,Question,Question,Providing Suggestions
+esconv-0517:28,esconv-0517,28,Others,Question,Providing Suggestions
+esconv-0517:29,esconv-0517,29,Others,Question,Providing Suggestions
+esconv-0518:2,esconv-0518,2,Question,Question,Question
+esconv-0518:4,esconv-0518,4,Question,Question,Question
+esconv-0518:6,esconv-0518,6,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0518:8,esconv-0518,8,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0518:10,esconv-0518,10,Providing Suggestions,Question,Providing Suggestions
+esconv-0518:12,esconv-0518,12,Providing Suggestions,Question,Providing Suggestions
+esconv-0518:13,esconv-0518,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0518:15,esconv-0518,15,Providing Suggestions,Question,Providing Suggestions
+esconv-0518:18,esconv-0518,18,Information,Question,Affirmation and Reassurance
+esconv-0518:19,esconv-0518,19,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0518:21,esconv-0518,21,Others,Question,Others
+esconv-0518:23,esconv-0518,23,Others,Question,Others
+esconv-0519:2,esconv-0519,2,Question,Question,Question
+esconv-0519:4,esconv-0519,4,Self-disclosure,Question,Question
+esconv-0519:6,esconv-0519,6,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0519:9,esconv-0519,9,Information,Question,Providing Suggestions
+esconv-0519:10,esconv-0519,10,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0519:11,esconv-0519,11,Reflection of feelings,Question,Providing Suggestions
+esconv-0519:13,esconv-0519,13,Question,Question,Providing Suggestions
+esconv-0519:15,esconv-0519,15,Reflection of feelings,Question,Providing Suggestions
+esconv-0519:17,esconv-0519,17,Others,Question,Providing Suggestions
+esconv-0519:19,esconv-0519,19,Providing Suggestions,Question,Providing Suggestions
+esconv-0529:1,esconv-0529,1,Question,Question,Question
+esconv-0529:3,esconv-0529,3,Question,Question,Question
+esconv-0529:5,esconv-0529,5,Affirmation and Reassurance,Question,Question
+esconv-0529:7,esconv-0529,7,Reflection of feelings,Question,Self-disclosure
+esconv-0529:9,esconv-0529,9,Providing Suggestions,Question,Providing Suggestions
+esconv-0529:11,esconv-0529,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0529:13,esconv-0529,13,Information,Question,Providing Suggestions
+esconv-0529:15,esconv-0529,15,Question,Question,Providing Suggestions
+esconv-0529:17,esconv-0529,17,Question,Question,Providing Suggestions
+esconv-0534:1,esconv-0534,1,Restatement or Paraphrasing,Question,Question
+esconv-0534:3,esconv-0534,3,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0534:4,esconv-0534,4,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0534:6,esconv-0534,6,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0534:7,esconv-0534,7,Question,Question,Affirmation and Reassurance
+esconv-0534:10,esconv-0534,10,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0534:12,esconv-0534,12,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0534:14,esconv-0534,14,Question,Question,Providing Suggestions
+esconv-0534:15,esconv-0534,15,Providing Suggestions,Question,Providing Suggestions
+esconv-0534:17,esconv-0534,17,Information,Question,Affirmation and Reassurance
+esconv-0534:19,esconv-0534,19,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0534:21,esconv-0534,21,Self-disclosure,Question,Providing Suggestions
+esconv-0534:23,esconv-0534,23,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0537:2,esconv-0537,2,Question,Question,Question
+esconv-0537:5,esconv-0537,5,Self-disclosure,Question,Question
+esconv-0537:6,esconv-0537,6,Information,Question,Question
+esconv-0537:8,esconv-0537,8,Providing Suggestions,Question,Providing Suggestions
+esconv-0537:10,esconv-0537,10,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0537:11,esconv-0537,11,Reflection of feelings,Question,Providing Suggestions
+esconv-0537:13,esconv-0537,13,Self-disclosure,Question,Providing Suggestions
+esconv-0537:14,esconv-0537,14,Providing Suggestions,Question,Providing Suggestions
+esconv-0537:17,esconv-0537,17,Reflection of feelings,Question,Providing Suggestions
+esconv-0537:18,esconv-0537,18,Providing Suggestions,Question,Providing Suggestions
+esconv-0550:1,esconv-0550,1,Others,Question,Question
+esconv-0550:2,esconv-0550,2,Question,Question,Question
+esconv-0550:3,esconv-0550,3,Question,Question,Question
+esconv-0550:6,esconv-0550,6,Question,Question,Question
+esconv-0550:7,esconv-0550,7,Self-disclosure,Question,Question
+esconv-0550:10,esconv-0550,10,Reflection of feelings,Question,Providing Suggestions
+esconv-0550:12,esconv-0550,12,Providing Suggestions,Question,Providing Suggestions
+esconv-0550:14,esconv-0550,14,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0550:16,esconv-0550,16,Information,Question,Providing Suggestions
+esconv-0550:18,esconv-0550,18,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0557:3,esconv-0557,3,Question,Question,Question
+esconv-0557:5,esconv-0557,5,Restatement or Paraphrasing,Question,Restatement or Paraphrasing
+esconv-0557:7,esconv-0557,7,Providing Suggestions,Question,Question
+esconv-0557:9,esconv-0557,9,Information,Question,Affirmation and Reassurance
+esconv-0557:10,esconv-0557,10,Question,Question,Affirmation and Reassurance
+esconv-0557:12,esconv-0557,12,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0557:14,esconv-0557,14,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0557:16,esconv-0557,16,Providing Suggestions,Question,Others
+esconv-0557:17,esconv-0557,17,Self-disclosure,Question,Providing Suggestions
+esconv-0557:19,esconv-0557,19,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0557:22,esconv-0557,22,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0557:24,esconv-0557,24,Affirmation and Reassurance,Question,Others
+esconv-0557:26,esconv-0557,26,Others,Question,Affirmation and Reassurance
+esconv-0557:28,esconv-0557,28,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0557:30,esconv-0557,30,Others,Question,Affirmation and Reassurance
+esconv-0559:1,esconv-0559,1,Question,Question,Question
+esconv-0559:3,esconv-0559,3,Self-disclosure,Question,Question
+esconv-0559:5,esconv-0559,5,Question,Question,Question
+esconv-0559:7,esconv-0559,7,Affirmation and Reassurance,Question,Question
+esconv-0559:9,esconv-0559,9,Reflection of feelings,Question,Question
+esconv-0559:10,esconv-0559,10,Question,Question,Question
+esconv-0559:12,esconv-0559,12,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0559:13,esconv-0559,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0559:14,esconv-0559,14,Question,Question,Providing Suggestions
+esconv-0559:16,esconv-0559,16,Reflection of feelings,Question,Providing Suggestions
+esconv-0559:19,esconv-0559,19,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0559:20,esconv-0559,20,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0559:22,esconv-0559,22,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0559:24,esconv-0559,24,Others,Question,Others
+esconv-0559:26,esconv-0559,26,Providing Suggestions,Question,Others
+esconv-0559:28,esconv-0559,28,Restatement or Paraphrasing,Question,Others
+esconv-0567:2,esconv-0567,2,Question,Question,Question
+esconv-0567:4,esconv-0567,4,Restatement or Paraphrasing,Question,Question
+esconv-0567:5,esconv-0567,5,Self-disclosure,Question,Question
+esconv-0567:7,esconv-0567,7,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0567:10,esconv-0567,10,Self-disclosure,Question,Providing Suggestions
+esconv-0567:12,esconv-0567,12,Reflection of feelings,Question,Providing Suggestions
+esconv-0567:13,esconv-0567,13,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0567:15,esconv-0567,15,Reflection of feelings,Question,Providing Suggestions
+esconv-0567:17,esconv-0567,17,Others,Question,Affirmation and Reassurance
+esconv-0567:19,esconv-0567,19,Others,Question,Affirmation and Reassurance
+esconv-0567:22,esconv-0567,22,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0567:23,esconv-0567,23,Others,Question,Others
+esconv-0567:25,esconv-0567,25,Self-disclosure,Question,Others
+esconv-0567:26,esconv-0567,26,Self-disclosure,Question,Others
+esconv-0567:28,esconv-0567,28,Affirmation and Reassurance,Question,Others
+esconv-0567:31,esconv-0567,31,Others,Question,Others
+esconv-0574:2,esconv-0574,2,Question,Question,Question
+esconv-0574:4,esconv-0574,4,Others,Question,Affirmation and Reassurance
+esconv-0574:6,esconv-0574,6,Others,Question,Others
+esconv-0574:8,esconv-0574,8,Affirmation and Reassurance,Question,Others
+esconv-0574:13,esconv-0574,13,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0574:15,esconv-0574,15,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0574:16,esconv-0574,16,Self-disclosure,Question,Providing Suggestions
+esconv-0574:18,esconv-0574,18,Providing Suggestions,Question,Providing Suggestions
+esconv-0574:19,esconv-0574,19,Self-disclosure,Question,Providing Suggestions
+esconv-0574:22,esconv-0574,22,Information,Question,Affirmation and Reassurance
+esconv-0574:24,esconv-0574,24,Self-disclosure,Question,Providing Suggestions
+esconv-0574:25,esconv-0574,25,Self-disclosure,Question,Providing Suggestions
+esconv-0574:26,esconv-0574,26,Providing Suggestions,Question,Providing Suggestions
+esconv-0574:28,esconv-0574,28,Others,Question,Providing Suggestions
+esconv-0574:29,esconv-0574,29,Self-disclosure,Question,Providing Suggestions
+esconv-0574:32,esconv-0574,32,Self-disclosure,Question,Providing Suggestions
+esconv-0574:33,esconv-0574,33,Self-disclosure,Question,Providing Suggestions
+esconv-0574:34,esconv-0574,34,Providing Suggestions,Question,Providing Suggestions
+esconv-0574:36,esconv-0574,36,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0574:37,esconv-0574,37,Others,Question,Affirmation and Reassurance
+esconv-0574:38,esconv-0574,38,Others,Question,Affirmation and Reassurance
+esconv-0574:40,esconv-0574,40,Others,Question,Others
+esconv-0574:41,esconv-0574,41,Affirmation and Reassurance,Question,Others
+esconv-0591:1,esconv-0591,1,Question,Question,Question
+esconv-0591:3,esconv-0591,3,Reflection of feelings,Question,Question
+esconv-0591:5,esconv-0591,5,Reflection of feelings,Question,Question
+esconv-0591:7,esconv-0591,7,Question,Question,Question
+esconv-0591:9,esconv-0591,9,Question,Question,Question
+esconv-0591:11,esconv-0591,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0591:13,esconv-0591,13,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0591:15,esconv-0591,15,Providing Suggestions,Question,Providing Suggestions
+esconv-0591:19,esconv-0591,19,Others,Question,Others
+esconv-0591:22,esconv-0591,22,Others,Question,Others
+esconv-0592:2,esconv-0592,2,Question,Question,Question
+esconv-0592:4,esconv-0592,4,Question,Question,Question
+esconv-0592:6,esconv-0592,6,Self-disclosure,Question,Question
+esconv-0592:7,esconv-0592,7,Question,Question,Question
+esconv-0592:9,esconv-0592,9,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0592:10,esconv-0592,10,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0592:12,esconv-0592,12,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0592:13,esconv-0592,13,Question,Question,Affirmation and Reassurance
+esconv-0592:15,esconv-0592,15,Providing Suggestions,Question,Providing Suggestions
+esconv-0592:17,esconv-0592,17,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0592:19,esconv-0592,19,Self-disclosure,Question,Providing Suggestions
+esconv-0592:20,esconv-0592,20,Information,Question,Others
+esconv-0592:22,esconv-0592,22,Others,Question,Others
+esconv-0592:24,esconv-0592,24,Others,Question,Others
+esconv-0597:1,esconv-0597,1,Affirmation and Reassurance,Question,Question
+esconv-0597:3,esconv-0597,3,Restatement or Paraphrasing,Question,Question
+esconv-0597:5,esconv-0597,5,Self-disclosure,Question,Question
+esconv-0597:6,esconv-0597,6,Providing Suggestions,Question,Question
+esconv-0597:9,esconv-0597,9,Question,Question,Providing Suggestions
+esconv-0597:11,esconv-0597,11,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0597:13,esconv-0597,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0597:15,esconv-0597,15,Providing Suggestions,Question,Providing Suggestions
+esconv-0597:17,esconv-0597,17,Reflection of feelings,Question,Providing Suggestions
+esconv-0597:19,esconv-0597,19,Affirmation and Reassurance,Question,Others
+esconv-0603:1,esconv-0603,1,Others,Question,Question
+esconv-0603:3,esconv-0603,3,Question,Question,Question
+esconv-0603:6,esconv-0603,6,Question,Question,Question
+esconv-0603:8,esconv-0603,8,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0603:9,esconv-0603,9,Question,Question,Self-disclosure
+esconv-0603:13,esconv-0603,13,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0603:14,esconv-0603,14,Question,Question,Affirmation and Reassurance
+esconv-0603:16,esconv-0603,16,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0603:19,esconv-0603,19,Affirmation and Reassurance,Question,Question
+esconv-0603:24,esconv-0603,24,Providing Suggestions,Question,Others
+esconv-0603:26,esconv-0603,26,Question,Question,Others
+esconv-0603:28,esconv-0603,28,Others,Question,Others
+esconv-0603:31,esconv-0603,31,Providing Suggestions,Question,Others
+esconv-0603:34,esconv-0603,34,Self-disclosure,Question,Providing Suggestions
+esconv-0603:37,esconv-0603,37,Information,Question,Providing Suggestions
+esconv-0603:41,esconv-0603,41,Others,Question,Others
+esconv-0603:43,esconv-0603,43,Others,Question,Affirmation and Reassurance
+esconv-0603:45,esconv-0603,45,Affirmation and Reassurance,Question,Self-disclosure
+esconv-0603:49,esconv-0603,49,Others,Question,Others
+esconv-0607:1,esconv-0607,1,Question,Question,Question
+esconv-0607:4,esconv-0607,4,Others,Question,Others
+esconv-0607:5,esconv-0607,5,Self-disclosure,Question,Question
+esconv-0607:7,esconv-0607,7,Affirmation and Reassurance,Question,Reflection of feelings
+esconv-0607:8,esconv-0607,8,Providing Suggestions,Question,Providing Suggestions
+esconv-0607:9,esconv-0607,9,Question,Question,Others
+esconv-0607:12,esconv-0607,12,Providing Suggestions,Question,Providing Suggestions
+esconv-0607:14,esconv-0607,14,Providing Suggestions,Question,Others
+esconv-0607:16,esconv-0607,16,Providing Suggestions,Question,Others
+esconv-0607:19,esconv-0607,19,Affirmation and Reassurance,Question,Information
+esconv-0607:21,esconv-0607,21,Information,Question,Affirmation and Reassurance
+esconv-0613:2,esconv-0613,2,Question,Question,Question
+esconv-0613:4,esconv-0613,4,Reflection of feelings,Question,Question
+esconv-0613:6,esconv-0613,6,Self-disclosure,Question,Question
+esconv-0613:8,esconv-0613,8,Self-disclosure,Question,Reflection of feelings
+esconv-0613:11,esconv-0613,11,Reflection of feelings,Question,Others
+esconv-0613:13,esconv-0613,13,Self-disclosure,Question,Question
+esconv-0613:15,esconv-0613,15,Question,Question,Question
+esconv-0613:18,esconv-0613,18,Reflection of feelings,Question,Providing Suggestions
+esconv-0613:19,esconv-0613,19,Others,Question,Providing Suggestions
+esconv-0613:22,esconv-0613,22,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0617:2,esconv-0617,2,Information,Question,Question
+esconv-0617:4,esconv-0617,4,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0617:5,esconv-0617,5,Information,Question,Question
+esconv-0617:7,esconv-0617,7,Information,Question,Providing Suggestions
+esconv-0617:10,esconv-0617,10,Providing Suggestions,Question,Providing Suggestions
+esconv-0617:12,esconv-0617,12,Self-disclosure,Question,Providing Suggestions
+esconv-0617:14,esconv-0617,14,Question,Question,Providing Suggestions
+esconv-0617:15,esconv-0617,15,Others,Question,Providing Suggestions
+esconv-0617:17,esconv-0617,17,Self-disclosure,Question,Providing Suggestions
+esconv-0617:19,esconv-0617,19,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0617:21,esconv-0617,21,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0617:23,esconv-0617,23,Others,Question,Others
+esconv-0621:2,esconv-0621,2,Reflection of feelings,Question,Question
+esconv-0621:4,esconv-0621,4,Reflection of feelings,Question,Question
+esconv-0621:6,esconv-0621,6,Affirmation and Reassurance,Question,Question
+esconv-0621:8,esconv-0621,8,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0621:10,esconv-0621,10,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0621:12,esconv-0621,12,Reflection of feelings,Question,Others
+esconv-0621:14,esconv-0621,14,Others,Question,Providing Suggestions
+esconv-0621:16,esconv-0621,16,Reflection of feelings,Question,Providing Suggestions
+esconv-0621:17,esconv-0621,17,Self-disclosure,Question,Providing Suggestions
+esconv-0621:19,esconv-0621,19,Others,Question,Others
+esconv-0621:21,esconv-0621,21,Others,Question,Others
+esconv-0621:23,esconv-0621,23,Affirmation and Reassurance,Question,Others
+esconv-0621:25,esconv-0621,25,Affirmation and Reassurance,Question,Others
+esconv-0645:1,esconv-0645,1,Others,Question,Question
+esconv-0645:3,esconv-0645,3,Question,Question,Others
+esconv-0645:5,esconv-0645,5,Question,Question,Providing Suggestions
+esconv-0645:7,esconv-0645,7,Providing Suggestions,Question,Providing Suggestions
+esconv-0645:9,esconv-0645,9,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0645:13,esconv-0645,13,Information,Question,Affirmation and Reassurance
+esconv-0645:17,esconv-0645,17,Providing Suggestions,Question,Providing Suggestions
+esconv-0645:20,esconv-0645,20,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0645:22,esconv-0645,22,Others,Question,Providing Suggestions
+esconv-0645:24,esconv-0645,24,Others,Question,Others
+esconv-0645:26,esconv-0645,26,Others,Question,Others
+esconv-0646:1,esconv-0646,1,Others,Question,Question
+esconv-0646:2,esconv-0646,2,Question,Question,Question
+esconv-0646:4,esconv-0646,4,Affirmation and Reassurance,Question,Question
+esconv-0646:6,esconv-0646,6,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0646:8,esconv-0646,8,Others,Question,Providing Suggestions
+esconv-0646:9,esconv-0646,9,Self-disclosure,Question,Providing Suggestions
+esconv-0646:11,esconv-0646,11,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0646:12,esconv-0646,12,Question,Question,Affirmation and Reassurance
+esconv-0646:14,esconv-0646,14,Question,Question,Providing Suggestions
+esconv-0646:16,esconv-0646,16,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0646:18,esconv-0646,18,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0646:20,esconv-0646,20,Question,Question,Providing Suggestions
+esconv-0646:22,esconv-0646,22,Reflection of feelings,Question,Others
+esconv-0649:3,esconv-0649,3,Affirmation and Reassurance,Question,Question
+esconv-0649:5,esconv-0649,5,Question,Question,Question
+esconv-0649:7,esconv-0649,7,Question,Question,Question
+esconv-0649:9,esconv-0649,9,Providing Suggestions,Question,Providing Suggestions
+esconv-0649:11,esconv-0649,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0649:13,esconv-0649,13,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0649:15,esconv-0649,15,Affirmation and Reassurance,Question,Others
+esconv-0649:18,esconv-0649,18,Providing Suggestions,Question,Others
+esconv-0649:20,esconv-0649,20,Question,Question,Others
+esconv-0654:2,esconv-0654,2,Question,Question,Question
+esconv-0654:4,esconv-0654,4,Question,Question,Restatement or Paraphrasing
+esconv-0654:6,esconv-0654,6,Question,Question,Restatement or Paraphrasing
+esconv-0654:8,esconv-0654,8,Information,Question,Providing Suggestions
+esconv-0654:10,esconv-0654,10,Information,Question,Providing Suggestions
+esconv-0654:12,esconv-0654,12,Self-disclosure,Question,Providing Suggestions
+esconv-0654:14,esconv-0654,14,Information,Question,Others
+esconv-0654:16,esconv-0654,16,Affirmation and Reassurance,Question,Others
+esconv-0654:18,esconv-0654,18,Question,Question,Others
+esconv-0670:1,esconv-0670,1,Question,Question,Question
+esconv-0670:4,esconv-0670,4,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0670:6,esconv-0670,6,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0670:8,esconv-0670,8,Self-disclosure,Question,Providing Suggestions
+esconv-0670:10,esconv-0670,10,Providing Suggestions,Question,Providing Suggestions
+esconv-0670:11,esconv-0670,11,Reflection of feelings,Question,Providing Suggestions
+esconv-0670:13,esconv-0670,13,Information,Question,Providing Suggestions
+esconv-0670:14,esconv-0670,14,Information,Question,Providing Suggestions
+esconv-0670:17,esconv-0670,17,Self-disclosure,Question,Providing Suggestions
+esconv-0670:18,esconv-0670,18,Information,Question,Providing Suggestions
+esconv-0670:20,esconv-0670,20,Information,Question,Affirmation and Reassurance
+esconv-0670:22,esconv-0670,22,Others,Question,Others
+esconv-0677:2,esconv-0677,2,Question,Question,Question
+esconv-0677:4,esconv-0677,4,Question,Question,Question
+esconv-0677:6,esconv-0677,6,Affirmation and Reassurance,Question,Restatement or Paraphrasing
+esconv-0677:7,esconv-0677,7,Question,Question,Question
+esconv-0677:9,esconv-0677,9,Affirmation and Reassurance,Question,Question
+esconv-0677:11,esconv-0677,11,Affirmation and Reassurance,Question,Question
+esconv-0677:13,esconv-0677,13,Reflection of feelings,Question,Question
+esconv-0677:14,esconv-0677,14,Question,Question,Affirmation and Reassurance
+esconv-0677:17,esconv-0677,17,Self-disclosure,Question,Providing Suggestions
+esconv-0677:18,esconv-0677,18,Question,Question,Providing Suggestions
+esconv-0677:20,esconv-0677,20,Information,Question,Providing Suggestions
+esconv-0677:21,esconv-0677,21,Providing Suggestions,Question,Question
+esconv-0677:23,esconv-0677,23,Self-disclosure,Question,Question
+esconv-0677:24,esconv-0677,24,Information,Question,Question
+esconv-0677:26,esconv-0677,26,Information,Question,Question
+esconv-0677:28,esconv-0677,28,Question,Question,Affirmation and Reassurance
+esconv-0677:30,esconv-0677,30,Others,Question,Others
+esconv-0677:32,esconv-0677,32,Others,Question,Others
+esconv-0677:36,esconv-0677,36,Others,Question,Others
+esconv-0685:2,esconv-0685,2,Restatement or Paraphrasing,Question,Question
+esconv-0685:5,esconv-0685,5,Affirmation and Reassurance,Question,Restatement or Paraphrasing
+esconv-0685:8,esconv-0685,8,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0685:9,esconv-0685,9,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0685:12,esconv-0685,12,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0685:13,esconv-0685,13,Reflection of feelings,Question,Providing Suggestions
+esconv-0685:16,esconv-0685,16,Others,Question,Providing Suggestions
+esconv-0685:18,esconv-0685,18,Others,Question,Providing Suggestions
+esconv-0685:19,esconv-0685,19,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0685:22,esconv-0685,22,Others,Question,Affirmation and Reassurance
+esconv-0685:25,esconv-0685,25,Others,Question,Others
+esconv-0685:27,esconv-0685,27,Others,Question,Others
+esconv-0685:28,esconv-0685,28,Self-disclosure,Question,Others
+esconv-0685:33,esconv-0685,33,Others,Question,Others
+esconv-0685:34,esconv-0685,34,Others,Question,Others
+esconv-0686:2,esconv-0686,2,Question,Question,Question
+esconv-0686:4,esconv-0686,4,Question,Question,Question
+esconv-0686:6,esconv-0686,6,Affirmation and Reassurance,Question,Question
+esconv-0686:8,esconv-0686,8,Question,Question,Affirmation and Reassurance
+esconv-0686:10,esconv-0686,10,Question,Question,Providing Suggestions
+esconv-0686:12,esconv-0686,12,Self-disclosure,Question,Providing Suggestions
+esconv-0686:14,esconv-0686,14,Providing Suggestions,Question,Providing Suggestions
+esconv-0686:16,esconv-0686,16,Information,Question,Reflection of feelings
+esconv-0686:18,esconv-0686,18,Self-disclosure,Question,Reflection of feelings
+esconv-0686:19,esconv-0686,19,Providing Suggestions,Question,Others
+esconv-0686:21,esconv-0686,21,Others,Question,Others
+esconv-0702:1,esconv-0702,1,Question,Question,Others
+esconv-0702:3,esconv-0702,3,Self-disclosure,Question,Providing Suggestions
+esconv-0702:5,esconv-0702,5,Self-disclosure,Question,Providing Suggestions
+esconv-0702:7,esconv-0702,7,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0702:9,esconv-0702,9,Information,Question,Affirmation and Reassurance
+esconv-0702:11,esconv-0702,11,Information,Question,Affirmation and Reassurance
+esconv-0702:13,esconv-0702,13,Self-disclosure,Question,Others
+esconv-0702:15,esconv-0702,15,Self-disclosure,Question,Others
+esconv-0702:17,esconv-0702,17,Reflection of feelings,Question,Providing Suggestions
+esconv-0702:19,esconv-0702,19,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0707:2,esconv-0707,2,Question,Question,Question
+esconv-0707:6,esconv-0707,6,Affirmation and Reassurance,Question,Question
+esconv-0707:7,esconv-0707,7,Question,Question,Question
+esconv-0707:11,esconv-0707,11,Question,Question,Information
+esconv-0707:12,esconv-0707,12,Others,Question,Affirmation and Reassurance
+esconv-0707:15,esconv-0707,15,Question,Question,Providing Suggestions
+esconv-0707:16,esconv-0707,16,Information,Question,Providing Suggestions
+esconv-0707:17,esconv-0707,17,Providing Suggestions,Question,Providing Suggestions
+esconv-0707:19,esconv-0707,19,Providing Suggestions,Question,Providing Suggestions
+esconv-0707:21,esconv-0707,21,Others,Question,Providing Suggestions
+esconv-0707:23,esconv-0707,23,Providing Suggestions,Question,Providing Suggestions
+esconv-0707:27,esconv-0707,27,Others,Question,Affirmation and Reassurance
+esconv-0707:30,esconv-0707,30,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0707:32,esconv-0707,32,Self-disclosure,Question,Providing Suggestions
+esconv-0707:35,esconv-0707,35,Self-disclosure,Question,Others
+esconv-0707:37,esconv-0707,37,Self-disclosure,Question,Others
+esconv-0707:38,esconv-0707,38,Others,Question,Others
+esconv-0707:42,esconv-0707,42,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0707:46,esconv-0707,46,Information,Question,Question
+esconv-0707:49,esconv-0707,49,Self-disclosure,Question,Others
+esconv-0707:51,esconv-0707,51,Others,Question,Others
+esconv-0707:55,esconv-0707,55,Others,Question,Others
+esconv-0707:58,esconv-0707,58,Providing Suggestions,Question,Others
+esconv-0707:60,esconv-0707,60,Self-disclosure,Question,Others
+esconv-0710:2,esconv-0710,2,Question,Question,Question
+esconv-0710:4,esconv-0710,4,Restatement or Paraphrasing,Question,Restatement or Paraphrasing
+esconv-0710:6,esconv-0710,6,Question,Question,Question
+esconv-0710:8,esconv-0710,8,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0710:10,esconv-0710,10,Question,Question,Providing Suggestions
+esconv-0710:12,esconv-0710,12,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0710:13,esconv-0710,13,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0710:15,esconv-0710,15,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0710:16,esconv-0710,16,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0710:18,esconv-0710,18,Providing Suggestions,Question,Providing Suggestions
+esconv-0710:19,esconv-0710,19,Question,Question,Providing Suggestions
+esconv-0710:21,esconv-0710,21,Providing Suggestions,Question,Providing Suggestions
+esconv-0710:23,esconv-0710,23,Reflection of feelings,Question,Providing Suggestions
+esconv-0710:25,esconv-0710,25,Reflection of feelings,Question,Providing Suggestions
+esconv-0710:27,esconv-0710,27,Others,Question,Others
+esconv-0710:29,esconv-0710,29,Others,Question,Others
+esconv-0715:1,esconv-0715,1,Reflection of feelings,Question,Question
+esconv-0715:3,esconv-0715,3,Reflection of feelings,Question,Question
+esconv-0715:5,esconv-0715,5,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0715:7,esconv-0715,7,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0715:9,esconv-0715,9,Reflection of feelings,Question,Providing Suggestions
+esconv-0715:12,esconv-0715,12,Reflection of feelings,Question,Providing Suggestions
+esconv-0715:14,esconv-0715,14,Reflection of feelings,Question,Providing Suggestions
+esconv-0715:16,esconv-0715,16,Self-disclosure,Question,Providing Suggestions
+esconv-0715:19,esconv-0715,19,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0715:21,esconv-0715,21,Reflection of feelings,Question,Others
+esconv-0718:3,esconv-0718,3,Affirmation and Reassurance,Question,Restatement or Paraphrasing
+esconv-0718:5,esconv-0718,5,Information,Question,Affirmation and Reassurance
+esconv-0718:10,esconv-0718,10,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0718:13,esconv-0718,13,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0718:17,esconv-0718,17,Question,Question,Providing Suggestions
+esconv-0718:20,esconv-0718,20,Reflection of feelings,Question,Providing Suggestions
+esconv-0718:22,esconv-0718,22,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0718:26,esconv-0718,26,Providing Suggestions,Question,Others
+esconv-0718:29,esconv-0718,29,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0718:31,esconv-0718,31,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0718:35,esconv-0718,35,Self-disclosure,Question,Others
+esconv-0718:37,esconv-0718,37,Affirmation and Reassurance,Question,Others
+esconv-0718:40,esconv-0718,40,Providing Suggestions,Question,Others
+esconv-0719:2,esconv-0719,2,Affirmation and Reassurance,Question,Question
+esconv-0719:4,esconv-0719,4,Question,Question,Question
+esconv-0719:6,esconv-0719,6,Reflection of feelings,Question,Question
+esconv-0719:8,esconv-0719,8,Self-disclosure,Question,Providing Suggestions
+esconv-0719:10,esconv-0719,10,Reflection of feelings,Question,Self-disclosure
+esconv-0719:11,esconv-0719,11,Providing Suggestions,Question,Self-disclosure
+esconv-0719:13,esconv-0719,13,Providing Suggestions,Question,Self-disclosure
+esconv-0719:15,esconv-0719,15,Self-disclosure,Question,Others
+esconv-0719:18,esconv-0719,18,Others,Question,Others
+esconv-0719:21,esconv-0719,21,Reflection of feelings,Question,Others
+esconv-0719:23,esconv-0719,23,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0719:25,esconv-0719,25,Others,Question,Others
+esconv-0726:3,esconv-0726,3,Question,Question,Question
+esconv-0726:5,esconv-0726,5,Question,Question,Question
+esconv-0726:7,esconv-0726,7,Affirmation and Reassurance,Question,Question
+esconv-0726:9,esconv-0726,9,Question,Question,Question
+esconv-0726:13,esconv-0726,13,Restatement or Paraphrasing,Question,Others
+esconv-0726:15,esconv-0726,15,Reflection of feelings,Question,Question
+esconv-0726:17,esconv-0726,17,Question,Question,Self-disclosure
+esconv-0726:19,esconv-0726,19,Question,Question,Affirmation and Reassurance
+esconv-0726:21,esconv-0726,21,Question,Question,Affirmation and Reassurance
+esconv-0730:1,esconv-0730,1,Question,Question,Question
+esconv-0730:3,esconv-0730,3,Restatement or Paraphrasing,Question,Question
+esconv-0730:4,esconv-0730,4,Question,Question,Question
+esconv-0730:5,esconv-0730,5,Question,Question,Question
+esconv-0730:6,esconv-0730,6,Others,Question,Question
+esconv-0730:7,esconv-0730,7,Question,Question,Providing Suggestions
+esconv-0730:9,esconv-0730,9,Reflection of feelings,Question,Providing Suggestions
+esconv-0730:12,esconv-0730,12,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0730:13,esconv-0730,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0730:16,esconv-0730,16,Self-disclosure,Question,Providing Suggestions
+esconv-0730:17,esconv-0730,17,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0730:19,esconv-0730,19,Providing Suggestions,Question,Others
+esconv-0730:21,esconv-0730,21,Providing Suggestions,Question,Providing Suggestions
+esconv-0730:22,esconv-0730,22,Affirmation and Reassurance,Question,Others
+esconv-0730:24,esconv-0730,24,Self-disclosure,Question,Providing Suggestions
+esconv-0730:26,esconv-0730,26,Others,Question,Others
+esconv-0736:1,esconv-0736,1,Question,Question,Question
+esconv-0736:4,esconv-0736,4,Question,Question,Question
+esconv-0736:7,esconv-0736,7,Reflection of feelings,Question,Question
+esconv-0736:11,esconv-0736,11,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0736:13,esconv-0736,13,Others,Question,Providing Suggestions
+esconv-0736:15,esconv-0736,15,Others,Question,Providing Suggestions
+esconv-0736:18,esconv-0736,18,Self-disclosure,Question,Providing Suggestions
+esconv-0736:21,esconv-0736,21,Information,Question,Providing Suggestions
+esconv-0736:24,esconv-0736,24,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0736:28,esconv-0736,28,Information,Question,Others
+esconv-0736:29,esconv-0736,29,Information,Question,Others
+esconv-0736:32,esconv-0736,32,Others,Question,Others
+esconv-0740:2,esconv-0740,2,Others,Question,Question
+esconv-0740:3,esconv-0740,3,Question,Question,Question
+esconv-0740:5,esconv-0740,5,Question,Question,Question
+esconv-0740:7,esconv-0740,7,Reflection of feelings,Question,Question
+esconv-0740:10,esconv-0740,10,Reflection of feelings,Question,Providing Suggestions
+esconv-0740:13,esconv-0740,13,Question,Question,Providing Suggestions
+esconv-0740:16,esconv-0740,16,Question,Question,Affirmation and Reassurance
+esconv-0740:19,esconv-0740,19,Self-disclosure,Question,Others
+esconv-0740:21,esconv-0740,21,Others,Question,Others
+esconv-0740:23,esconv-0740,23,Self-disclosure,Question,Others
+esconv-0740:25,esconv-0740,25,Self-disclosure,Question,Others
+esconv-0740:27,esconv-0740,27,Others,Question,Others
+esconv-0744:2,esconv-0744,2,Restatement or Paraphrasing,Question,Question
+esconv-0744:3,esconv-0744,3,Self-disclosure,Question,Question
+esconv-0744:6,esconv-0744,6,Affirmation and Reassurance,Question,Question
+esconv-0744:7,esconv-0744,7,Providing Suggestions,Question,Providing Suggestions
+esconv-0744:9,esconv-0744,9,Self-disclosure,Question,Providing Suggestions
+esconv-0744:12,esconv-0744,12,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0744:14,esconv-0744,14,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0744:16,esconv-0744,16,Providing Suggestions,Question,Others
+esconv-0744:19,esconv-0744,19,Providing Suggestions,Question,Others
+esconv-0744:21,esconv-0744,21,Others,Question,Others
+esconv-0744:24,esconv-0744,24,Others,Question,Others
+esconv-0745:1,esconv-0745,1,Question,Question,Question
+esconv-0745:3,esconv-0745,3,Affirmation and Reassurance,Question,Question
+esconv-0745:5,esconv-0745,5,Self-disclosure,Question,Providing Suggestions
+esconv-0745:7,esconv-0745,7,Providing Suggestions,Question,Providing Suggestions
+esconv-0745:9,esconv-0745,9,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0745:11,esconv-0745,11,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0745:13,esconv-0745,13,Question,Question,Providing Suggestions
+esconv-0745:15,esconv-0745,15,Self-disclosure,Question,Providing Suggestions
+esconv-0745:17,esconv-0745,17,Providing Suggestions,Question,Others
+esconv-0745:19,esconv-0745,19,Question,Question,Others
+esconv-0748:1,esconv-0748,1,Question,Question,Question
+esconv-0748:3,esconv-0748,3,Question,Question,Question
+esconv-0748:5,esconv-0748,5,Self-disclosure,Question,Question
+esconv-0748:7,esconv-0748,7,Question,Question,Question
+esconv-0748:9,esconv-0748,9,Reflection of feelings,Question,Providing Suggestions
+esconv-0748:11,esconv-0748,11,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0748:13,esconv-0748,13,Question,Question,Affirmation and Reassurance
+esconv-0748:15,esconv-0748,15,Question,Question,Affirmation and Reassurance
+esconv-0748:17,esconv-0748,17,Question,Question,Affirmation and Reassurance
+esconv-0748:20,esconv-0748,20,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0754:1,esconv-0754,1,Question,Question,Question
+esconv-0754:3,esconv-0754,3,Question,Question,Question
+esconv-0754:5,esconv-0754,5,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0754:6,esconv-0754,6,Question,Question,Affirmation and Reassurance
+esconv-0754:9,esconv-0754,9,Self-disclosure,Question,Providing Suggestions
+esconv-0754:11,esconv-0754,11,Self-disclosure,Question,Self-disclosure
+esconv-0754:12,esconv-0754,12,Information,Question,Providing Suggestions
+esconv-0754:15,esconv-0754,15,Reflection of feelings,Question,Providing Suggestions
+esconv-0754:17,esconv-0754,17,Providing Suggestions,Question,Others
+esconv-0754:20,esconv-0754,20,Information,Question,Providing Suggestions
+esconv-0754:22,esconv-0754,22,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0754:24,esconv-0754,24,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0756:2,esconv-0756,2,Affirmation and Reassurance,Question,Question
+esconv-0756:3,esconv-0756,3,Question,Question,Question
+esconv-0756:6,esconv-0756,6,Self-disclosure,Question,Restatement or Paraphrasing
+esconv-0756:8,esconv-0756,8,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0756:10,esconv-0756,10,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0756:12,esconv-0756,12,Others,Question,Providing Suggestions
+esconv-0756:13,esconv-0756,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0756:14,esconv-0756,14,Providing Suggestions,Question,Providing Suggestions
+esconv-0756:17,esconv-0756,17,Providing Suggestions,Question,Providing Suggestions
+esconv-0756:18,esconv-0756,18,Others,Question,Providing Suggestions
+esconv-0756:20,esconv-0756,20,Reflection of feelings,Question,Providing Suggestions
+esconv-0756:22,esconv-0756,22,Affirmation and Reassurance,Question,Others
+esconv-0756:24,esconv-0756,24,Others,Question,Others
+esconv-0758:2,esconv-0758,2,Question,Question,Question
+esconv-0758:4,esconv-0758,4,Question,Question,Question
+esconv-0758:7,esconv-0758,7,Reflection of feelings,Question,Question
+esconv-0758:10,esconv-0758,10,Question,Question,Affirmation and Reassurance
+esconv-0758:12,esconv-0758,12,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0758:16,esconv-0758,16,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0758:19,esconv-0758,19,Providing Suggestions,Question,Providing Suggestions
+esconv-0758:22,esconv-0758,22,Others,Question,Providing Suggestions
+esconv-0758:24,esconv-0758,24,Others,Question,Others
+esconv-0759:2,esconv-0759,2,Question,Question,Question
+esconv-0759:4,esconv-0759,4,Affirmation and Reassurance,Question,Question
+esconv-0759:5,esconv-0759,5,Question,Question,Question
+esconv-0759:7,esconv-0759,7,Self-disclosure,Question,Question
+esconv-0759:9,esconv-0759,9,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0759:10,esconv-0759,10,Providing Suggestions,Question,Providing Suggestions
+esconv-0759:12,esconv-0759,12,Others,Question,Providing Suggestions
+esconv-0759:14,esconv-0759,14,Others,Question,Others
+esconv-0759:17,esconv-0759,17,Others,Question,Others
+esconv-0759:19,esconv-0759,19,Others,Question,Others
+esconv-0759:21,esconv-0759,21,Others,Question,Others
+esconv-0782:3,esconv-0782,3,Reflection of feelings,Question,Question
+esconv-0782:4,esconv-0782,4,Others,Question,Question
+esconv-0782:6,esconv-0782,6,Providing Suggestions,Question,Question
+esconv-0782:9,esconv-0782,9,Providing Suggestions,Question,Providing Suggestions
+esconv-0782:10,esconv-0782,10,Self-disclosure,Question,Providing Suggestions
+esconv-0782:13,esconv-0782,13,Reflection of feelings,Question,Providing Suggestions
+esconv-0782:16,esconv-0782,16,Providing Suggestions,Question,Providing Suggestions
+esconv-0782:19,esconv-0782,19,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0791:2,esconv-0791,2,Restatement or Paraphrasing,Question,Question
+esconv-0791:4,esconv-0791,4,Question,Question,Question
+esconv-0791:6,esconv-0791,6,Affirmation and Reassurance,Question,Question
+esconv-0791:8,esconv-0791,8,Self-disclosure,Question,Providing Suggestions
+esconv-0791:10,esconv-0791,10,Providing Suggestions,Question,Providing Suggestions
+esconv-0791:12,esconv-0791,12,Providing Suggestions,Question,Providing Suggestions
+esconv-0791:14,esconv-0791,14,Affirmation and Reassurance,Question,Others
+esconv-0791:16,esconv-0791,16,Others,Question,Others
+esconv-0792:1,esconv-0792,1,Others,Question,Question
+esconv-0792:3,esconv-0792,3,Question,Question,Question
+esconv-0792:5,esconv-0792,5,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0792:7,esconv-0792,7,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0792:9,esconv-0792,9,Information,Question,Providing Suggestions
+esconv-0792:11,esconv-0792,11,Reflection of feelings,Question,Providing Suggestions
+esconv-0792:13,esconv-0792,13,Information,Question,Providing Suggestions
+esconv-0792:15,esconv-0792,15,Self-disclosure,Question,Providing Suggestions
+esconv-0792:17,esconv-0792,17,Self-disclosure,Question,Providing Suggestions
+esconv-0792:19,esconv-0792,19,Others,Question,Others
+esconv-0792:21,esconv-0792,21,Others,Question,Others
+esconv-0804:1,esconv-0804,1,Question,Question,Question
+esconv-0804:4,esconv-0804,4,Restatement or Paraphrasing,Question,Question
+esconv-0804:8,esconv-0804,8,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0804:13,esconv-0804,13,Self-disclosure,Question,Providing Suggestions
+esconv-0804:15,esconv-0804,15,Question,Question,Providing Suggestions
+esconv-0804:18,esconv-0804,18,Reflection of feelings,Question,Providing Suggestions
+esconv-0804:23,esconv-0804,23,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0804:26,esconv-0804,26,Affirmation and Reassurance,Question,Others
+esconv-0804:29,esconv-0804,29,Others,Question,Others
+esconv-0804:33,esconv-0804,33,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0804:38,esconv-0804,38,Providing Suggestions,Question,Others
+esconv-0804:40,esconv-0804,40,Others,Question,Others
+esconv-0811:1,esconv-0811,1,Question,Question,Question
+esconv-0811:3,esconv-0811,3,Question,Question,Affirmation and Reassurance
+esconv-0811:6,esconv-0811,6,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0811:8,esconv-0811,8,Reflection of feelings,Question,Providing Suggestions
+esconv-0811:9,esconv-0811,9,Question,Question,Question
+esconv-0811:12,esconv-0811,12,Reflection of feelings,Question,Question
+esconv-0811:15,esconv-0811,15,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0811:17,esconv-0811,17,Providing Suggestions,Question,Others
+esconv-0811:18,esconv-0811,18,Providing Suggestions,Question,Providing Suggestions
+esconv-0811:22,esconv-0811,22,Providing Suggestions,Question,Providing Suggestions
+esconv-0811:23,esconv-0811,23,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0811:25,esconv-0811,25,Others,Question,Others
+esconv-0812:2,esconv-0812,2,Affirmation and Reassurance,Question,Question
+esconv-0812:4,esconv-0812,4,Self-disclosure,Question,Question
+esconv-0812:5,esconv-0812,5,Affirmation and Reassurance,Question,Question
+esconv-0812:8,esconv-0812,8,Reflection of feelings,Question,Providing Suggestions
+esconv-0812:9,esconv-0812,9,Question,Question,Providing Suggestions
+esconv-0812:12,esconv-0812,12,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0812:14,esconv-0812,14,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0812:15,esconv-0812,15,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0812:17,esconv-0812,17,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0812:18,esconv-0812,18,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0812:21,esconv-0812,21,Self-disclosure,Question,Others
+esconv-0812:22,esconv-0812,22,Others,Question,Others
+esconv-0812:24,esconv-0812,24,Affirmation and Reassurance,Question,Others
+esconv-0814:3,esconv-0814,3,Affirmation and Reassurance,Question,Question
+esconv-0814:4,esconv-0814,4,Providing Suggestions,Question,Question
+esconv-0814:5,esconv-0814,5,Question,Question,Question
+esconv-0814:10,esconv-0814,10,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0814:11,esconv-0814,11,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0814:12,esconv-0814,12,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0814:13,esconv-0814,13,Question,Question,Others
+esconv-0814:16,esconv-0814,16,Self-disclosure,Question,Providing Suggestions
+esconv-0814:18,esconv-0814,18,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0814:19,esconv-0814,19,Others,Question,Providing Suggestions
+esconv-0814:20,esconv-0814,20,Providing Suggestions,Question,Providing Suggestions
+esconv-0814:22,esconv-0814,22,Providing Suggestions,Question,Providing Suggestions
+esconv-0814:24,esconv-0814,24,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0814:27,esconv-0814,27,Affirmation and Reassurance,Question,Others
+esconv-0814:28,esconv-0814,28,Others,Question,Others
+esconv-0815:2,esconv-0815,2,Question,Question,Question
+esconv-0815:4,esconv-0815,4,Information,Question,Question
+esconv-0815:5,esconv-0815,5,Providing Suggestions,Question,Question
+esconv-0815:7,esconv-0815,7,Providing Suggestions,Question,Providing Suggestions
+esconv-0815:9,esconv-0815,9,Information,Question,Providing Suggestions
+esconv-0815:11,esconv-0815,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0815:13,esconv-0815,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0815:15,esconv-0815,15,Information,Question,Providing Suggestions
+esconv-0815:17,esconv-0815,17,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0815:19,esconv-0815,19,Affirmation and Reassurance,Question,Others
+esconv-0815:21,esconv-0815,21,Others,Question,Others
+esconv-0823:2,esconv-0823,2,Affirmation and Reassurance,Question,Question
+esconv-0823:3,esconv-0823,3,Question,Question,Question
+esconv-0823:5,esconv-0823,5,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0823:6,esconv-0823,6,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0823:7,esconv-0823,7,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0823:10,esconv-0823,10,Reflection of feelings,Question,Providing Suggestions
+esconv-0823:12,esconv-0823,12,Providing Suggestions,Question,Providing Suggestions
+esconv-0823:14,esconv-0823,14,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0823:15,esconv-0823,15,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0823:19,esconv-0823,19,Providing Suggestions,Question,Question
+esconv-0823:21,esconv-0823,21,Affirmation and Reassurance,Question,Others
+esconv-0823:24,esconv-0823,24,Affirmation and Reassurance,Question,Others
+esconv-0823:26,esconv-0823,26,Others,Question,Others
+esconv-0830:1,esconv-0830,1,Providing Suggestions,Question,Question
+esconv-0830:3,esconv-0830,3,Information,Question,Question
+esconv-0830:5,esconv-0830,5,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0830:7,esconv-0830,7,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0830:9,esconv-0830,9,Self-disclosure,Question,Providing Suggestions
+esconv-0830:11,esconv-0830,11,Others,Question,Providing Suggestions
+esconv-0830:13,esconv-0830,13,Providing Suggestions,Question,Others
+esconv-0830:15,esconv-0830,15,Affirmation and Reassurance,Question,Others
+esconv-0835:3,esconv-0835,3,Others,Question,Question
+esconv-0835:4,esconv-0835,4,Others,Question,Question
+esconv-0835:5,esconv-0835,5,Question,Question,Question
+esconv-0835:7,esconv-0835,7,Question,Question,Affirmation and Reassurance
+esconv-0835:9,esconv-0835,9,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0835:10,esconv-0835,10,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0835:12,esconv-0835,12,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0835:14,esconv-0835,14,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0835:17,esconv-0835,17,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0835:18,esconv-0835,18,Affirmation and Reassurance,Question,Others
+esconv-0848:1,esconv-0848,1,Question,Question,Question
+esconv-0848:3,esconv-0848,3,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-0848:5,esconv-0848,5,Question,Question,Question
+esconv-0848:6,esconv-0848,6,Question,Question,Affirmation and Reassurance
+esconv-0848:9,esconv-0848,9,Affirmation and Reassurance,Question,Question
+esconv-0848:11,esconv-0848,11,Reflection of feelings,Question,Providing Suggestions
+esconv-0848:13,esconv-0848,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0848:15,esconv-0848,15,Others,Question,Providing Suggestions
+esconv-0848:17,esconv-0848,17,Information,Question,Providing Suggestions
+esconv-0848:19,esconv-0848,19,Question,Question,Affirmation and Reassurance
+esconv-0848:21,esconv-0848,21,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0848:23,esconv-0848,23,Providing Suggestions,Question,Providing Suggestions
+esconv-0848:25,esconv-0848,25,Self-disclosure,Question,Others
+esconv-0864:2,esconv-0864,2,Question,Question,Question
+esconv-0864:4,esconv-0864,4,Restatement or Paraphrasing,Question,Question
+esconv-0864:6,esconv-0864,6,Self-disclosure,Question,Question
+esconv-0864:8,esconv-0864,8,Question,Question,Affirmation and Reassurance
+esconv-0864:10,esconv-0864,10,Providing Suggestions,Question,Others
+esconv-0864:12,esconv-0864,12,Providing Suggestions,Question,Others
+esconv-0864:13,esconv-0864,13,Information,Question,Others
+esconv-0864:16,esconv-0864,16,Others,Question,Others
+esconv-0864:18,esconv-0864,18,Others,Question,Others
+esconv-0864:21,esconv-0864,21,Others,Question,Others
+esconv-0877:1,esconv-0877,1,Question,Question,Question
+esconv-0877:3,esconv-0877,3,Question,Question,Question
+esconv-0877:5,esconv-0877,5,Affirmation and Reassurance,Question,Question
+esconv-0877:7,esconv-0877,7,Question,Question,Question
+esconv-0877:9,esconv-0877,9,Question,Question,Question
+esconv-0877:11,esconv-0877,11,Affirmation and Reassurance,Question,Question
+esconv-0877:13,esconv-0877,13,Affirmation and Reassurance,Question,Others
+esconv-0877:15,esconv-0877,15,Self-disclosure,Question,Providing Suggestions
+esconv-0877:16,esconv-0877,16,Others,Question,Providing Suggestions
+esconv-0877:18,esconv-0877,18,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0877:20,esconv-0877,20,Others,Question,Providing Suggestions
+esconv-0900:2,esconv-0900,2,Restatement or Paraphrasing,Question,Question
+esconv-0900:4,esconv-0900,4,Self-disclosure,Question,Question
+esconv-0900:6,esconv-0900,6,Affirmation and Reassurance,Question,Question
+esconv-0900:8,esconv-0900,8,Information,Question,Providing Suggestions
+esconv-0900:10,esconv-0900,10,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0900:12,esconv-0900,12,Question,Question,Providing Suggestions
+esconv-0900:14,esconv-0900,14,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0900:16,esconv-0900,16,Providing Suggestions,Question,Providing Suggestions
+esconv-0900:18,esconv-0900,18,Question,Question,Providing Suggestions
+esconv-0900:20,esconv-0900,20,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0900:22,esconv-0900,22,Self-disclosure,Question,Others
+esconv-0900:24,esconv-0900,24,Restatement or Paraphrasing,Question,Others
+esconv-0900:26,esconv-0900,26,Question,Question,Providing Suggestions
+esconv-0900:28,esconv-0900,28,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0905:1,esconv-0905,1,Question,Question,Question
+esconv-0905:5,esconv-0905,5,Reflection of feelings,Question,Question
+esconv-0905:7,esconv-0905,7,Others,Question,Question
+esconv-0905:9,esconv-0905,9,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0905:11,esconv-0905,11,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0905:14,esconv-0905,14,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0905:17,esconv-0905,17,Others,Question,Providing Suggestions
+esconv-0905:20,esconv-0905,20,Providing Suggestions,Question,Others
+esconv-0905:22,esconv-0905,22,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0905:24,esconv-0905,24,Others,Question,Others
+esconv-0905:25,esconv-0905,25,Others,Question,Others
+esconv-0914:2,esconv-0914,2,Question,Question,Question
+esconv-0914:4,esconv-0914,4,Restatement or Paraphrasing,Question,Question
+esconv-0914:6,esconv-0914,6,Question,Question,Question
+esconv-0914:8,esconv-0914,8,Reflection of feelings,Question,Providing Suggestions
+esconv-0914:11,esconv-0914,11,Question,Question,Providing Suggestions
+esconv-0914:13,esconv-0914,13,Question,Question,Providing Suggestions
+esconv-0914:15,esconv-0914,15,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0914:17,esconv-0914,17,Providing Suggestions,Question,Providing Suggestions
+esconv-0914:19,esconv-0914,19,Question,Question,Others
+esconv-0923:1,esconv-0923,1,Others,Question,Question
+esconv-0923:3,esconv-0923,3,Affirmation and Reassurance,Question,Question
+esconv-0923:5,esconv-0923,5,Providing Suggestions,Question,Question
+esconv-0923:7,esconv-0923,7,Reflection of feelings,Question,Question
+esconv-0923:9,esconv-0923,9,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0923:11,esconv-0923,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0923:13,esconv-0923,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0923:15,esconv-0923,15,Others,Question,Others
+esconv-0923:17,esconv-0923,17,Question,Question,Affirmation and Reassurance
+esconv-0923:20,esconv-0923,20,Others,Question,Others
+esconv-0926:3,esconv-0926,3,Others,Question,Question
+esconv-0926:5,esconv-0926,5,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0926:9,esconv-0926,9,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0926:10,esconv-0926,10,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0926:14,esconv-0926,14,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0926:15,esconv-0926,15,Others,Question,Others
+esconv-0926:18,esconv-0926,18,Others,Question,Providing Suggestions
+esconv-0926:20,esconv-0926,20,Information,Question,Others
+esconv-0926:23,esconv-0926,23,Others,Question,Others
+esconv-0926:26,esconv-0926,26,Others,Question,Others
+esconv-0928:1,esconv-0928,1,Affirmation and Reassurance,Question,Question
+esconv-0928:3,esconv-0928,3,Reflection of feelings,Question,Question
+esconv-0928:5,esconv-0928,5,Providing Suggestions,Question,Providing Suggestions
+esconv-0928:7,esconv-0928,7,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0928:10,esconv-0928,10,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0928:11,esconv-0928,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0928:13,esconv-0928,13,Information,Question,Providing Suggestions
+esconv-0928:14,esconv-0928,14,Self-disclosure,Question,Question
+esconv-0928:19,esconv-0928,19,Others,Question,Affirmation and Reassurance
+esconv-0928:21,esconv-0928,21,Others,Question,Affirmation and Reassurance
+esconv-0928:23,esconv-0928,23,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0928:26,esconv-0928,26,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0928:27,esconv-0928,27,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0928:30,esconv-0928,30,Information,Question,Providing Suggestions
+esconv-0928:32,esconv-0928,32,Others,Question,Others
+esconv-0948:2,esconv-0948,2,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0948:4,esconv-0948,4,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0948:6,esconv-0948,6,Self-disclosure,Question,Others
+esconv-0948:8,esconv-0948,8,Affirmation and Reassurance,Question,Others
+esconv-0948:11,esconv-0948,11,Others,Question,Others
+esconv-0948:12,esconv-0948,12,Question,Question,Others
+esconv-0948:14,esconv-0948,14,Providing Suggestions,Question,Others
+esconv-0948:16,esconv-0948,16,Others,Question,Others
+esconv-0948:19,esconv-0948,19,Self-disclosure,Question,Others
+esconv-0951:2,esconv-0951,2,Question,Question,Question
+esconv-0951:4,esconv-0951,4,Question,Question,Question
+esconv-0951:6,esconv-0951,6,Reflection of feelings,Question,Question
+esconv-0951:7,esconv-0951,7,Question,Question,Providing Suggestions
+esconv-0951:11,esconv-0951,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0951:12,esconv-0951,12,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0951:13,esconv-0951,13,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0951:15,esconv-0951,15,Providing Suggestions,Question,Providing Suggestions
+esconv-0951:16,esconv-0951,16,Providing Suggestions,Question,Providing Suggestions
+esconv-0951:17,esconv-0951,17,Providing Suggestions,Question,Providing Suggestions
+esconv-0951:21,esconv-0951,21,Providing Suggestions,Question,Others
+esconv-0951:23,esconv-0951,23,Information,Question,Others
+esconv-0951:25,esconv-0951,25,Providing Suggestions,Question,Others
+esconv-0951:28,esconv-0951,28,Providing Suggestions,Question,Others
+esconv-0951:30,esconv-0951,30,Others,Question,Others
+esconv-0951:32,esconv-0951,32,Others,Question,Others
+esconv-0951:33,esconv-0951,33,Others,Question,Others
+esconv-0955:2,esconv-0955,2,Restatement or Paraphrasing,Question,Question
+esconv-0955:4,esconv-0955,4,Reflection of feelings,Question,Question
+esconv-0955:5,esconv-0955,5,Question,Question,Question
+esconv-0955:8,esconv-0955,8,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0955:9,esconv-0955,9,Question,Question,Affirmation and Reassurance
+esconv-0955:12,esconv-0955,12,Reflection of feelings,Question,Providing Suggestions
+esconv-0955:14,esconv-0955,14,Question,Question,Providing Suggestions
+esconv-0955:16,esconv-0955,16,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0955:18,esconv-0955,18,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0955:20,esconv-0955,20,Others,Question,Others
+esconv-0955:21,esconv-0955,21,Reflection of feelings,Question,Others
+esconv-0955:22,esconv-0955,22,Question,Question,Others
+esconv-0958:2,esconv-0958,2,Question,Question,Question
+esconv-0958:4,esconv-0958,4,Restatement or Paraphrasing,Question,Question
+esconv-0958:6,esconv-0958,6,Information,Question,Question
+esconv-0958:8,esconv-0958,8,Information,Question,Others
+esconv-0958:10,esconv-0958,10,Self-disclosure,Question,Providing Suggestions
+esconv-0958:12,esconv-0958,12,Self-disclosure,Question,Others
+esconv-0958:15,esconv-0958,15,Others,Question,Others
+esconv-0958:17,esconv-0958,17,Self-disclosure,Question,Self-disclosure
+esconv-0958:19,esconv-0958,19,Self-disclosure,Question,Providing Suggestions
+esconv-0958:21,esconv-0958,21,Information,Question,Others
+esconv-0958:24,esconv-0958,24,Self-disclosure,Question,Others
+esconv-0958:26,esconv-0958,26,Self-disclosure,Question,Others
+esconv-0958:28,esconv-0958,28,Self-disclosure,Question,Others
+esconv-0958:30,esconv-0958,30,Others,Question,Others
+esconv-0958:31,esconv-0958,31,Others,Question,Others
+esconv-0958:36,esconv-0958,36,Information,Question,Question
+esconv-0958:40,esconv-0958,40,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0958:42,esconv-0958,42,Self-disclosure,Question,Others
+esconv-0958:45,esconv-0958,45,Self-disclosure,Question,Others
+esconv-0962:2,esconv-0962,2,Others,Question,Question
+esconv-0962:3,esconv-0962,3,Question,Question,Question
+esconv-0962:5,esconv-0962,5,Question,Question,Question
+esconv-0962:7,esconv-0962,7,Question,Question,Question
+esconv-0962:9,esconv-0962,9,Others,Question,Question
+esconv-0962:11,esconv-0962,11,Question,Question,Question
+esconv-0962:12,esconv-0962,12,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-0962:14,esconv-0962,14,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0962:15,esconv-0962,15,Question,Question,Providing Suggestions
+esconv-0962:18,esconv-0962,18,Reflection of feelings,Question,Question
+esconv-0962:19,esconv-0962,19,Others,Question,Question
+esconv-0962:20,esconv-0962,20,Question,Question,Question
+esconv-0962:22,esconv-0962,22,Providing Suggestions,Question,Providing Suggestions
+esconv-0962:25,esconv-0962,25,Others,Question,Providing Suggestions
+esconv-0962:26,esconv-0962,26,Self-disclosure,Question,Providing Suggestions
+esconv-0962:28,esconv-0962,28,Question,Question,Affirmation and Reassurance
+esconv-0962:30,esconv-0962,30,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0962:31,esconv-0962,31,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0962:34,esconv-0962,34,Others,Question,Affirmation and Reassurance
+esconv-0962:37,esconv-0962,37,Affirmation and Reassurance,Question,Others
+esconv-0969:3,esconv-0969,3,Question,Question,Question
+esconv-0969:4,esconv-0969,4,Question,Question,Question
+esconv-0969:6,esconv-0969,6,Question,Question,Question
+esconv-0969:7,esconv-0969,7,Reflection of feelings,Question,Question
+esconv-0969:10,esconv-0969,10,Question,Question,Providing Suggestions
+esconv-0969:12,esconv-0969,12,Question,Question,Providing Suggestions
+esconv-0969:14,esconv-0969,14,Providing Suggestions,Question,Providing Suggestions
+esconv-0969:15,esconv-0969,15,Self-disclosure,Question,Others
+esconv-0969:17,esconv-0969,17,Self-disclosure,Question,Others
+esconv-0969:19,esconv-0969,19,Providing Suggestions,Question,Others
+esconv-0969:21,esconv-0969,21,Self-disclosure,Question,Providing Suggestions
+esconv-0969:23,esconv-0969,23,Providing Suggestions,Question,Providing Suggestions
+esconv-0969:26,esconv-0969,26,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-0969:28,esconv-0969,28,Affirmation and Reassurance,Question,Others
+esconv-0969:29,esconv-0969,29,Providing Suggestions,Question,Others
+esconv-0969:31,esconv-0969,31,Self-disclosure,Question,Others
+esconv-0969:33,esconv-0969,33,Others,Question,Others
+esconv-0969:35,esconv-0969,35,Self-disclosure,Question,Others
+esconv-0969:36,esconv-0969,36,Providing Suggestions,Question,Others
+esconv-0969:37,esconv-0969,37,Information,Question,Affirmation and Reassurance
+esconv-0969:39,esconv-0969,39,Others,Question,Affirmation and Reassurance
+esconv-0969:42,esconv-0969,42,Others,Question,Others
+esconv-0969:43,esconv-0969,43,Affirmation and Reassurance,Question,Others
+esconv-0969:45,esconv-0969,45,Others,Question,Others
+esconv-0976:2,esconv-0976,2,Question,Question,Question
+esconv-0976:4,esconv-0976,4,Question,Question,Self-disclosure
+esconv-0976:7,esconv-0976,7,Affirmation and Reassurance,Question,Self-disclosure
+esconv-0976:8,esconv-0976,8,Others,Question,Self-disclosure
+esconv-0976:10,esconv-0976,10,Providing Suggestions,Question,Providing Suggestions
+esconv-0976:12,esconv-0976,12,Information,Question,Others
+esconv-0976:14,esconv-0976,14,Information,Question,Others
+esconv-0976:16,esconv-0976,16,Providing Suggestions,Question,Others
+esconv-0976:18,esconv-0976,18,Question,Question,Others
+esconv-0976:20,esconv-0976,20,Information,Question,Affirmation and Reassurance
+esconv-0976:22,esconv-0976,22,Question,Question,Affirmation and Reassurance
+esconv-0976:24,esconv-0976,24,Question,Question,Affirmation and Reassurance
+esconv-0976:26,esconv-0976,26,Providing Suggestions,Question,Others
+esconv-0976:28,esconv-0976,28,Others,Question,Affirmation and Reassurance
+esconv-0976:30,esconv-0976,30,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0977:2,esconv-0977,2,Reflection of feelings,Question,Question
+esconv-0977:4,esconv-0977,4,Reflection of feelings,Question,Question
+esconv-0977:6,esconv-0977,6,Providing Suggestions,Question,Question
+esconv-0977:8,esconv-0977,8,Reflection of feelings,Question,Self-disclosure
+esconv-0977:10,esconv-0977,10,Providing Suggestions,Question,Providing Suggestions
+esconv-0977:11,esconv-0977,11,Providing Suggestions,Question,Self-disclosure
+esconv-0977:13,esconv-0977,13,Providing Suggestions,Question,Self-disclosure
+esconv-0977:15,esconv-0977,15,Information,Question,Others
+esconv-0977:16,esconv-0977,16,Information,Question,Information
+esconv-0977:19,esconv-0977,19,Question,Question,Others
+esconv-0977:22,esconv-0977,22,Restatement or Paraphrasing,Question,Others
+esconv-0977:23,esconv-0977,23,Providing Suggestions,Question,Others
+esconv-0977:27,esconv-0977,27,Affirmation and Reassurance,Question,Others
+esconv-0977:30,esconv-0977,30,Others,Question,Others
+esconv-0977:32,esconv-0977,32,Others,Question,Others
+esconv-0983:3,esconv-0983,3,Question,Question,Question
+esconv-0983:5,esconv-0983,5,Others,Question,Question
+esconv-0983:7,esconv-0983,7,Question,Question,Question
+esconv-0983:9,esconv-0983,9,Others,Question,Providing Suggestions
+esconv-0983:11,esconv-0983,11,Providing Suggestions,Question,Providing Suggestions
+esconv-0983:13,esconv-0983,13,Information,Question,Providing Suggestions
+esconv-0983:15,esconv-0983,15,Providing Suggestions,Question,Others
+esconv-0983:18,esconv-0983,18,Question,Question,Others
+esconv-0983:20,esconv-0983,20,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0983:21,esconv-0983,21,Others,Question,Providing Suggestions
+esconv-0983:24,esconv-0983,24,Providing Suggestions,Question,Others
+esconv-0983:25,esconv-0983,25,Others,Question,Others
+esconv-0983:27,esconv-0983,27,Others,Question,Others
+esconv-0984:2,esconv-0984,2,Question,Question,Question
+esconv-0984:4,esconv-0984,4,Self-disclosure,Question,Question
+esconv-0984:7,esconv-0984,7,Reflection of feelings,Question,Providing Suggestions
+esconv-0984:9,esconv-0984,9,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0984:11,esconv-0984,11,Question,Question,Providing Suggestions
+esconv-0984:13,esconv-0984,13,Reflection of feelings,Question,Providing Suggestions
+esconv-0984:16,esconv-0984,16,Providing Suggestions,Question,Providing Suggestions
+esconv-0984:17,esconv-0984,17,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0984:18,esconv-0984,18,Providing Suggestions,Question,Providing Suggestions
+esconv-0984:21,esconv-0984,21,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0984:23,esconv-0984,23,Affirmation and Reassurance,Question,Question
+esconv-0984:25,esconv-0984,25,Reflection of feelings,Question,Others
+esconv-0984:28,esconv-0984,28,Others,Question,Others
+esconv-0988:2,esconv-0988,2,Self-disclosure,Question,Question
+esconv-0988:4,esconv-0988,4,Question,Question,Question
+esconv-0988:6,esconv-0988,6,Restatement or Paraphrasing,Question,Question
+esconv-0988:8,esconv-0988,8,Providing Suggestions,Question,Providing Suggestions
+esconv-0988:10,esconv-0988,10,Providing Suggestions,Question,Self-disclosure
+esconv-0988:12,esconv-0988,12,Self-disclosure,Question,Question
+esconv-0988:13,esconv-0988,13,Question,Question,Affirmation and Reassurance
+esconv-0988:14,esconv-0988,14,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0988:16,esconv-0988,16,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0988:17,esconv-0988,17,Information,Question,Affirmation and Reassurance
+esconv-0988:19,esconv-0988,19,Question,Question,Others
+esconv-0988:21,esconv-0988,21,Others,Question,Others
+esconv-0988:23,esconv-0988,23,Question,Question,Others
+esconv-0988:25,esconv-0988,25,Affirmation and Reassurance,Question,Others
+esconv-0988:27,esconv-0988,27,Others,Question,Others
+esconv-0988:29,esconv-0988,29,Others,Question,Others
+esconv-0991:1,esconv-0991,1,Restatement or Paraphrasing,Question,Question
+esconv-0991:3,esconv-0991,3,Question,Question,Others
+esconv-0991:5,esconv-0991,5,Affirmation and Reassurance,Question,Others
+esconv-0991:7,esconv-0991,7,Reflection of feelings,Question,Question
+esconv-0991:8,esconv-0991,8,Self-disclosure,Question,Others
+esconv-0991:11,esconv-0991,11,Others,Question,Others
+esconv-0991:13,esconv-0991,13,Providing Suggestions,Question,Providing Suggestions
+esconv-0991:15,esconv-0991,15,Information,Question,Affirmation and Reassurance
+esconv-0991:17,esconv-0991,17,Others,Question,Providing Suggestions
+esconv-0991:19,esconv-0991,19,Others,Question,Others
+esconv-0991:21,esconv-0991,21,Others,Question,Others
+esconv-0991:23,esconv-0991,23,Others,Question,Others
+esconv-0991:25,esconv-0991,25,Restatement or Paraphrasing,Question,Others
+esconv-0991:27,esconv-0991,27,Others,Question,Others
+esconv-0991:29,esconv-0991,29,Others,Question,Providing Suggestions
+esconv-0991:30,esconv-0991,30,Others,Question,Others
+esconv-0992:1,esconv-0992,1,Question,Question,Question
+esconv-0992:2,esconv-0992,2,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0992:4,esconv-0992,4,Question,Question,Question
+esconv-0992:7,esconv-0992,7,Restatement or Paraphrasing,Question,Question
+esconv-0992:9,esconv-0992,9,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-0992:11,esconv-0992,11,Question,Question,Providing Suggestions
+esconv-0992:13,esconv-0992,13,Self-disclosure,Question,Providing Suggestions
+esconv-0992:15,esconv-0992,15,Information,Question,Providing Suggestions
+esconv-0992:17,esconv-0992,17,Information,Question,Providing Suggestions
+esconv-0992:19,esconv-0992,19,Information,Question,Providing Suggestions
+esconv-0992:21,esconv-0992,21,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0992:23,esconv-0992,23,Others,Question,Providing Suggestions
+esconv-0992:25,esconv-0992,25,Question,Question,Others
+esconv-0992:27,esconv-0992,27,Others,Question,Others
+esconv-0998:2,esconv-0998,2,Reflection of feelings,Question,Question
+esconv-0998:4,esconv-0998,4,Question,Question,Question
+esconv-0998:6,esconv-0998,6,Question,Question,Affirmation and Reassurance
+esconv-0998:7,esconv-0998,7,Self-disclosure,Question,Affirmation and Reassurance
+esconv-0998:9,esconv-0998,9,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-0998:11,esconv-0998,11,Providing Suggestions,Question,Question
+esconv-0998:13,esconv-0998,13,Reflection of feelings,Question,Others
+esconv-0998:15,esconv-0998,15,Question,Question,Others
+esconv-0998:17,esconv-0998,17,Question,Question,Others
+esconv-0998:19,esconv-0998,19,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-0998:21,esconv-0998,21,Providing Suggestions,Question,Providing Suggestions
+esconv-0998:23,esconv-0998,23,Others,Question,Others
+esconv-0998:25,esconv-0998,25,Question,Question,Others
+esconv-0998:26,esconv-0998,26,Providing Suggestions,Question,Others
+esconv-1009:1,esconv-1009,1,Question,Question,Question
+esconv-1009:4,esconv-1009,4,Reflection of feelings,Question,Providing Suggestions
+esconv-1009:5,esconv-1009,5,Providing Suggestions,Question,Providing Suggestions
+esconv-1009:9,esconv-1009,9,Self-disclosure,Question,Providing Suggestions
+esconv-1009:13,esconv-1009,13,Self-disclosure,Question,Providing Suggestions
+esconv-1009:16,esconv-1009,16,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1009:19,esconv-1009,19,Question,Question,Affirmation and Reassurance
+esconv-1009:20,esconv-1009,20,Information,Question,Affirmation and Reassurance
+esconv-1009:24,esconv-1009,24,Providing Suggestions,Question,Question
+esconv-1009:27,esconv-1009,27,Reflection of feelings,Question,Providing Suggestions
+esconv-1009:28,esconv-1009,28,Providing Suggestions,Question,Providing Suggestions
+esconv-1036:1,esconv-1036,1,Question,Question,Question
+esconv-1036:4,esconv-1036,4,Self-disclosure,Question,Question
+esconv-1036:6,esconv-1036,6,Reflection of feelings,Question,Question
+esconv-1036:8,esconv-1036,8,Self-disclosure,Question,Providing Suggestions
+esconv-1036:11,esconv-1036,11,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1036:14,esconv-1036,14,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1036:15,esconv-1036,15,Question,Question,Others
+esconv-1036:18,esconv-1036,18,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1036:19,esconv-1036,19,Question,Question,Providing Suggestions
+esconv-1036:21,esconv-1036,21,Information,Question,Providing Suggestions
+esconv-1036:22,esconv-1036,22,Question,Question,Providing Suggestions
+esconv-1036:24,esconv-1036,24,Providing Suggestions,Question,Providing Suggestions
+esconv-1036:26,esconv-1036,26,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1036:28,esconv-1036,28,Question,Question,Affirmation and Reassurance
+esconv-1036:31,esconv-1036,31,Affirmation and Reassurance,Question,Others
+esconv-1036:32,esconv-1036,32,Others,Question,Others
+esconv-1036:34,esconv-1036,34,Others,Question,Others
+esconv-1036:36,esconv-1036,36,Affirmation and Reassurance,Question,Others
+esconv-1039:2,esconv-1039,2,Question,Question,Question
+esconv-1039:5,esconv-1039,5,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-1039:7,esconv-1039,7,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1039:9,esconv-1039,9,Self-disclosure,Question,Providing Suggestions
+esconv-1039:11,esconv-1039,11,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-1039:12,esconv-1039,12,Self-disclosure,Question,Providing Suggestions
+esconv-1039:14,esconv-1039,14,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-1039:17,esconv-1039,17,Others,Question,Affirmation and Reassurance
+esconv-1039:18,esconv-1039,18,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-1039:20,esconv-1039,20,Others,Question,Providing Suggestions
+esconv-1039:22,esconv-1039,22,Others,Question,Others
+esconv-1039:23,esconv-1039,23,Others,Question,Others
+esconv-1045:1,esconv-1045,1,Question,Question,Question
+esconv-1045:3,esconv-1045,3,Question,Question,Question
+esconv-1045:5,esconv-1045,5,Restatement or Paraphrasing,Question,Question
+esconv-1045:7,esconv-1045,7,Self-disclosure,Question,Question
+esconv-1045:9,esconv-1045,9,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1045:11,esconv-1045,11,Self-disclosure,Question,Providing Suggestions
+esconv-1045:12,esconv-1045,12,Providing Suggestions,Question,Providing Suggestions
+esconv-1045:15,esconv-1045,15,Providing Suggestions,Question,Providing Suggestions
+esconv-1045:16,esconv-1045,16,Reflection of feelings,Question,Providing Suggestions
+esconv-1045:18,esconv-1045,18,Providing Suggestions,Question,Self-disclosure
+esconv-1045:19,esconv-1045,19,Question,Question,Self-disclosure
+esconv-1045:21,esconv-1045,21,Providing Suggestions,Question,Self-disclosure
+esconv-1045:23,esconv-1045,23,Information,Question,Providing Suggestions
+esconv-1045:25,esconv-1045,25,Question,Question,Others
+esconv-1045:27,esconv-1045,27,Question,Question,Others
+esconv-1045:29,esconv-1045,29,Providing Suggestions,Question,Providing Suggestions
+esconv-1045:30,esconv-1045,30,Providing Suggestions,Question,Others
+esconv-1045:32,esconv-1045,32,Information,Question,Others
+esconv-1045:33,esconv-1045,33,Others,Question,Others
+esconv-1049:3,esconv-1049,3,Question,Question,Question
+esconv-1049:4,esconv-1049,4,Restatement or Paraphrasing,Question,Question
+esconv-1049:7,esconv-1049,7,Information,Question,Question
+esconv-1049:9,esconv-1049,9,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1049:12,esconv-1049,12,Information,Question,Affirmation and Reassurance
+esconv-1049:14,esconv-1049,14,Question,Question,Affirmation and Reassurance
+esconv-1049:18,esconv-1049,18,Information,Question,Affirmation and Reassurance
+esconv-1049:20,esconv-1049,20,Question,Question,Affirmation and Reassurance
+esconv-1049:21,esconv-1049,21,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1049:25,esconv-1049,25,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1049:27,esconv-1049,27,Question,Question,Affirmation and Reassurance
+esconv-1049:30,esconv-1049,30,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-1049:32,esconv-1049,32,Question,Question,Affirmation and Reassurance
+esconv-1049:35,esconv-1049,35,Information,Question,Affirmation and Reassurance
+esconv-1049:37,esconv-1049,37,Information,Question,Providing Suggestions
+esconv-1049:39,esconv-1049,39,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1049:41,esconv-1049,41,Question,Question,Providing Suggestions
+esconv-1049:43,esconv-1049,43,Others,Question,Providing Suggestions
+esconv-1049:45,esconv-1049,45,Others,Question,Others
+esconv-1052:3,esconv-1052,3,Question,Question,Question
+esconv-1052:5,esconv-1052,5,Reflection of feelings,Question,Question
+esconv-1052:8,esconv-1052,8,Question,Question,Affirmation and Reassurance
+esconv-1052:10,esconv-1052,10,Information,Question,Affirmation and Reassurance
+esconv-1052:12,esconv-1052,12,Providing Suggestions,Question,Providing Suggestions
+esconv-1052:15,esconv-1052,15,Providing Suggestions,Question,Providing Suggestions
+esconv-1052:16,esconv-1052,16,Providing Suggestions,Question,Providing Suggestions
+esconv-1052:19,esconv-1052,19,Providing Suggestions,Question,Others
+esconv-1052:21,esconv-1052,21,Affirmation and Reassurance,Question,Others
+esconv-1052:23,esconv-1052,23,Others,Question,Others
+esconv-1054:2,esconv-1054,2,Question,Question,Question
+esconv-1054:4,esconv-1054,4,Self-disclosure,Question,Question
+esconv-1054:6,esconv-1054,6,Providing Suggestions,Question,Providing Suggestions
+esconv-1054:7,esconv-1054,7,Question,Question,Providing Suggestions
+esconv-1054:10,esconv-1054,10,Self-disclosure,Question,Providing Suggestions
+esconv-1054:12,esconv-1054,12,Providing Suggestions,Question,Providing Suggestions
+esconv-1054:15,esconv-1054,15,Question,Question,Providing Suggestions
+esconv-1054:17,esconv-1054,17,Self-disclosure,Question,Providing Suggestions
+esconv-1054:20,esconv-1054,20,Providing Suggestions,Question,Providing Suggestions
+esconv-1054:22,esconv-1054,22,Providing Suggestions,Question,Providing Suggestions
+esconv-1054:24,esconv-1054,24,Information,Question,Providing Suggestions
+esconv-1054:26,esconv-1054,26,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1054:27,esconv-1054,27,Self-disclosure,Question,Providing Suggestions
+esconv-1054:30,esconv-1054,30,Providing Suggestions,Question,Others
+esconv-1054:31,esconv-1054,31,Self-disclosure,Question,Others
+esconv-1054:32,esconv-1054,32,Self-disclosure,Question,Others
+esconv-1054:34,esconv-1054,34,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1054:36,esconv-1054,36,Others,Question,Affirmation and Reassurance
+esconv-1060:4,esconv-1060,4,Question,Question,Question
+esconv-1060:6,esconv-1060,6,Restatement or Paraphrasing,Question,Question
+esconv-1060:8,esconv-1060,8,Affirmation and Reassurance,Question,Others
+esconv-1060:10,esconv-1060,10,Reflection of feelings,Question,Others
+esconv-1060:11,esconv-1060,11,Affirmation and Reassurance,Question,Others
+esconv-1060:13,esconv-1060,13,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-1060:15,esconv-1060,15,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-1060:17,esconv-1060,17,Others,Question,Providing Suggestions
+esconv-1060:19,esconv-1060,19,Reflection of feelings,Question,Others
+esconv-1060:21,esconv-1060,21,Others,Question,Others
+esconv-1060:22,esconv-1060,22,Self-disclosure,Question,Others
+esconv-1060:24,esconv-1060,24,Others,Question,Others
+esconv-1060:26,esconv-1060,26,Others,Question,Others
+esconv-1070:1,esconv-1070,1,Question,Question,Question
+esconv-1070:4,esconv-1070,4,Restatement or Paraphrasing,Question,Question
+esconv-1070:5,esconv-1070,5,Question,Question,Question
+esconv-1070:7,esconv-1070,7,Others,Question,Question
+esconv-1070:9,esconv-1070,9,Question,Question,Question
+esconv-1070:10,esconv-1070,10,Reflection of feelings,Question,Question
+esconv-1070:12,esconv-1070,12,Affirmation and Reassurance,Question,Question
+esconv-1070:14,esconv-1070,14,Reflection of feelings,Question,Providing Suggestions
+esconv-1070:16,esconv-1070,16,Providing Suggestions,Question,Providing Suggestions
+esconv-1070:17,esconv-1070,17,Information,Question,Providing Suggestions
+esconv-1070:19,esconv-1070,19,Providing Suggestions,Question,Providing Suggestions
+esconv-1070:21,esconv-1070,21,Reflection of feelings,Question,Providing Suggestions
+esconv-1070:23,esconv-1070,23,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1070:25,esconv-1070,25,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-1070:27,esconv-1070,27,Providing Suggestions,Question,Providing Suggestions
+esconv-1070:28,esconv-1070,28,Others,Question,Providing Suggestions
+esconv-1070:30,esconv-1070,30,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1070:31,esconv-1070,31,Others,Question,Others
+esconv-1070:33,esconv-1070,33,Others,Question,Others
+esconv-1070:34,esconv-1070,34,Others,Question,Others
+esconv-1074:2,esconv-1074,2,Question,Question,Question
+esconv-1074:3,esconv-1074,3,Self-disclosure,Question,Question
+esconv-1074:5,esconv-1074,5,Others,Question,Question
+esconv-1074:7,esconv-1074,7,Question,Question,Providing Suggestions
+esconv-1074:8,esconv-1074,8,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-1074:11,esconv-1074,11,Self-disclosure,Question,Question
+esconv-1074:12,esconv-1074,12,Question,Question,Affirmation and Reassurance
+esconv-1074:14,esconv-1074,14,Others,Question,Affirmation and Reassurance
+esconv-1074:15,esconv-1074,15,Question,Question,Others
+esconv-1074:18,esconv-1074,18,Affirmation and Reassurance,Question,Others
+esconv-1074:19,esconv-1074,19,Question,Question,Others
+esconv-1074:21,esconv-1074,21,Question,Question,Providing Suggestions
+esconv-1074:24,esconv-1074,24,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-1074:26,esconv-1074,26,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1074:27,esconv-1074,27,Others,Question,Providing Suggestions
+esconv-1074:29,esconv-1074,29,Self-disclosure,Question,Providing Suggestions
+esconv-1074:30,esconv-1074,30,Self-disclosure,Question,Providing Suggestions
+esconv-1076:2,esconv-1076,2,Question,Question,Question
+esconv-1076:4,esconv-1076,4,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-1076:6,esconv-1076,6,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1076:8,esconv-1076,8,Information,Question,Affirmation and Reassurance
+esconv-1076:11,esconv-1076,11,Providing Suggestions,Question,Providing Suggestions
+esconv-1076:12,esconv-1076,12,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1076:14,esconv-1076,14,Providing Suggestions,Question,Others
+esconv-1076:17,esconv-1076,17,Self-disclosure,Question,Others
+esconv-1079:14,esconv-1079,14,Question,Question,Question
+esconv-1079:18,esconv-1079,18,Restatement or Paraphrasing,Question,Question
+esconv-1079:20,esconv-1079,20,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1079:22,esconv-1079,22,Reflection of feelings,Question,Providing Suggestions
+esconv-1079:25,esconv-1079,25,Self-disclosure,Question,Providing Suggestions
+esconv-1079:26,esconv-1079,26,Providing Suggestions,Question,Question
+esconv-1079:29,esconv-1079,29,Information,Question,Question
+esconv-1079:31,esconv-1079,31,Information,Question,Providing Suggestions
+esconv-1079:34,esconv-1079,34,Providing Suggestions,Question,Providing Suggestions
+esconv-1079:37,esconv-1079,37,Self-disclosure,Question,Providing Suggestions
+esconv-1079:39,esconv-1079,39,Providing Suggestions,Question,Providing Suggestions
+esconv-1079:40,esconv-1079,40,Others,Question,Providing Suggestions
+esconv-1092:2,esconv-1092,2,Restatement or Paraphrasing,Question,Question
+esconv-1092:4,esconv-1092,4,Affirmation and Reassurance,Question,Question
+esconv-1092:6,esconv-1092,6,Affirmation and Reassurance,Question,Question
+esconv-1092:8,esconv-1092,8,Reflection of feelings,Question,Question
+esconv-1092:10,esconv-1092,10,Self-disclosure,Question,Providing Suggestions
+esconv-1092:12,esconv-1092,12,Providing Suggestions,Question,Providing Suggestions
+esconv-1092:14,esconv-1092,14,Providing Suggestions,Question,Providing Suggestions
+esconv-1092:16,esconv-1092,16,Information,Question,Providing Suggestions
+esconv-1092:18,esconv-1092,18,Information,Question,Affirmation and Reassurance
+esconv-1092:20,esconv-1092,20,Others,Question,Affirmation and Reassurance
+esconv-1096:3,esconv-1096,3,Question,Question,Question
+esconv-1096:5,esconv-1096,5,Others,Question,Question
+esconv-1096:6,esconv-1096,6,Affirmation and Reassurance,Question,Question
+esconv-1096:8,esconv-1096,8,Reflection of feelings,Question,Providing Suggestions
+esconv-1096:9,esconv-1096,9,Question,Question,Others
+esconv-1096:11,esconv-1096,11,Reflection of feelings,Question,Others
+esconv-1096:13,esconv-1096,13,Reflection of feelings,Question,Others
+esconv-1096:15,esconv-1096,15,Others,Question,Others
+esconv-1096:16,esconv-1096,16,Others,Question,Others
+esconv-1096:18,esconv-1096,18,Affirmation and Reassurance,Question,Others
+esconv-1096:20,esconv-1096,20,Others,Question,Others
+esconv-1096:22,esconv-1096,22,Reflection of feelings,Question,Others
+esconv-1097:1,esconv-1097,1,Others,Question,Question
+esconv-1097:3,esconv-1097,3,Question,Question,Question
+esconv-1097:5,esconv-1097,5,Restatement or Paraphrasing,Question,Question
+esconv-1097:7,esconv-1097,7,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1097:9,esconv-1097,9,Self-disclosure,Question,Providing Suggestions
+esconv-1097:11,esconv-1097,11,Reflection of feelings,Question,Providing Suggestions
+esconv-1097:13,esconv-1097,13,Reflection of feelings,Question,Providing Suggestions
+esconv-1097:15,esconv-1097,15,Providing Suggestions,Question,Providing Suggestions
+esconv-1097:17,esconv-1097,17,Information,Question,Providing Suggestions
+esconv-1097:19,esconv-1097,19,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1097:21,esconv-1097,21,Providing Suggestions,Question,Others
+esconv-1097:23,esconv-1097,23,Information,Question,Others
+esconv-1097:25,esconv-1097,25,Others,Question,Others
+esconv-1097:26,esconv-1097,26,Others,Question,Others
+esconv-1098:1,esconv-1098,1,Question,Question,Question
+esconv-1098:3,esconv-1098,3,Restatement or Paraphrasing,Question,Restatement or Paraphrasing
+esconv-1098:5,esconv-1098,5,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1098:7,esconv-1098,7,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-1098:9,esconv-1098,9,Self-disclosure,Question,Affirmation and Reassurance
+esconv-1098:11,esconv-1098,11,Information,Question,Providing Suggestions
+esconv-1098:14,esconv-1098,14,Providing Suggestions,Question,Providing Suggestions
+esconv-1098:16,esconv-1098,16,Others,Question,Affirmation and Reassurance
+esconv-1098:17,esconv-1098,17,Others,Question,Providing Suggestions
+esconv-1098:20,esconv-1098,20,Affirmation and Reassurance,Question,Others
+esconv-1098:22,esconv-1098,22,Providing Suggestions,Question,Others
+esconv-1099:2,esconv-1099,2,Restatement or Paraphrasing,Question,Question
+esconv-1099:4,esconv-1099,4,Others,Question,Question
+esconv-1099:6,esconv-1099,6,Affirmation and Reassurance,Question,Question
+esconv-1099:8,esconv-1099,8,Self-disclosure,Question,Providing Suggestions
+esconv-1099:10,esconv-1099,10,Reflection of feelings,Question,Providing Suggestions
+esconv-1099:12,esconv-1099,12,Providing Suggestions,Question,Providing Suggestions
+esconv-1099:14,esconv-1099,14,Information,Question,Providing Suggestions
+esconv-1099:16,esconv-1099,16,Providing Suggestions,Question,Providing Suggestions
+esconv-1099:18,esconv-1099,18,Providing Suggestions,Question,Providing Suggestions
+esconv-1099:20,esconv-1099,20,Information,Question,Others
+esconv-1099:22,esconv-1099,22,Information,Question,Others
+esconv-1099:24,esconv-1099,24,Information,Question,Others
+esconv-1099:26,esconv-1099,26,Others,Question,Others
+esconv-1099:28,esconv-1099,28,Others,Question,Others
+esconv-1102:2,esconv-1102,2,Question,Question,Question
+esconv-1102:4,esconv-1102,4,Question,Question,Affirmation and Reassurance
+esconv-1102:6,esconv-1102,6,Restatement or Paraphrasing,Question,Question
+esconv-1102:7,esconv-1102,7,Information,Question,Affirmation and Reassurance
+esconv-1102:11,esconv-1102,11,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-1102:13,esconv-1102,13,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-1102:14,esconv-1102,14,Question,Question,Providing Suggestions
+esconv-1102:16,esconv-1102,16,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1102:17,esconv-1102,17,Information,Question,Providing Suggestions
+esconv-1102:20,esconv-1102,20,Providing Suggestions,Question,Providing Suggestions
+esconv-1102:21,esconv-1102,21,Providing Suggestions,Question,Providing Suggestions
+esconv-1102:22,esconv-1102,22,Reflection of feelings,Question,Providing Suggestions
+esconv-1102:24,esconv-1102,24,Information,Question,Others
+esconv-1102:25,esconv-1102,25,Providing Suggestions,Question,Others
+esconv-1102:27,esconv-1102,27,Information,Question,Others
+esconv-1102:29,esconv-1102,29,Information,Question,Others
+esconv-1102:31,esconv-1102,31,Affirmation and Reassurance,Question,Others
+esconv-1102:32,esconv-1102,32,Information,Question,Question
+esconv-1102:34,esconv-1102,34,Information,Question,Others
+esconv-1102:36,esconv-1102,36,Others,Question,Others
+esconv-1102:37,esconv-1102,37,Others,Question,Others
+esconv-1102:39,esconv-1102,39,Others,Question,Others
+esconv-1103:2,esconv-1103,2,Affirmation and Reassurance,Question,Question
+esconv-1103:5,esconv-1103,5,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1103:6,esconv-1103,6,Affirmation and Reassurance,Question,Others
+esconv-1103:8,esconv-1103,8,Self-disclosure,Question,Providing Suggestions
+esconv-1103:9,esconv-1103,9,Question,Question,Providing Suggestions
+esconv-1103:11,esconv-1103,11,Self-disclosure,Question,Providing Suggestions
+esconv-1103:12,esconv-1103,12,Providing Suggestions,Question,Providing Suggestions
+esconv-1103:13,esconv-1103,13,Providing Suggestions,Question,Providing Suggestions
+esconv-1103:15,esconv-1103,15,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1103:17,esconv-1103,17,Question,Question,Providing Suggestions
+esconv-1103:21,esconv-1103,21,Information,Question,Affirmation and Reassurance
+esconv-1103:22,esconv-1103,22,Information,Question,Affirmation and Reassurance
+esconv-1103:24,esconv-1103,24,Question,Question,Affirmation and Reassurance
+esconv-1103:26,esconv-1103,26,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1103:27,esconv-1103,27,Question,Question,Affirmation and Reassurance
+esconv-1103:32,esconv-1103,32,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1103:33,esconv-1103,33,Providing Suggestions,Question,Providing Suggestions
+esconv-1103:36,esconv-1103,36,Others,Question,Providing Suggestions
+esconv-1103:37,esconv-1103,37,Others,Question,Providing Suggestions
+esconv-1103:39,esconv-1103,39,Others,Question,Others
+esconv-1122:1,esconv-1122,1,Others,Question,Question
+esconv-1122:3,esconv-1122,3,Question,Question,Question
+esconv-1122:5,esconv-1122,5,Question,Question,Question
+esconv-1122:7,esconv-1122,7,Affirmation and Reassurance,Question,Question
+esconv-1122:9,esconv-1122,9,Question,Question,Affirmation and Reassurance
+esconv-1122:11,esconv-1122,11,Providing Suggestions,Question,Providing Suggestions
+esconv-1122:13,esconv-1122,13,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1122:15,esconv-1122,15,Providing Suggestions,Question,Providing Suggestions
+esconv-1122:17,esconv-1122,17,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1122:19,esconv-1122,19,Providing Suggestions,Question,Providing Suggestions
+esconv-1122:21,esconv-1122,21,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1122:23,esconv-1122,23,Affirmation and Reassurance,Question,Others
+esconv-1126:2,esconv-1126,2,Question,Question,Question
+esconv-1126:4,esconv-1126,4,Question,Question,Question
+esconv-1126:6,esconv-1126,6,Restatement or Paraphrasing,Question,Question
+esconv-1126:8,esconv-1126,8,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-1126:10,esconv-1126,10,Providing Suggestions,Question,Question
+esconv-1126:12,esconv-1126,12,Others,Question,Providing Suggestions
+esconv-1126:14,esconv-1126,14,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1126:16,esconv-1126,16,Providing Suggestions,Question,Others
+esconv-1126:18,esconv-1126,18,Information,Question,Others
+esconv-1126:20,esconv-1126,20,Affirmation and Reassurance,Question,Others
+esconv-1126:21,esconv-1126,21,Affirmation and Reassurance,Question,Others
+esconv-1132:2,esconv-1132,2,Affirmation and Reassurance,Question,Question
+esconv-1132:4,esconv-1132,4,Question,Question,Affirmation and Reassurance
+esconv-1132:6,esconv-1132,6,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1132:8,esconv-1132,8,Question,Question,Providing Suggestions
+esconv-1132:10,esconv-1132,10,Reflection of feelings,Question,Providing Suggestions
+esconv-1132:12,esconv-1132,12,Information,Question,Providing Suggestions
+esconv-1132:14,esconv-1132,14,Question,Question,Providing Suggestions
+esconv-1132:16,esconv-1132,16,Reflection of feelings,Question,Providing Suggestions
+esconv-1132:18,esconv-1132,18,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-1132:20,esconv-1132,20,Providing Suggestions,Question,Providing Suggestions
+esconv-1141:2,esconv-1141,2,Others,Question,Question
+esconv-1141:4,esconv-1141,4,Others,Question,Question
+esconv-1141:7,esconv-1141,7,Reflection of feelings,Question,Question
+esconv-1141:10,esconv-1141,10,Information,Question,Affirmation and Reassurance
+esconv-1141:13,esconv-1141,13,Providing Suggestions,Question,Providing Suggestions
+esconv-1141:14,esconv-1141,14,Information,Question,Providing Suggestions
+esconv-1141:16,esconv-1141,16,Providing Suggestions,Question,Providing Suggestions
+esconv-1141:20,esconv-1141,20,Providing Suggestions,Question,Providing Suggestions
+esconv-1141:22,esconv-1141,22,Self-disclosure,Question,Providing Suggestions
+esconv-1141:24,esconv-1141,24,Information,Question,Providing Suggestions
+esconv-1141:26,esconv-1141,26,Others,Question,Providing Suggestions
+esconv-1141:29,esconv-1141,29,Others,Question,Affirmation and Reassurance
+esconv-1145:1,esconv-1145,1,Question,Question,Question
+esconv-1145:2,esconv-1145,2,Question,Question,Question
+esconv-1145:4,esconv-1145,4,Restatement or Paraphrasing,Question,Question
+esconv-1145:5,esconv-1145,5,Providing Suggestions,Question,Question
+esconv-1145:8,esconv-1145,8,Providing Suggestions,Question,Self-disclosure
+esconv-1145:10,esconv-1145,10,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-1145:12,esconv-1145,12,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-1145:13,esconv-1145,13,Others,Question,Others
+esconv-1145:14,esconv-1145,14,Others,Question,Providing Suggestions
+esconv-1145:16,esconv-1145,16,Affirmation and Reassurance,Question,Self-disclosure
+esconv-1145:18,esconv-1145,18,Providing Suggestions,Question,Others
+esconv-1145:19,esconv-1145,19,Providing Suggestions,Question,Others
+esconv-1145:21,esconv-1145,21,Others,Question,Others
+esconv-1145:22,esconv-1145,22,Providing Suggestions,Question,Others
+esconv-1145:24,esconv-1145,24,Providing Suggestions,Question,Others
+esconv-1145:27,esconv-1145,27,Providing Suggestions,Question,Others
+esconv-1145:28,esconv-1145,28,Others,Question,Others
+esconv-1145:31,esconv-1145,31,Others,Question,Others
+esconv-1149:2,esconv-1149,2,Question,Question,Question
+esconv-1149:4,esconv-1149,4,Providing Suggestions,Question,Question
+esconv-1149:6,esconv-1149,6,Providing Suggestions,Question,Question
+esconv-1149:8,esconv-1149,8,Providing Suggestions,Question,Providing Suggestions
+esconv-1149:10,esconv-1149,10,Reflection of feelings,Question,Providing Suggestions
+esconv-1149:12,esconv-1149,12,Self-disclosure,Question,Providing Suggestions
+esconv-1149:14,esconv-1149,14,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1149:16,esconv-1149,16,Question,Question,Providing Suggestions
+esconv-1149:18,esconv-1149,18,Others,Question,Others
+esconv-1149:20,esconv-1149,20,Restatement or Paraphrasing,Question,Others
+esconv-1155:1,esconv-1155,1,Question,Question,Question
+esconv-1155:3,esconv-1155,3,Others,Question,Question
+esconv-1155:4,esconv-1155,4,Question,Question,Question
+esconv-1155:6,esconv-1155,6,Others,Question,Question
+esconv-1155:7,esconv-1155,7,Question,Question,Question
+esconv-1155:9,esconv-1155,9,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-1155:10,esconv-1155,10,Question,Question,Affirmation and Reassurance
+esconv-1155:12,esconv-1155,12,Self-disclosure,Question,Self-disclosure
+esconv-1155:13,esconv-1155,13,Question,Question,Affirmation and Reassurance
+esconv-1155:15,esconv-1155,15,Self-disclosure,Question,Self-disclosure
+esconv-1155:16,esconv-1155,16,Self-disclosure,Question,Question
+esconv-1155:18,esconv-1155,18,Self-disclosure,Question,Self-disclosure
+esconv-1155:19,esconv-1155,19,Providing Suggestions,Question,Self-disclosure
+esconv-1155:21,esconv-1155,21,Providing Suggestions,Question,Providing Suggestions
+esconv-1155:23,esconv-1155,23,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1155:25,esconv-1155,25,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1155:27,esconv-1155,27,Affirmation and Reassurance,Question,Others
+esconv-1155:29,esconv-1155,29,Affirmation and Reassurance,Question,Others
+esconv-1155:31,esconv-1155,31,Others,Question,Others
+esconv-1163:3,esconv-1163,3,Question,Question,Question
+esconv-1163:4,esconv-1163,4,Others,Question,Question
+esconv-1163:7,esconv-1163,7,Affirmation and Reassurance,Question,Question
+esconv-1163:8,esconv-1163,8,Providing Suggestions,Question,Question
+esconv-1163:10,esconv-1163,10,Affirmation and Reassurance,Question,Question
+esconv-1163:12,esconv-1163,12,Providing Suggestions,Question,Providing Suggestions
+esconv-1163:14,esconv-1163,14,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1163:17,esconv-1163,17,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1163:18,esconv-1163,18,Others,Question,Affirmation and Reassurance
+esconv-1163:21,esconv-1163,21,Self-disclosure,Question,Affirmation and Reassurance
+esconv-1163:23,esconv-1163,23,Information,Question,Affirmation and Reassurance
+esconv-1163:25,esconv-1163,25,Self-disclosure,Question,Affirmation and Reassurance
+esconv-1163:27,esconv-1163,27,Information,Question,Affirmation and Reassurance
+esconv-1163:30,esconv-1163,30,Others,Question,Affirmation and Reassurance
+esconv-1163:31,esconv-1163,31,Information,Question,Affirmation and Reassurance
+esconv-1163:33,esconv-1163,33,Self-disclosure,Question,Affirmation and Reassurance
+esconv-1163:35,esconv-1163,35,Providing Suggestions,Question,Providing Suggestions
+esconv-1163:37,esconv-1163,37,Others,Question,Providing Suggestions
+esconv-1163:41,esconv-1163,41,Affirmation and Reassurance,Question,Others
+esconv-1163:45,esconv-1163,45,Reflection of feelings,Question,Others
+esconv-1163:47,esconv-1163,47,Others,Question,Others
+esconv-1163:50,esconv-1163,50,Others,Question,Others
+esconv-1169:1,esconv-1169,1,Question,Question,Question
+esconv-1169:3,esconv-1169,3,Affirmation and Reassurance,Question,Question
+esconv-1169:4,esconv-1169,4,Question,Question,Question
+esconv-1169:7,esconv-1169,7,Reflection of feelings,Question,Question
+esconv-1169:8,esconv-1169,8,Question,Question,Providing Suggestions
+esconv-1169:11,esconv-1169,11,Question,Question,Providing Suggestions
+esconv-1169:13,esconv-1169,13,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1169:16,esconv-1169,16,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1169:18,esconv-1169,18,Providing Suggestions,Question,Others
+esconv-1169:22,esconv-1169,22,Reflection of feelings,Question,Providing Suggestions
+esconv-1169:24,esconv-1169,24,Question,Question,Providing Suggestions
+esconv-1169:26,esconv-1169,26,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1169:28,esconv-1169,28,Information,Question,Providing Suggestions
+esconv-1169:29,esconv-1169,29,Reflection of feelings,Question,Providing Suggestions
+esconv-1169:30,esconv-1169,30,Providing Suggestions,Question,Providing Suggestions
+esconv-1174:4,esconv-1174,4,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-1174:6,esconv-1174,6,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1174:8,esconv-1174,8,Reflection of feelings,Question,Providing Suggestions
+esconv-1174:10,esconv-1174,10,Self-disclosure,Question,Providing Suggestions
+esconv-1174:14,esconv-1174,14,Others,Question,Providing Suggestions
+esconv-1174:15,esconv-1174,15,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1174:18,esconv-1174,18,Others,Question,Providing Suggestions
+esconv-1174:20,esconv-1174,20,Restatement or Paraphrasing,Question,Others
+esconv-1174:22,esconv-1174,22,Others,Question,Others
+esconv-1176:1,esconv-1176,1,Question,Question,Question
+esconv-1176:3,esconv-1176,3,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-1176:5,esconv-1176,5,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1176:6,esconv-1176,6,Question,Question,Question
+esconv-1176:8,esconv-1176,8,Affirmation and Reassurance,Question,Reflection of feelings
+esconv-1176:10,esconv-1176,10,Providing Suggestions,Question,Providing Suggestions
+esconv-1176:12,esconv-1176,12,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1176:14,esconv-1176,14,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1176:16,esconv-1176,16,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1176:18,esconv-1176,18,Others,Question,Providing Suggestions
+esconv-1176:20,esconv-1176,20,Providing Suggestions,Question,Providing Suggestions
+esconv-1180:2,esconv-1180,2,Question,Question,Question
+esconv-1180:5,esconv-1180,5,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-1180:7,esconv-1180,7,Question,Question,Affirmation and Reassurance
+esconv-1180:8,esconv-1180,8,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1180:9,esconv-1180,9,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1180:12,esconv-1180,12,Self-disclosure,Question,Others
+esconv-1180:14,esconv-1180,14,Affirmation and Reassurance,Question,Others
+esconv-1180:16,esconv-1180,16,Affirmation and Reassurance,Question,Others
+esconv-1180:17,esconv-1180,17,Reflection of feelings,Question,Others
+esconv-1180:18,esconv-1180,18,Question,Question,Others
+esconv-1180:21,esconv-1180,21,Question,Question,Others
+esconv-1180:23,esconv-1180,23,Providing Suggestions,Question,Others
+esconv-1186:1,esconv-1186,1,Question,Question,Question
+esconv-1186:4,esconv-1186,4,Reflection of feelings,Question,Question
+esconv-1186:6,esconv-1186,6,Question,Question,Affirmation and Reassurance
+esconv-1186:8,esconv-1186,8,Self-disclosure,Question,Affirmation and Reassurance
+esconv-1186:9,esconv-1186,9,Question,Question,Providing Suggestions
+esconv-1186:12,esconv-1186,12,Self-disclosure,Question,Providing Suggestions
+esconv-1186:14,esconv-1186,14,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1186:15,esconv-1186,15,Others,Question,Providing Suggestions
+esconv-1186:17,esconv-1186,17,Affirmation and Reassurance,Question,Others
+esconv-1186:20,esconv-1186,20,Self-disclosure,Question,Providing Suggestions
+esconv-1186:22,esconv-1186,22,Others,Question,Providing Suggestions
+esconv-1186:23,esconv-1186,23,Others,Question,Others
+esconv-1186:26,esconv-1186,26,Others,Question,Others
+esconv-1186:28,esconv-1186,28,Others,Question,Others
+esconv-1187:1,esconv-1187,1,Reflection of feelings,Question,Question
+esconv-1187:3,esconv-1187,3,Reflection of feelings,Question,Question
+esconv-1187:5,esconv-1187,5,Self-disclosure,Question,Question
+esconv-1187:6,esconv-1187,6,Affirmation and Reassurance,Question,Question
+esconv-1187:8,esconv-1187,8,Information,Question,Affirmation and Reassurance
+esconv-1187:10,esconv-1187,10,Information,Question,Providing Suggestions
+esconv-1187:12,esconv-1187,12,Providing Suggestions,Question,Providing Suggestions
+esconv-1187:14,esconv-1187,14,Providing Suggestions,Question,Providing Suggestions
+esconv-1187:16,esconv-1187,16,Providing Suggestions,Question,Providing Suggestions
+esconv-1187:18,esconv-1187,18,Self-disclosure,Question,Providing Suggestions
+esconv-1187:20,esconv-1187,20,Information,Question,Providing Suggestions
+esconv-1187:22,esconv-1187,22,Reflection of feelings,Question,Providing Suggestions
+esconv-1187:23,esconv-1187,23,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1187:26,esconv-1187,26,Self-disclosure,Question,Others
+esconv-1187:28,esconv-1187,28,Reflection of feelings,Question,Others
+esconv-1190:2,esconv-1190,2,Question,Question,Question
+esconv-1190:4,esconv-1190,4,Question,Question,Question
+esconv-1190:6,esconv-1190,6,Self-disclosure,Question,Question
+esconv-1190:8,esconv-1190,8,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1190:10,esconv-1190,10,Information,Question,Providing Suggestions
+esconv-1190:12,esconv-1190,12,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1190:14,esconv-1190,14,Question,Question,Affirmation and Reassurance
+esconv-1190:16,esconv-1190,16,Providing Suggestions,Question,Others
+esconv-1190:18,esconv-1190,18,Others,Question,Others
+esconv-1190:20,esconv-1190,20,Others,Question,Others
+esconv-1190:21,esconv-1190,21,Providing Suggestions,Question,Others
+esconv-1193:1,esconv-1193,1,Restatement or Paraphrasing,Question,Question
+esconv-1193:3,esconv-1193,3,Question,Question,Question
+esconv-1193:5,esconv-1193,5,Question,Question,Question
+esconv-1193:7,esconv-1193,7,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1193:9,esconv-1193,9,Self-disclosure,Question,Providing Suggestions
+esconv-1193:11,esconv-1193,11,Reflection of feelings,Question,Providing Suggestions
+esconv-1193:13,esconv-1193,13,Providing Suggestions,Question,Providing Suggestions
+esconv-1193:16,esconv-1193,16,Information,Question,Affirmation and Reassurance
+esconv-1193:17,esconv-1193,17,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1193:19,esconv-1193,19,Providing Suggestions,Question,Others
+esconv-1200:1,esconv-1200,1,Question,Question,Question
+esconv-1200:3,esconv-1200,3,Restatement or Paraphrasing,Question,Question
+esconv-1200:4,esconv-1200,4,Restatement or Paraphrasing,Question,Question
+esconv-1200:6,esconv-1200,6,Reflection of feelings,Question,Question
+esconv-1200:8,esconv-1200,8,Affirmation and Reassurance,Question,Question
+esconv-1200:10,esconv-1200,10,Providing Suggestions,Question,Providing Suggestions
+esconv-1200:12,esconv-1200,12,Reflection of feelings,Question,Providing Suggestions
+esconv-1200:14,esconv-1200,14,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1200:16,esconv-1200,16,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1200:18,esconv-1200,18,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1200:20,esconv-1200,20,Others,Question,Others
+esconv-1200:22,esconv-1200,22,Self-disclosure,Question,Others
+esconv-1200:24,esconv-1200,24,Others,Question,Others
+esconv-1210:4,esconv-1210,4,Restatement or Paraphrasing,Question,Question
+esconv-1210:6,esconv-1210,6,Affirmation and Reassurance,Question,Question
+esconv-1210:8,esconv-1210,8,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-1210:10,esconv-1210,10,Self-disclosure,Question,Affirmation and Reassurance
+esconv-1210:12,esconv-1210,12,Others,Question,Providing Suggestions
+esconv-1210:14,esconv-1210,14,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1210:16,esconv-1210,16,Others,Question,Providing Suggestions
+esconv-1210:18,esconv-1210,18,Self-disclosure,Question,Providing Suggestions
+esconv-1210:20,esconv-1210,20,Others,Question,Affirmation and Reassurance
+esconv-1210:22,esconv-1210,22,Others,Question,Others
+esconv-1213:1,esconv-1213,1,Others,Question,Question
+esconv-1213:3,esconv-1213,3,Question,Question,Question
+esconv-1213:5,esconv-1213,5,Affirmation and Reassurance,Question,Question
+esconv-1213:7,esconv-1213,7,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-1213:9,esconv-1213,9,Reflection of feelings,Question,Providing Suggestions
+esconv-1213:11,esconv-1213,11,Self-disclosure,Question,Affirmation and Reassurance
+esconv-1213:13,esconv-1213,13,Information,Question,Affirmation and Reassurance
+esconv-1213:16,esconv-1213,16,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1213:17,esconv-1213,17,Others,Question,Affirmation and Reassurance
+esconv-1215:2,esconv-1215,2,Question,Question,Question
+esconv-1215:4,esconv-1215,4,Question,Question,Question
+esconv-1215:6,esconv-1215,6,Question,Question,Question
+esconv-1215:8,esconv-1215,8,Question,Question,Affirmation and Reassurance
+esconv-1215:10,esconv-1215,10,Question,Question,Providing Suggestions
+esconv-1215:12,esconv-1215,12,Question,Question,Providing Suggestions
+esconv-1215:14,esconv-1215,14,Question,Question,Providing Suggestions
+esconv-1215:16,esconv-1215,16,Question,Question,Providing Suggestions
+esconv-1215:18,esconv-1215,18,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1215:20,esconv-1215,20,Others,Question,Others
+esconv-1216:3,esconv-1216,3,Question,Question,Question
+esconv-1216:5,esconv-1216,5,Restatement or Paraphrasing,Question,Question
+esconv-1216:7,esconv-1216,7,Restatement or Paraphrasing,Question,Question
+esconv-1216:9,esconv-1216,9,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-1216:11,esconv-1216,11,Self-disclosure,Question,Providing Suggestions
+esconv-1216:15,esconv-1216,15,Others,Question,Providing Suggestions
+esconv-1216:17,esconv-1216,17,Others,Question,Providing Suggestions
+esconv-1216:20,esconv-1216,20,Restatement or Paraphrasing,Question,Others
+esconv-1216:22,esconv-1216,22,Others,Question,Providing Suggestions
+esconv-1216:24,esconv-1216,24,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1216:26,esconv-1216,26,Others,Question,Affirmation and Reassurance
+esconv-1216:28,esconv-1216,28,Others,Question,Others
+esconv-1225:1,esconv-1225,1,Others,Question,Others
+esconv-1225:3,esconv-1225,3,Question,Question,Question
+esconv-1225:5,esconv-1225,5,Restatement or Paraphrasing,Question,Question
+esconv-1225:7,esconv-1225,7,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1225:8,esconv-1225,8,Question,Question,Providing Suggestions
+esconv-1225:10,esconv-1225,10,Reflection of feelings,Question,Providing Suggestions
+esconv-1225:11,esconv-1225,11,Question,Question,Providing Suggestions
+esconv-1225:15,esconv-1225,15,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1225:16,esconv-1225,16,Providing Suggestions,Question,Providing Suggestions
+esconv-1225:19,esconv-1225,19,Providing Suggestions,Question,Providing Suggestions
+esconv-1225:21,esconv-1225,21,Providing Suggestions,Question,Providing Suggestions
+esconv-1225:22,esconv-1225,22,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1225:23,esconv-1225,23,Others,Question,Others
+esconv-1225:26,esconv-1225,26,Others,Question,Others
+esconv-1225:29,esconv-1225,29,Others,Question,Others
+esconv-1225:31,esconv-1225,31,Others,Question,Others
+esconv-1240:2,esconv-1240,2,Information,Question,Question
+esconv-1240:4,esconv-1240,4,Others,Question,Question
+esconv-1240:5,esconv-1240,5,Others,Question,Question
+esconv-1240:7,esconv-1240,7,Others,Question,Others
+esconv-1240:10,esconv-1240,10,Restatement or Paraphrasing,Question,Question
+esconv-1240:11,esconv-1240,11,Information,Question,Question
+esconv-1240:14,esconv-1240,14,Providing Suggestions,Question,Question
+esconv-1240:15,esconv-1240,15,Providing Suggestions,Question,Providing Suggestions
+esconv-1240:16,esconv-1240,16,Others,Question,Providing Suggestions
+esconv-1240:18,esconv-1240,18,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1240:20,esconv-1240,20,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-1240:21,esconv-1240,21,Others,Question,Providing Suggestions
+esconv-1240:23,esconv-1240,23,Reflection of feelings,Question,Others
+esconv-1240:24,esconv-1240,24,Question,Question,Others
+esconv-1240:27,esconv-1240,27,Others,Question,Question
+esconv-1240:28,esconv-1240,28,Providing Suggestions,Question,Question
+esconv-1240:30,esconv-1240,30,Others,Question,Question
+esconv-1240:32,esconv-1240,32,Others,Question,Others
+esconv-1240:34,esconv-1240,34,Affirmation and Reassurance,Question,Others
+esconv-1240:36,esconv-1240,36,Others,Question,Others
+esconv-1240:38,esconv-1240,38,Others,Question,Others
+esconv-1240:40,esconv-1240,40,Information,Question,Others
+esconv-1244:1,esconv-1244,1,Others,Question,Question
+esconv-1244:3,esconv-1244,3,Question,Question,Question
+esconv-1244:5,esconv-1244,5,Restatement or Paraphrasing,Question,Question
+esconv-1244:6,esconv-1244,6,Question,Question,Affirmation and Reassurance
+esconv-1244:7,esconv-1244,7,Question,Question,Affirmation and Reassurance
+esconv-1244:10,esconv-1244,10,Reflection of feelings,Question,Reflection of feelings
+esconv-1244:12,esconv-1244,12,Providing Suggestions,Question,Question
+esconv-1244:14,esconv-1244,14,Restatement or Paraphrasing,Question,Question
+esconv-1244:16,esconv-1244,16,Question,Question,Question
+esconv-1244:19,esconv-1244,19,Reflection of feelings,Question,Providing Suggestions
+esconv-1244:22,esconv-1244,22,Providing Suggestions,Question,Providing Suggestions
+esconv-1244:24,esconv-1244,24,Reflection of feelings,Question,Affirmation and Reassurance
+esconv-1244:25,esconv-1244,25,Question,Question,Affirmation and Reassurance
+esconv-1244:27,esconv-1244,27,Question,Question,Affirmation and Reassurance
+esconv-1244:29,esconv-1244,29,Restatement or Paraphrasing,Question,Affirmation and Reassurance
+esconv-1244:32,esconv-1244,32,Question,Question,Providing Suggestions
+esconv-1244:36,esconv-1244,36,Question,Question,Providing Suggestions
+esconv-1244:38,esconv-1244,38,Providing Suggestions,Question,Providing Suggestions
+esconv-1244:40,esconv-1244,40,Reflection of feelings,Question,Others
+esconv-1244:42,esconv-1244,42,Question,Question,Others
+esconv-1244:45,esconv-1244,45,Self-disclosure,Question,Others
+esconv-1244:47,esconv-1244,47,Question,Question,Providing Suggestions
+esconv-1244:51,esconv-1244,51,Providing Suggestions,Question,Others
+esconv-1244:54,esconv-1244,54,Others,Question,Others
+esconv-1244:55,esconv-1244,55,Reflection of feelings,Question,Others
+esconv-1244:58,esconv-1244,58,Self-disclosure,Question,Others
+esconv-1244:61,esconv-1244,61,Question,Question,Others
+esconv-1244:62,esconv-1244,62,Others,Question,Others
+esconv-1244:64,esconv-1244,64,Others,Question,Others
+esconv-1244:66,esconv-1244,66,Question,Question,Others
+esconv-1244:67,esconv-1244,67,Providing Suggestions,Question,Others
+esconv-1244:70,esconv-1244,70,Others,Question,Others
+esconv-1251:2,esconv-1251,2,Question,Question,Question
+esconv-1251:4,esconv-1251,4,Restatement or Paraphrasing,Question,Question
+esconv-1251:6,esconv-1251,6,Question,Question,Affirmation and Reassurance
+esconv-1251:8,esconv-1251,8,Information,Question,Providing Suggestions
+esconv-1251:10,esconv-1251,10,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1251:12,esconv-1251,12,Question,Question,Providing Suggestions
+esconv-1251:14,esconv-1251,14,Self-disclosure,Question,Providing Suggestions
+esconv-1251:16,esconv-1251,16,Providing Suggestions,Question,Others
+esconv-1251:18,esconv-1251,18,Affirmation and Reassurance,Question,Others
+esconv-1251:20,esconv-1251,20,Others,Question,Others
+esconv-1251:22,esconv-1251,22,Others,Question,Others
+esconv-1276:1,esconv-1276,1,Question,Question,Question
+esconv-1276:4,esconv-1276,4,Others,Question,Others
+esconv-1276:9,esconv-1276,9,Affirmation and Reassurance,Question,Affirmation and Reassurance
+esconv-1276:10,esconv-1276,10,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1276:11,esconv-1276,11,Providing Suggestions,Question,Providing Suggestions
+esconv-1276:18,esconv-1276,18,Others,Question,Affirmation and Reassurance
+esconv-1276:20,esconv-1276,20,Others,Question,Affirmation and Reassurance
+esconv-1276:21,esconv-1276,21,Providing Suggestions,Question,Providing Suggestions
+esconv-1276:22,esconv-1276,22,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1276:25,esconv-1276,25,Providing Suggestions,Question,Providing Suggestions
+esconv-1276:26,esconv-1276,26,Providing Suggestions,Question,Providing Suggestions
+esconv-1276:28,esconv-1276,28,Providing Suggestions,Question,Providing Suggestions
+esconv-1276:29,esconv-1276,29,Affirmation and Reassurance,Question,Providing Suggestions
+esconv-1276:33,esconv-1276,33,Affirmation and Reassurance,Question,Others
+esconv-1276:35,esconv-1276,35,Others,Question,Others
+esconv-1278:2,esconv-1278,2,Question,Question,Question
+esconv-1278:5,esconv-1278,5,Others,Question,Question
+esconv-1278:7,esconv-1278,7,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-1278:9,esconv-1278,9,Question,Question,Affirmation and Reassurance
+esconv-1278:11,esconv-1278,11,Question,Question,Providing Suggestions
+esconv-1278:13,esconv-1278,13,Providing Suggestions,Question,Providing Suggestions
+esconv-1278:15,esconv-1278,15,Others,Question,Providing Suggestions
+esconv-1278:16,esconv-1278,16,Self-disclosure,Question,Providing Suggestions
+esconv-1278:18,esconv-1278,18,Information,Question,Providing Suggestions
+esconv-1278:20,esconv-1278,20,Restatement or Paraphrasing,Question,Providing Suggestions
+esconv-1278:22,esconv-1278,22,Others,Question,Providing Suggestions
+esconv-1278:25,esconv-1278,25,Others,Question,Others
+esconv-1278:27,esconv-1278,27,Providing Suggestions,Question,Others
+esconv-1278:28,esconv-1278,28,Providing Suggestions,Question,Others
+esconv-1278:29,esconv-1278,29,Others,Question,Others
+esconv-1287:1,esconv-1287,1,Question,Question,Question
+esconv-1287:3,esconv-1287,3,Question,Question,Providing Suggestions
+esconv-1287:5,esconv-1287,5,Information,Question,Providing Suggestions
+esconv-1287:7,esconv-1287,7,Providing Suggestions,Question,Providing Suggestions
+esconv-1287:9,esconv-1287,9,Information,Question,Providing Suggestions
+esconv-1287:11,esconv-1287,11,Providing Suggestions,Question,Providing Suggestions
+esconv-1287:13,esconv-1287,13,Providing Suggestions,Question,Affirmation and Reassurance
+esconv-1287:15,esconv-1287,15,Reflection of feelings,Question,Providing Suggestions
+esconv-1287:16,esconv-1287,16,Information,Question,Providing Suggestions
+esconv-1287:18,esconv-1287,18,Others,Question,Providing Suggestions

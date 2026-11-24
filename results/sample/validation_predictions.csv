@@ -1,0 +1,13 @@
+example_id,conversation_id,target_index,true_label,majority,logistic_tfidf
+esconv-0027:1,esconv-0027,1,Question,Question,Question
+esconv-0076:1,esconv-0076,1,Question,Question,Question
+esconv-0216:1,esconv-0216,1,Question,Question,Question
+esconv-0544:1,esconv-0544,1,Question,Question,Question
+esconv-0578:1,esconv-0578,1,Question,Question,Question
+esconv-0701:1,esconv-0701,1,Question,Question,Question
+esconv-0837:1,esconv-0837,1,Information,Question,Question
+esconv-0990:1,esconv-0990,1,Question,Question,Question
+esconv-1067:1,esconv-1067,1,Question,Question,Question
+esconv-1182:1,esconv-1182,1,Reflection of feelings,Question,Question
+esconv-1223:1,esconv-1223,1,Others,Question,Question
+esconv-1247:1,esconv-1247,1,Question,Question,Question
